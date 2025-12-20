@@ -1,0 +1,54 @@
+{
+  "description": "Mag 7 公司過去5年財報數據 (10-K 和 10-Q)",
+  "tickers": {
+    "AAPL": "Apple Inc.",
+    "MSFT": "Microsoft Corporation",
+    "GOOGL": "Alphabet Inc.",
+    "AMZN": "Amazon.com Inc.",
+    "NVDA": "NVIDIA Corporation",
+    "META": "Meta Platforms Inc.",
+    "TSLA": "Tesla Inc."
+  },
+  "last_updated": "2025-12-21T01:52:51.024547",
+  "data_structure": {
+    "file_pattern": "mag7_financials/{TICKER}/{TICKER}_financials.json",
+    "example": "mag7_financials/AAPL/AAPL_financials.json"
+  },
+  "files": [
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/AAPL/AAPL_financials.json"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/MSFT/MSFT_financials.json"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/GOOGL/GOOGL_financials.json"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/AMZN/AMZN_financials.json"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/NVDA/NVDA_financials.json"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/META/META_financials.json"
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/mag7_financials/TSLA/TSLA_financials.json"
+    }
+  ]
+}
