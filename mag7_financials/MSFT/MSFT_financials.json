@@ -1,0 +1,11 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft Corporation",
+  "data_range": {
+    "start_date": "2020-12-22",
+    "end_date": "2025-12-21"
+  },
+  "total_filings": 0,
+  "last_updated": "2025-12-21T01:10:28.967865",
+  "filings": []
+}
