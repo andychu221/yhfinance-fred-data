@@ -1,5 +1,5 @@
 {
-  "description": "Mag 7 公司過去5年季報財報數據",
+  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據",
   "tickers": {
     "AAPL": "Apple Inc.",
     "MSFT": "Microsoft Corporation",
@@ -9,20 +9,19 @@
     "META": "Meta Platforms Inc.",
     "TSLA": "Tesla Inc."
   },
-  "last_updated": "2025-12-21T20:12:10.836834",
+  "last_updated": "2025-12-21T20:13:05.504561",
   "data_structure": {
     "file_pattern": "us_financials/{TICKER}.json",
     "example": "us_financials/AAPL.json",
     "format": {
-      "company": "公司名稱",
-      "cik": "CIK 號碼",
-      "statement_type": "income_statement | balance_sheet | cash_flow",
-      "period": "財報期間 (如 Q3 2025)",
-      "currency": "貨幣單位",
+      "order": "項目在財報中的順序",
+      "statement_type": "income_statement | balance_sheet | cash_flow | income_statement_annual | balance_sheet_annual | cash_flow_annual",
+      "period": "財報期間 (如 Q3 2025 或 FY 2024)",
       "label": "科目名稱",
       "depth": "階層深度",
       "is_total": "是否為小計/總計",
-      "value": "數值"
+      "value": "數值",
+      "filing_date": "提交日期 (YYYY-MM-DD)"
     }
   },
   "files": [
