@@ -1,0 +1,65 @@
+{
+  "description": "Mag 7 公司過去5年季報財報數據",
+  "tickers": {
+    "AAPL": "Apple Inc.",
+    "MSFT": "Microsoft Corporation",
+    "GOOGL": "Alphabet Inc.",
+    "AMZN": "Amazon.com Inc.",
+    "NVDA": "NVIDIA Corporation",
+    "META": "Meta Platforms Inc.",
+    "TSLA": "Tesla Inc."
+  },
+  "last_updated": "2025-12-21T15:47:12.340917",
+  "data_structure": {
+    "file_pattern": "us_financials/{TICKER}.json",
+    "example": "us_financials/AAPL.json",
+    "format": {
+      "company": "公司名稱",
+      "cik": "CIK 號碼",
+      "statement_type": "income_statement | balance_sheet | cash_flow",
+      "period": "財報期間 (如 Q3 2025)",
+      "currency": "貨幣單位",
+      "label": "科目名稱",
+      "depth": "階層深度",
+      "is_total": "是否為小計/總計",
+      "value": "數值"
+    }
+  },
+  "files": [
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AAPL.json"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MSFT.json"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/GOOGL.json"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AMZN.json"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/NVDA.json"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/META.json"
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/TSLA.json"
+    }
+  ]
+}
