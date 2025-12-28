@@ -9,7 +9,7 @@
     "META": "Meta Platforms Inc.",
     "TSLA": "Tesla Inc."
   },
-  "last_updated": "2025-12-28T16:02:51.941703",
+  "last_updated": "2025-12-28T17:15:38.864048",
   "data_structure": {
     "file_pattern": "us_financials/{TICKER}.json",
     "example": "us_financials/AAPL.json",
