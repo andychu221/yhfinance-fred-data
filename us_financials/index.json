@@ -1,5 +1,5 @@
 {
-  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據",
+  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據，包含計算的第四季數據",
   "tickers": {
     "AAPL": "Apple Inc.",
     "MSFT": "Microsoft Corporation",
@@ -9,19 +9,23 @@
     "META": "Meta Platforms Inc.",
     "TSLA": "Tesla Inc."
   },
-  "last_updated": "2025-12-21T22:50:18.961455",
+  "last_updated": "2025-12-28T16:02:51.941703",
   "data_structure": {
     "file_pattern": "us_financials/{TICKER}.json",
     "example": "us_financials/AAPL.json",
     "format": {
       "order": "項目在財報中的順序",
-      "statement_type": "income_statement | balance_sheet | cash_flow | income_statement_annual | balance_sheet_annual | cash_flow_annual",
-      "period": "財報期間 (如 Q3 2025 或 FY 2024)",
+      "statement_type": "income_statement | balance_sheet | cash_flow | income_statement_annual | balance_sheet_annual | cash_flow_annual | income_statement_q4 | cash_flow_q4",
+      "period": "財報期間 (如 Q3 2025 或 FY 2024 或 Q4 2024)",
       "label": "科目名稱",
       "depth": "階層深度",
       "is_total": "是否為小計/總計",
       "value": "數值",
       "filing_date": "提交日期 (YYYY-MM-DD)"
+    },
+    "notes": {
+      "q4_calculation": "Q4 數據由年報減去前三季累積值計算而得 (僅適用於損益表和現金流量表)",
+      "balance_sheet": "資產負債表為時點數據，不計算 Q4"
     }
   },
   "files": [
