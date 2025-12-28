@@ -9,13 +9,15 @@
     "META": "Meta Platforms Inc.",
     "TSLA": "Tesla Inc."
   },
-  "last_updated": "2025-12-28T21:23:14.526822",
+  "last_updated": "2025-12-28T22:26:29.752439",
   "data_structure": {
     "file_pattern": "us_financials/{TICKER}.json",
     "format": {
       "period": "財報期間",
       "filing_date": "提交日期",
-      "report_date": "財報截止日期 (New)"
+      "report_date": "財報截止日期",
+      "balance_sheet_q4": "與 Annual 數據相同 (Snapshot)",
+      "cash_flow_q4": "由 Annual - Q1 - Q2 - Q3 (Flow) 計算得出"
     }
   },
   "files": [
