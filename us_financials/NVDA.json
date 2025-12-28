@@ -3,8 +3,8 @@
     "ticker": "NVDA",
     "company": "NVIDIA Corporation",
     "cik": "1045810",
-    "total_records": 2915,
-    "last_updated": "2025-12-28T17:15:18.189488",
+    "total_records": 3045,
+    "last_updated": "2025-12-28T17:54:41.975287",
     "periods_quarterly": 20,
     "periods_annual": 5,
     "currency": "USD",
@@ -26057,6 +26057,1306 @@
     },
     {
       "order": 0,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 10609000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 5312000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 2218000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 2643000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 1846000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 975000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 710000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 625000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 563000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 505000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 24033000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 13615000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 1256000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 2970000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 1507000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Other Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": 734000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Other Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": 259000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Other Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": -19000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Other Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": -54000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Other Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": 10000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 25217000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 14106000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 1288000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 2865000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 3126000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 1820000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": -126000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": -137000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 14000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 22091000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 12286000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 1414000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 3002000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 1457000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.8999999999999999,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 10.600000000000001,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.5799999999999998,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 1.2000000000000004,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 4.739999999999999,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.8899999999999999,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 10.49,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.5700000000000001,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 1.18,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 4.65,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 155000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 143000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 181000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": -230000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 147000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.010000000000000004,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.11199999999999999,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.03999999999999999,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 10609000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 5312000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 2218000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 2643000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 1846000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Gain (Loss) on Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": 395000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Gain (Loss) on Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": 231000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Gain (Loss) on Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": 31000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Gain (Loss) on Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": -318000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Gain (Loss) on Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 28722000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 16791000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 3833000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 5000000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 3157000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": null,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 64000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 61000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 52000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 511000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 295000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 115000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 10000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": 1184000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": 491000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": 32000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": -105000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Nonoperating Income (Expense)",
+      "depth": 1,
+      "is_total": false,
+      "value": -36000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Operating Expenses",
+      "depth": 1,
+      "is_total": false,
+      "value": 4689000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Operating Expenses",
+      "depth": 1,
+      "is_total": false,
+      "value": 3176000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Operating Expenses",
+      "depth": 1,
+      "is_total": false,
+      "value": 2577000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Operating Expenses",
+      "depth": 1,
+      "is_total": false,
+      "value": 2030000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Operating Expenses",
+      "depth": 1,
+      "is_total": false,
+      "value": 1650000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2025",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 3714000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2024",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 2466000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2023",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1952000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2022",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1467000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_q4",
+      "period": "Q4 2021",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1145000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
+      "order": 0,
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -26862,7 +28162,7 @@
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
       "depth": 2,
       "is_total": false,
-      "value": null,
+      "value": -3279000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -26872,7 +28172,7 @@
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
       "depth": 2,
       "is_total": false,
-      "value": null,
+      "value": -845000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -26882,7 +28182,7 @@
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
       "depth": 2,
       "is_total": false,
-      "value": null,
+      "value": -1025000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -26892,7 +28192,7 @@
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
       "depth": 2,
       "is_total": false,
-      "value": null,
+      "value": -698000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -26902,7 +28202,7 @@
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
       "depth": 2,
       "is_total": false,
-      "value": null,
+      "value": -414000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -26912,7 +28212,7 @@
       "label": "Payments for Repurchase of Common Stock",
       "depth": 2,
       "is_total": false,
-      "value": 23497000000.0,
+      "value": -14827000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -26922,7 +28222,7 @@
       "label": "Payments for Repurchase of Common Stock",
       "depth": 2,
       "is_total": false,
-      "value": 5905000000.0,
+      "value": -408000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -26932,7 +28232,7 @@
       "label": "Payments for Repurchase of Common Stock",
       "depth": 2,
       "is_total": false,
-      "value": 7539000000.0,
+      "value": -6124000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -26952,67 +28252,67 @@
       "label": "Payments for Repurchase of Common Stock",
       "depth": 2,
       "is_total": false,
-      "value": -1356000000.0,
-      "filing_date": "2021-02-26"
-    },
-    {
-      "order": 18,
-      "statement_type": "cash_flow_q4",
-      "period": "Q4 2025",
-      "label": "Net Cash Provided by (Used in) Financing Activities",
-      "depth": 2,
-      "is_total": true,
-      "value": -90892000000.0,
-      "filing_date": "2025-02-26"
-    },
-    {
-      "order": 18,
-      "statement_type": "cash_flow_q4",
-      "period": "Q4 2024",
-      "label": "Net Cash Provided by (Used in) Financing Activities",
-      "depth": 2,
-      "is_total": true,
-      "value": -23574000000.0,
-      "filing_date": "2024-02-21"
-    },
-    {
-      "order": 18,
-      "statement_type": "cash_flow_q4",
-      "period": "Q4 2023",
-      "label": "Net Cash Provided by (Used in) Financing Activities",
-      "depth": 2,
-      "is_total": true,
-      "value": -27780000000.0,
-      "filing_date": "2023-02-24"
-    },
-    {
-      "order": 18,
-      "statement_type": "cash_flow_q4",
-      "period": "Q4 2022",
-      "label": "Net Cash Provided by (Used in) Financing Activities",
-      "depth": 2,
-      "is_total": true,
-      "value": 1865000000.0,
-      "filing_date": "2022-03-18"
-    },
-    {
-      "order": 18,
-      "statement_type": "cash_flow_q4",
-      "period": "Q4 2021",
-      "label": "Net Cash Provided by (Used in) Financing Activities",
-      "depth": 2,
-      "is_total": true,
       "value": null,
       "filing_date": "2021-02-26"
     },
     {
+      "order": 18,
+      "statement_type": "cash_flow_q4",
+      "period": "Q4 2025",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 19061000000.0,
+      "filing_date": "2025-02-26"
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_q4",
+      "period": "Q4 2024",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 2230000000.0,
+      "filing_date": "2024-02-21"
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_q4",
+      "period": "Q4 2023",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 6998000000.0,
+      "filing_date": "2023-02-24"
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_q4",
+      "period": "Q4 2022",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -4304000000.0,
+      "filing_date": "2022-03-18"
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_q4",
+      "period": "Q4 2021",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -9533000000.0,
+      "filing_date": "2021-02-26"
+    },
+    {
       "order": 19,
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Dividends paid",
       "depth": 2,
       "is_total": false,
-      "value": 62254000000.0,
+      "value": -197000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -27022,7 +28322,7 @@
       "label": "Dividends paid",
       "depth": 2,
       "is_total": false,
-      "value": 16258000000.0,
+      "value": -199000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -27032,7 +28332,7 @@
       "label": "Dividends paid",
       "depth": 2,
       "is_total": false,
-      "value": 19013000000.0,
+      "value": -202000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -27042,7 +28342,7 @@
       "label": "Dividends paid",
       "depth": 2,
       "is_total": false,
-      "value": -5770000000.0,
+      "value": -196000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -27052,7 +28352,7 @@
       "label": "Dividends paid",
       "depth": 2,
       "is_total": false,
-      "value": -12942000000.0,
+      "value": -196000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -27062,7 +28362,7 @@
       "label": "Proceeds from (Payments for) Other Financing Activities",
       "depth": 2,
       "is_total": false,
-      "value": -1031000000.0,
+      "value": null,
       "filing_date": "2025-02-26"
     },
     {
@@ -27072,7 +28372,7 @@
       "label": "Proceeds from (Payments for) Other Financing Activities",
       "depth": 2,
       "is_total": false,
-      "value": -595000000.0,
+      "value": null,
       "filing_date": "2024-02-21"
     },
     {
@@ -27082,7 +28382,7 @@
       "label": "Proceeds from (Payments for) Other Financing Activities",
       "depth": 2,
       "is_total": false,
-      "value": -602000000.0,
+      "value": null,
       "filing_date": "2023-02-24"
     },
     {
@@ -27092,7 +28392,7 @@
       "label": "Proceeds from (Payments for) Other Financing Activities",
       "depth": 2,
       "is_total": false,
-      "value": -602000000.0,
+      "value": -1000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -27102,7 +28402,7 @@
       "label": "Proceeds from (Payments for) Other Financing Activities",
       "depth": 2,
       "is_total": false,
-      "value": -595000000.0,
+      "value": 5000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -27112,7 +28412,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
       "depth": 1,
       "is_total": true,
-      "value": null,
+      "value": -2116000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -27122,7 +28422,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
       "depth": 1,
       "is_total": true,
-      "value": null,
+      "value": -2422000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -27132,7 +28432,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
       "depth": 1,
       "is_total": true,
-      "value": null,
+      "value": -2331000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -27142,7 +28442,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
       "depth": 1,
       "is_total": true,
-      "value": 1149000000.0,
+      "value": -4210000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -27152,7 +28452,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
       "depth": 1,
       "is_total": true,
-      "value": -10040000000.0,
+      "value": 1620000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -27162,7 +28462,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
       "depth": 1,
       "is_total": false,
-      "value": 5164000000.0,
+      "value": -16676000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -27172,7 +28472,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
       "depth": 1,
       "is_total": false,
-      "value": 967000000.0,
+      "value": -9200000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -27182,7 +28482,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
       "depth": 1,
       "is_total": false,
-      "value": -341000000.0,
+      "value": -6311000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -27192,7 +28492,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
       "depth": 1,
       "is_total": false,
-      "value": -3363000000.0,
+      "value": -5904000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -27202,7 +28502,7 @@
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
       "depth": 1,
       "is_total": false,
-      "value": 12516000000.0,
+      "value": -20172000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -27662,7 +28962,7 @@
       "label": "Gain (Loss) on Investments",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": 395000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -27672,7 +28972,7 @@
       "label": "Gain (Loss) on Investments",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": 231000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -27682,7 +28982,7 @@
       "label": "Gain (Loss) on Investments",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": 31000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -27692,7 +28992,7 @@
       "label": "Gain (Loss) on Investments",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": -318000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -27712,7 +29012,7 @@
       "label": "Goodwill",
       "depth": 1,
       "is_total": false,
-      "value": 4553000000.0,
+      "value": null,
       "filing_date": "2025-02-26"
     },
     {
@@ -27722,7 +29022,7 @@
       "label": "Goodwill",
       "depth": 1,
       "is_total": false,
-      "value": 4423000000.0,
+      "value": null,
       "filing_date": "2024-02-21"
     },
     {
@@ -27732,7 +29032,7 @@
       "label": "Goodwill",
       "depth": 1,
       "is_total": false,
-      "value": 4448000000.0,
+      "value": null,
       "filing_date": "2023-02-24"
     },
     {
@@ -27742,7 +29042,7 @@
       "label": "Goodwill",
       "depth": 1,
       "is_total": false,
-      "value": 3931000000.0,
+      "value": null,
       "filing_date": "2022-03-18"
     },
     {
@@ -27752,7 +29052,7 @@
       "label": "Goodwill",
       "depth": 1,
       "is_total": false,
-      "value": 4210000000.0,
+      "value": null,
       "filing_date": "2021-02-26"
     },
     {
@@ -28162,7 +29462,7 @@
       "label": "Other Nonoperating Income (Expense)",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": 734000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -28172,7 +29472,7 @@
       "label": "Other Nonoperating Income (Expense)",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": 259000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -28182,7 +29482,7 @@
       "label": "Other Nonoperating Income (Expense)",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": -19000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -28192,7 +29492,7 @@
       "label": "Other Nonoperating Income (Expense)",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": -54000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -28202,7 +29502,7 @@
       "label": "Other Nonoperating Income (Expense)",
       "depth": 1,
       "is_total": false,
-      "value": null,
+      "value": 10000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -28212,7 +29512,7 @@
       "label": "Payments of Dividends",
       "depth": 1,
       "is_total": false,
-      "value": 534000000.0,
+      "value": -99000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -28222,7 +29522,7 @@
       "label": "Payments of Dividends",
       "depth": 1,
       "is_total": false,
-      "value": 417000000.0,
+      "value": 98000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -28232,7 +29532,7 @@
       "label": "Payments of Dividends",
       "depth": 1,
       "is_total": false,
-      "value": 427000000.0,
+      "value": 98000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -28242,7 +29542,7 @@
       "label": "Payments of Dividends",
       "depth": 1,
       "is_total": false,
-      "value": 238000000.0,
+      "value": 100000000.0,
       "filing_date": "2022-03-18"
     },
     {
@@ -28252,7 +29552,7 @@
       "label": "Payments of Dividends",
       "depth": 1,
       "is_total": false,
-      "value": 401000000.0,
+      "value": 1000000.0,
       "filing_date": "2021-02-26"
     },
     {
@@ -28262,7 +29562,7 @@
       "label": "Proceeds from Maturities, Prepayments and Calls of Debt Securities, Available-for-sale",
       "depth": 1,
       "is_total": false,
-      "value": 10262000000.0,
+      "value": -10392000000.0,
       "filing_date": "2025-02-26"
     },
     {
@@ -28272,7 +29572,7 @@
       "label": "Proceeds from Maturities, Prepayments and Calls of Debt Securities, Available-for-sale",
       "depth": 1,
       "is_total": false,
-      "value": 9435000000.0,
+      "value": -5892000000.0,
       "filing_date": "2024-02-21"
     },
     {
@@ -28282,7 +29582,7 @@
       "label": "Proceeds from Maturities, Prepayments and Calls of Debt Securities, Available-for-sale",
       "depth": 1,
       "is_total": false,
-      "value": 19125000000.0,
+      "value": -14297000000.0,
       "filing_date": "2023-02-24"
     },
     {
@@ -28292,7 +29592,7 @@
       "label": "Proceeds from Maturities, Prepayments and Calls of Debt Securities, Available-for-sale",
       "depth": 1,
       "is_total": false,
-      "value": 14898000000.0,
+      "value": -959000000.0,
       "filing_date": "2022-03-18"
     },
     {
