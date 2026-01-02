@@ -85,7 +85,7 @@
       "ticker": "^GDAXI",
       "name": "DAX",
       "ric": ".GDAXI",
-      "lastClose": 24563.66015625,
+      "lastClose": 24567.01953125,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -103,7 +103,7 @@
       "ticker": "^FCHI",
       "name": "CAC40",
       "ric": ".FCHI",
-      "lastClose": 8180.7099609375,
+      "lastClose": 8184.18994140625,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -366,10 +366,10 @@
       "ticker": "ASML.AS",
       "name": "ASML",
       "ric": "ASML.AS",
-      "lastClose": 968,
+      "lastClose": 968.0999755859375,
       "sharesOutstanding": "388.15M",
       "float": "387.18M",
-      "marketCap": 375729200000
+      "marketCap": 375768005523.68164
     },
     {
       "ticker": "IFX.DE",
@@ -586,7 +586,7 @@
       "ticker": "2YY=F",
       "name": "UST 2Y",
       "ric": "US2YT=RR",
-      "lastClose": 3.4579999446868896,
+      "lastClose": 0,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -604,7 +604,7 @@
       "ticker": "^TNX",
       "name": "UST 10Y",
       "ric": "US10YT=RR",
-      "lastClose": 4.158999919891357,
+      "lastClose": 4.1610002517700195,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -613,7 +613,7 @@
       "ticker": "^TYX",
       "name": "UST 30Y",
       "ric": "US30YT=RR",
-      "lastClose": 4.843999862670898,
+      "lastClose": 4.845999717712402,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -624,7 +624,7 @@
       "ticker": "DX-Y.NYB",
       "name": "DXY",
       "ric": ".DXY",
-      "lastClose": 98.39600372314453,
+      "lastClose": 98.4229965209961,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -633,7 +633,7 @@
       "ticker": "EURUSD=X",
       "name": "EUR=",
       "ric": "EUR=",
-      "lastClose": 1.172333002090454,
+      "lastClose": 1.1724703311920166,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -642,7 +642,7 @@
       "ticker": "JPY=X",
       "name": "JPY=",
       "ric": "JPY=",
-      "lastClose": 156.875,
+      "lastClose": 156.9239959716797,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -660,7 +660,7 @@
       "ticker": "KRW=X",
       "name": "KRW=",
       "ric": "KRW=",
-      "lastClose": 1443.6500244140625,
+      "lastClose": 1445.6400146484375,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -678,7 +678,7 @@
       "ticker": "HKD=X",
       "name": "HKD=",
       "ric": "HKD=",
-      "lastClose": 7.792399883270264,
+      "lastClose": 7.792200088500977,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -689,7 +689,7 @@
       "ticker": "CL=F",
       "name": "WTI Oil",
       "ric": "CLc1",
-      "lastClose": 56.939998626708984,
+      "lastClose": 56.959999084472656,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -698,7 +698,7 @@
       "ticker": "GC=F",
       "name": "Gold",
       "ric": "GCc1",
-      "lastClose": 4395.60009765625,
+      "lastClose": 4390.39990234375,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
