@@ -1,0 +1,399 @@
+{
+  "Equity_Index": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "ric": ".SPX"
+    },
+    {
+      "ticker": "^IXIC",
+      "name": "Nasdaq",
+      "ric": ".IXIC"
+    },
+    {
+      "ticker": "^SOX",
+      "name": "SOX",
+      "ric": ".SOX"
+    },
+    {
+      "ticker": "^DJI",
+      "name": "Dow Jones",
+      "ric": ".DJI"
+    },
+    {
+      "ticker": "^TWII",
+      "name": "TWSE",
+      "ric": ".TWII"
+    },
+    {
+      "ticker": "000001.SS",
+      "name": "SSE",
+      "ric": ".SSEC"
+    },
+    {
+      "ticker": "000300.SS",
+      "name": "CSI300",
+      "ric": ".CSI300"
+    },
+    {
+      "ticker": "^HSI",
+      "name": "HSI",
+      "ric": ".HSI"
+    },
+    {
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "ric": ".KS11"
+    },
+    {
+      "ticker": "^GDAXI",
+      "name": "DAX",
+      "ric": ".GDAXI"
+    },
+    {
+      "ticker": "^N225",
+      "name": "Nikkei",
+      "ric": ".N225"
+    },
+    {
+      "ticker": "^FCHI",
+      "name": "CAC40",
+      "ric": ".FCHI"
+    },
+    {
+      "ticker": "^NYA",
+      "name": "NYSE",
+      "ric": ".NYA"
+    }
+  ],
+  "US_Stocks": [
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "ric": "MSFT.O"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Google",
+      "ric": "GOOGL.O"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "ric": "AMZN.O"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "ric": "AAPL.O"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "ric": "NVDA.O"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "ric": "META.O"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "ric": "TSLA.O"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "ric": "AVGO.O"
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "ric": "AMD.O"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "ric": "QCOM.O"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "ric": "INTC.O"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "ric": "MU.O"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "ric": "NFLX.O"
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell",
+      "ric": "MRVL.O"
+    },
+    {
+      "ticker": "TSM",
+      "name": "TSMC ADR",
+      "ric": "TSM.N"
+    },
+    {
+      "ticker": "GFS",
+      "name": "GFS",
+      "ric": "GFS"
+    },
+    {
+      "ticker": "SWKS",
+      "name": "Skyworks",
+      "ric": "SWKS.O"
+    },
+    {
+      "ticker": "QRVO",
+      "name": "Qorvo",
+      "ric": "QRVO.O"
+    },
+    {
+      "ticker": "TSEM",
+      "name": "Tower Semi",
+      "ric": "TSEM.O"
+    },
+    {
+      "ticker": "ARM",
+      "name": "ARM",
+      "ric": "ARM.O"
+    },
+    {
+      "ticker": "NXPI",
+      "name": "NXP",
+      "ric": "NXPI.O"
+    },
+    {
+      "ticker": "ADI",
+      "name": "ADI",
+      "ric": "ADI.O"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "AMAT",
+      "ric": "AMAT.O"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLAC",
+      "ric": "KLAC.O"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco",
+      "ric": "CSCO.O"
+    },
+    {
+      "ticker": "BTDR",
+      "name": "Bitdeer",
+      "ric": "BTDR.O"
+    },
+    {
+      "ticker": "SIMO",
+      "name": "Silicon",
+      "ric": "SIMO.O"
+    },
+    {
+      "ticker": "ASML.AS",
+      "name": "ASML",
+      "ric": "ASML.AS"
+    },
+    {
+      "ticker": "IFX.DE",
+      "name": "Infineon",
+      "ric": "IFXGn.DE"
+    }
+  ],
+  "TW_Stocks": [
+    {
+      "ticker": "2330.TW",
+      "name": "TSMC",
+      "ric": "2330.TW"
+    },
+    {
+      "ticker": "2317.TW",
+      "name": "Hon Hai",
+      "ric": "2317.TW"
+    },
+    {
+      "ticker": "2454.TW",
+      "name": "MediaTek",
+      "ric": "2454.TW"
+    },
+    {
+      "ticker": "2308.TW",
+      "name": "Delta",
+      "ric": "2308.TW"
+    },
+    {
+      "ticker": "5347.TWO",
+      "name": "Vanguard",
+      "ric": "5347.TWO"
+    },
+    {
+      "ticker": "3443.TW",
+      "name": "GUC",
+      "ric": "3443.TW"
+    },
+    {
+      "ticker": "3374.TWO",
+      "name": "Xintec",
+      "ric": "3374.TWO"
+    },
+    {
+      "ticker": "6789.TW",
+      "name": "VisEra",
+      "ric": "6789.TW"
+    },
+    {
+      "ticker": "2303.TW",
+      "name": "UMC",
+      "ric": "2303.TW"
+    },
+    {
+      "ticker": "3034.TW",
+      "name": "Novatek",
+      "ric": "3034.TW"
+    },
+    {
+      "ticker": "3661.TW",
+      "name": "Alchip",
+      "ric": "3661.TW"
+    },
+    {
+      "ticker": "3035.TW",
+      "name": "Faraday",
+      "ric": "3035.TW"
+    },
+    {
+      "ticker": "0981.HK",
+      "name": "SMIC-H",
+      "ric": "0981.HK"
+    },
+    {
+      "ticker": "688981.SS",
+      "name": "SMIC-A",
+      "ric": "688981.SS"
+    },
+    {
+      "ticker": "603005.SS",
+      "name": "WLCSP",
+      "ric": "603005.SS"
+    },
+    {
+      "ticker": "603501.SS",
+      "name": "Willsemi",
+      "ric": "603501.SS"
+    },
+    {
+      "ticker": "6758.T",
+      "name": "Sony",
+      "ric": "6758.T"
+    },
+    {
+      "ticker": "6723.T",
+      "name": "Renesas",
+      "ric": "6723.T"
+    },
+    {
+      "ticker": "6526.T",
+      "name": "Socionext",
+      "ric": "6526.T"
+    },
+    {
+      "ticker": "005930.KS",
+      "name": "Samsung",
+      "ric": "005930.KS"
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK hynix",
+      "ric": "000660.KS"
+    }
+  ],
+  "US_Rates": [
+    {
+      "ticker": "^IRX",
+      "name": "UST 3M",
+      "ric": "US3MT=RR"
+    },
+    {
+      "ticker": "2YY=F",
+      "name": "UST 2Y",
+      "ric": "US2YT=RR"
+    },
+    {
+      "ticker": "^FVX",
+      "name": "UST 5Y",
+      "ric": "US5YT=RR"
+    },
+    {
+      "ticker": "^TNX",
+      "name": "UST 10Y",
+      "ric": "US10YT=RR"
+    },
+    {
+      "ticker": "^TYX",
+      "name": "UST 30Y",
+      "ric": "US30YT=RR"
+    }
+  ],
+  "FX": [
+    {
+      "ticker": "DX-Y.NYB",
+      "name": "DXY",
+      "ric": ".DXY"
+    },
+    {
+      "ticker": "EURUSD=X",
+      "name": "EUR=",
+      "ric": "EUR="
+    },
+    {
+      "ticker": "JPY=X",
+      "name": "JPY=",
+      "ric": "JPY="
+    },
+    {
+      "ticker": "TWD=X",
+      "name": "TWD=",
+      "ric": "TWD="
+    },
+    {
+      "ticker": "KRW=X",
+      "name": "KRW=",
+      "ric": "KRW="
+    },
+    {
+      "ticker": "CNY=X",
+      "name": "CNY=",
+      "ric": "CNY="
+    },
+    {
+      "ticker": "HKD=X",
+      "name": "HKD=",
+      "ric": "HKD="
+    }
+  ],
+  "Commodity": [
+    {
+      "ticker": "CL=F",
+      "name": "WTI Oil",
+      "ric": "CLc1"
+    },
+    {
+      "ticker": "GC=F",
+      "name": "Gold",
+      "ric": "GCc1"
+    }
+  ]
+}
