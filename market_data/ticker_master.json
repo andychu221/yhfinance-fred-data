@@ -3,705 +3,397 @@
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "ric": ".SPX",
-      "lastClose": 6845.5,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".SPX"
     },
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "ric": ".IXIC",
-      "lastClose": 23241.990234375,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".IXIC"
     },
     {
       "ticker": "^SOX",
       "name": "SOX",
-      "ric": ".SOX",
-      "lastClose": 7083.1298828125,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".SOX"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "ric": ".DJI",
-      "lastClose": 48063.2890625,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".DJI"
     },
     {
       "ticker": "^TWII",
       "name": "TWSE",
-      "ric": ".TWII",
-      "lastClose": 29349.810546875,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".TWII"
     },
     {
       "ticker": "000001.SS",
       "name": "SSE",
-      "ric": ".SSEC",
-      "lastClose": 3968.840087890625,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".SSEC"
     },
     {
       "ticker": "000300.SS",
       "name": "CSI300",
-      "ric": ".CSI300",
-      "lastClose": 4629.93994140625,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".CSI300"
     },
     {
       "ticker": "^HSI",
       "name": "HSI",
-      "ric": ".HSI",
-      "lastClose": 26338.470703125,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".HSI"
     },
     {
       "ticker": "^KS11",
       "name": "KOSPI",
-      "ric": ".KS11",
-      "lastClose": 4309.6298828125,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".KS11"
     },
     {
       "ticker": "^GDAXI",
       "name": "DAX",
-      "ric": ".GDAXI",
-      "lastClose": 24567.01953125,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".GDAXI"
     },
     {
       "ticker": "^N225",
       "name": "Nikkei",
-      "ric": ".N225",
-      "lastClose": 50339.48046875,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".N225"
     },
     {
       "ticker": "^FCHI",
       "name": "CAC40",
-      "ric": ".FCHI",
-      "lastClose": 8184.18994140625,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".FCHI"
     },
     {
       "ticker": "^NYA",
       "name": "NYSE",
-      "ric": ".NYA",
-      "lastClose": 22003.9296875,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".NYA"
     }
   ],
   "US_Stocks": [
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "ric": "MSFT.O",
-      "lastClose": 483.6199951171875,
-      "sharesOutstanding": "7.43B",
-      "float": "7.42B",
-      "marketCap": 3593296563720.703
+      "ric": "MSFT.O"
     },
     {
       "ticker": "GOOGL",
       "name": "Google",
-      "ric": "GOOGL.O",
-      "lastClose": 313,
-      "sharesOutstanding": "11.23B",
-      "float": "10.8B",
-      "marketCap": 3514990000000
+      "ric": "GOOGL.O"
     },
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "ric": "AMZN.O",
-      "lastClose": 230.82000732421875,
-      "sharesOutstanding": "10.69B",
-      "float": "9.7B",
-      "marketCap": 2467465878295.8984
+      "ric": "AMZN.O"
     },
     {
       "ticker": "AAPL",
       "name": "Apple",
-      "ric": "AAPL.O",
-      "lastClose": 271.8599853515625,
-      "sharesOutstanding": "14.78B",
-      "float": "14.75B",
-      "marketCap": 4018090583496.0938
+      "ric": "AAPL.O"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "ric": "NVDA.O",
-      "lastClose": 186.5,
-      "sharesOutstanding": "24.3B",
-      "float": "23.33B",
-      "marketCap": 4531950000000
+      "ric": "NVDA.O"
     },
     {
       "ticker": "META",
       "name": "Meta",
-      "ric": "META.O",
-      "lastClose": 660.0900268554688,
-      "sharesOutstanding": "2.18B",
-      "float": "2.17B",
-      "marketCap": 1438996258544.9219
+      "ric": "META.O"
     },
     {
       "ticker": "TSLA",
       "name": "Tesla",
-      "ric": "TSLA.O",
-      "lastClose": 449.7200012207031,
-      "sharesOutstanding": "3.33B",
-      "float": "2.39B",
-      "marketCap": 1497567604064.9414
+      "ric": "TSLA.O"
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom",
-      "ric": "AVGO.O",
-      "lastClose": 346.1000061035156,
-      "sharesOutstanding": "4.74B",
-      "float": "405.86M",
-      "marketCap": 1640514028930.664
+      "ric": "AVGO.O"
     },
     {
       "ticker": "AMD",
       "name": "AMD",
-      "ric": "AMD.O",
-      "lastClose": 214.16000366210938,
-      "sharesOutstanding": "1.63B",
-      "float": "1.62B",
-      "marketCap": 349080805969.2383
+      "ric": "AMD.O"
     },
     {
       "ticker": "QCOM",
       "name": "Qualcomm",
-      "ric": "QCOM.O",
-      "lastClose": 171.0500030517578,
-      "sharesOutstanding": "1.07B",
-      "float": "1.07B",
-      "marketCap": 183023503265.3809
+      "ric": "QCOM.O"
     },
     {
       "ticker": "INTC",
       "name": "Intel",
-      "ric": "INTC.O",
-      "lastClose": 36.900001525878906,
-      "sharesOutstanding": "4.77B",
-      "float": "4.76B",
-      "marketCap": 176013007278.44238
+      "ric": "INTC.O"
     },
     {
       "ticker": "MU",
       "name": "Micron",
-      "ric": "MU.O",
-      "lastClose": 285.4100036621094,
-      "sharesOutstanding": "1.13B",
-      "float": "1.12B",
-      "marketCap": 322513304138.1836
+      "ric": "MU.O"
     },
     {
       "ticker": "NFLX",
       "name": "Netflix",
-      "ric": "NFLX.O",
-      "lastClose": 93.76000213623047,
-      "sharesOutstanding": "4.24B",
-      "float": "4.21B",
-      "marketCap": 397542409057.6172
+      "ric": "NFLX.O"
     },
     {
       "ticker": "MRVL",
       "name": "Marvell",
-      "ric": "MRVL.O",
-      "lastClose": 84.9800033569336,
-      "sharesOutstanding": "848.1M",
-      "float": "845.11M",
-      "marketCap": 72071540847.01538
+      "ric": "MRVL.O"
     },
     {
       "ticker": "TSM",
       "name": "TSMC ADR",
-      "ric": "TSM.N",
-      "lastClose": 303.8900146484375,
-      "sharesOutstanding": "5.19B",
-      "float": "24.17B",
-      "marketCap": 1577189176025.3906
+      "ric": "TSM.N"
     },
     {
       "ticker": "GFS",
       "name": "GFS",
-      "ric": "GFS",
-      "lastClose": 34.91999816894531,
-      "sharesOutstanding": "555.68M",
-      "float": "105.25M",
-      "marketCap": 19404344582.51953
+      "ric": "GFS"
     },
     {
       "ticker": "SWKS",
       "name": "Skyworks",
-      "ric": "SWKS.O",
-      "lastClose": 63.40999984741211,
-      "sharesOutstanding": "149.93M",
-      "float": "147.82M",
-      "marketCap": 9507061277.122498
+      "ric": "SWKS.O"
     },
     {
       "ticker": "QRVO",
       "name": "Qorvo",
-      "ric": "QRVO.O",
-      "lastClose": 84.51000213623047,
-      "sharesOutstanding": "92.4M",
-      "float": "84M",
-      "marketCap": 7808724197.387695
+      "ric": "QRVO.O"
     },
     {
       "ticker": "TSEM",
       "name": "Tower Semi",
-      "ric": "TSEM.O",
-      "lastClose": 117.41999816894531,
-      "sharesOutstanding": "112.12M",
-      "float": "112.03M",
-      "marketCap": 13165130194.702148
+      "ric": "TSEM.O"
     },
     {
       "ticker": "ARM",
       "name": "ARM",
-      "ric": "ARM.O",
-      "lastClose": 109.30999755859375,
-      "sharesOutstanding": "1.06B",
-      "float": "135.8M",
-      "marketCap": 115868597412.10938
+      "ric": "ARM.O"
     },
     {
       "ticker": "NXPI",
       "name": "NXP",
-      "ric": "NXPI.O",
-      "lastClose": 217.05999755859375,
-      "sharesOutstanding": "251.67M",
-      "float": "251.23M",
-      "marketCap": 54627489585.57129
+      "ric": "NXPI.O"
     },
     {
       "ticker": "ADI",
       "name": "ADI",
-      "ric": "ADI.O",
-      "lastClose": 271.20001220703125,
-      "sharesOutstanding": "489.65M",
-      "float": "487.89M",
-      "marketCap": 132793085977.17285
+      "ric": "ADI.O"
     },
     {
       "ticker": "AMAT",
       "name": "AMAT",
-      "ric": "AMAT.O",
-      "lastClose": 256.989990234375,
-      "sharesOutstanding": "792.94M",
-      "float": "789.38M",
-      "marketCap": 203777642856.4453
+      "ric": "AMAT.O"
     },
     {
       "ticker": "KLAC",
       "name": "KLAC",
-      "ric": "KLAC.O",
-      "lastClose": 1215.0799560546875,
-      "sharesOutstanding": "131.39M",
-      "float": "131.08M",
-      "marketCap": 159649355426.02536
+      "ric": "KLAC.O"
     },
     {
       "ticker": "CSCO",
       "name": "Cisco",
-      "ric": "CSCO.O",
-      "lastClose": 77.02999877929688,
-      "sharesOutstanding": "3.95B",
-      "float": "3.94B",
-      "marketCap": 304268495178.22266
+      "ric": "CSCO.O"
     },
     {
       "ticker": "BTDR",
       "name": "Bitdeer",
-      "ric": "BTDR.O",
-      "lastClose": 11.210000038146973,
-      "sharesOutstanding": "177.34M",
-      "float": "110.63M",
-      "marketCap": 1987981406.7649841
+      "ric": "BTDR.O"
     },
     {
       "ticker": "SIMO",
       "name": "Silicon",
-      "ric": "SIMO.O",
-      "lastClose": 92.69999694824219,
-      "sharesOutstanding": "33.98M",
-      "float": "130.02M",
-      "marketCap": 3149945896.3012695
+      "ric": "SIMO.O"
     },
     {
       "ticker": "ASML.AS",
       "name": "ASML",
-      "ric": "ASML.AS",
-      "lastClose": 968.0999755859375,
-      "sharesOutstanding": "388.15M",
-      "float": "387.18M",
-      "marketCap": 375768005523.68164
+      "ric": "ASML.AS"
     },
     {
       "ticker": "IFX.DE",
       "name": "Infineon",
-      "ric": "IFXGn.DE",
-      "lastClose": 38.27000045776367,
-      "sharesOutstanding": "1.3B",
-      "float": "1.26B",
-      "marketCap": 49751000595.09277
+      "ric": "IFXGn.DE"
     }
   ],
   "TW_Stocks": [
     {
       "ticker": "2330.TW",
       "name": "TSMC",
-      "ric": "2330.TW",
-      "lastClose": 1585,
-      "sharesOutstanding": "25.93B",
-      "float": "24.17B",
-      "marketCap": 41099050000000
+      "ric": "2330.TW"
     },
     {
       "ticker": "2317.TW",
       "name": "Hon Hai",
-      "ric": "2317.TW",
-      "lastClose": 232,
-      "sharesOutstanding": "13.96B",
-      "float": "12.04B",
-      "marketCap": 3238720000000
+      "ric": "2317.TW"
     },
     {
       "ticker": "2454.TW",
       "name": "MediaTek",
-      "ric": "2454.TW",
-      "lastClose": 1470,
-      "sharesOutstanding": "1.6B",
-      "float": "1.42B",
-      "marketCap": 2352000000000
+      "ric": "2454.TW"
     },
     {
       "ticker": "2308.TW",
       "name": "Delta",
-      "ric": "2308.TW",
-      "lastClose": 995,
-      "sharesOutstanding": "2.6B",
-      "float": "1.82B",
-      "marketCap": 2587000000000
+      "ric": "2308.TW"
     },
     {
       "ticker": "5347.TWO",
       "name": "Vanguard",
-      "ric": "5347.TWO",
-      "lastClose": 92.30000305175781,
-      "sharesOutstanding": "2.11B",
-      "float": "1.05B",
-      "marketCap": 194753006439.20895
+      "ric": "5347.TWO"
     },
     {
       "ticker": "3443.TW",
       "name": "GUC",
-      "ric": "3443.TW",
-      "lastClose": 2185,
-      "sharesOutstanding": "134.01M",
-      "float": "82.46M",
-      "marketCap": 292811849999.99994
+      "ric": "3443.TW"
     },
     {
       "ticker": "3374.TWO",
       "name": "Xintec",
-      "ric": "3374.TWO",
-      "lastClose": 144,
-      "sharesOutstanding": "271.36M",
-      "float": "159.83M",
-      "marketCap": 39075840000
+      "ric": "3374.TWO"
     },
     {
       "ticker": "6789.TW",
       "name": "VisEra",
-      "ric": "6789.TW",
-      "lastClose": 279,
-      "sharesOutstanding": "318.3M",
-      "float": "103.63M",
-      "marketCap": 88805700000
+      "ric": "6789.TW"
     },
     {
       "ticker": "2303.TW",
       "name": "UMC",
-      "ric": "2303.TW",
-      "lastClose": 48.70000076293945,
-      "sharesOutstanding": "12.59B",
-      "float": "11.68B",
-      "marketCap": 613133009605.4077
+      "ric": "2303.TW"
     },
     {
       "ticker": "3034.TW",
       "name": "Novatek",
-      "ric": "3034.TW",
-      "lastClose": 367,
-      "sharesOutstanding": "608.51M",
-      "float": "573.22M",
-      "marketCap": 223323170000
+      "ric": "3034.TW"
     },
     {
       "ticker": "3661.TW",
       "name": "Alchip",
-      "ric": "3661.TW",
-      "lastClose": 3635,
-      "sharesOutstanding": "81.02M",
-      "float": "75.21M",
-      "marketCap": 294507700000
+      "ric": "3661.TW"
     },
     {
       "ticker": "3035.TW",
       "name": "Faraday",
-      "ric": "3035.TW",
-      "lastClose": 170.5,
-      "sharesOutstanding": "260.55M",
-      "float": "223.61M",
-      "marketCap": 44423775000
+      "ric": "3035.TW"
     },
     {
       "ticker": "0981.HK",
       "name": "SMIC-H",
-      "ric": "0981.HK",
-      "lastClose": 75.0999984741211,
-      "sharesOutstanding": "6B",
-      "float": "6.12B",
-      "marketCap": 450599990844.72656
+      "ric": "0981.HK"
     },
     {
       "ticker": "688981.SS",
       "name": "SMIC-A",
-      "ric": "688981.SS",
-      "lastClose": 122.83000183105469,
-      "sharesOutstanding": "2B",
-      "float": "6.12B",
-      "marketCap": 245660003662.10938
+      "ric": "688981.SS"
     },
     {
       "ticker": "603005.SS",
       "name": "WLCSP",
-      "ric": "603005.SS",
-      "lastClose": 27.65999984741211,
-      "sharesOutstanding": "652.17M",
-      "float": "543.27M",
-      "marketCap": 18039022100.486755
+      "ric": "603005.SS"
     },
     {
       "ticker": "603501.SS",
       "name": "Willsemi",
-      "ric": "603501.SS",
-      "lastClose": 125.9000015258789,
-      "sharesOutstanding": "1.21B",
-      "float": "812.08M",
-      "marketCap": 152339001846.31348
+      "ric": "603501.SS"
     },
     {
       "ticker": "6758.T",
       "name": "Sony",
-      "ric": "6758.T",
-      "lastClose": 4024,
-      "sharesOutstanding": "5.96B",
-      "float": "5.93B",
-      "marketCap": 23983040000000
+      "ric": "6758.T"
     },
     {
       "ticker": "6723.T",
       "name": "Renesas",
-      "ric": "6723.T",
-      "lastClose": 2140,
-      "sharesOutstanding": "1.81B",
-      "float": "1.66B",
-      "marketCap": 3873400000000
+      "ric": "6723.T"
     },
     {
       "ticker": "6526.T",
       "name": "Socionext",
-      "ric": "6526.T",
-      "lastClose": 2189.5,
-      "sharesOutstanding": "175.24M",
-      "float": "169.94M",
-      "marketCap": 383687980000
+      "ric": "6526.T"
     },
     {
       "ticker": "005930.KS",
       "name": "Samsung",
-      "ric": "005930.KS",
-      "lastClose": 128500,
-      "sharesOutstanding": "5.88B",
-      "float": "5.59B",
-      "marketCap": 755580000000000
+      "ric": "005930.KS"
     },
     {
       "ticker": "000660.KS",
       "name": "SK hynix",
-      "ric": "000660.KS",
-      "lastClose": 677000,
-      "sharesOutstanding": "690.46M",
-      "float": "542.68M",
-      "marketCap": 467441420000000
+      "ric": "000660.KS"
     }
   ],
   "US_Rates": [
     {
       "ticker": "^IRX",
       "name": "UST 3M",
-      "ric": "US3MT=RR",
-      "lastClose": 3.5349998474121094,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "US3MT=RR"
     },
     {
       "ticker": "2YY=F",
       "name": "UST 2Y",
-      "ric": "US2YT=RR",
-      "lastClose": 0,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "US2YT=RR"
     },
     {
       "ticker": "^FVX",
       "name": "UST 5Y",
-      "ric": "US5YT=RR",
-      "lastClose": 3.7150001525878906,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "US5YT=RR"
     },
     {
       "ticker": "^TNX",
       "name": "UST 10Y",
-      "ric": "US10YT=RR",
-      "lastClose": 4.1610002517700195,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "US10YT=RR"
     },
     {
       "ticker": "^TYX",
       "name": "UST 30Y",
-      "ric": "US30YT=RR",
-      "lastClose": 4.845999717712402,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "US30YT=RR"
     }
   ],
   "FX": [
     {
       "ticker": "DX-Y.NYB",
       "name": "DXY",
-      "ric": ".DXY",
-      "lastClose": 98.4229965209961,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": ".DXY"
     },
     {
       "ticker": "EURUSD=X",
       "name": "EUR=",
-      "ric": "EUR=",
-      "lastClose": 1.1724703311920166,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "EUR="
     },
     {
       "ticker": "JPY=X",
       "name": "JPY=",
-      "ric": "JPY=",
-      "lastClose": 156.9239959716797,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "JPY="
     },
     {
       "ticker": "TWD=X",
       "name": "TWD=",
-      "ric": "TWD=",
-      "lastClose": 31.415000915527344,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "TWD="
     },
     {
       "ticker": "KRW=X",
       "name": "KRW=",
-      "ric": "KRW=",
-      "lastClose": 1445.6400146484375,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "KRW="
     },
     {
       "ticker": "CNY=X",
       "name": "CNY=",
-      "ric": "CNY=",
-      "lastClose": 6.987500190734863,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "CNY="
     },
     {
       "ticker": "HKD=X",
       "name": "HKD=",
-      "ric": "HKD=",
-      "lastClose": 7.792200088500977,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "HKD="
     }
   ],
   "Commodity": [
     {
       "ticker": "CL=F",
       "name": "WTI Oil",
-      "ric": "CLc1",
-      "lastClose": 56.959999084472656,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "CLc1"
     },
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "ric": "GCc1",
-      "lastClose": 4390.39990234375,
-      "sharesOutstanding": null,
-      "float": null,
-      "marketCap": null
+      "ric": "GCc1"
     }
   ]
 }
