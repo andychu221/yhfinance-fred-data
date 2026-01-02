@@ -85,7 +85,7 @@
       "ticker": "^GDAXI",
       "name": "DAX",
       "ric": ".GDAXI",
-      "lastClose": 24573.349609375,
+      "lastClose": 24563.66015625,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -103,7 +103,7 @@
       "ticker": "^FCHI",
       "name": "CAC40",
       "ric": ".FCHI",
-      "lastClose": 8178,
+      "lastClose": 8180.7099609375,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -366,19 +366,19 @@
       "ticker": "ASML.AS",
       "name": "ASML",
       "ric": "ASML.AS",
-      "lastClose": 967.2000122070312,
+      "lastClose": 968,
       "sharesOutstanding": "388.15M",
       "float": "387.18M",
-      "marketCap": 375418684738.1592
+      "marketCap": 375729200000
     },
     {
       "ticker": "IFX.DE",
       "name": "Infineon",
       "ric": "IFXGn.DE",
-      "lastClose": 38.19499969482422,
+      "lastClose": 38.27000045776367,
       "sharesOutstanding": "1.3B",
       "float": "1.26B",
-      "marketCap": 49653499603.271484
+      "marketCap": 49751000595.09277
     }
   ],
   "TW_Stocks": [
@@ -577,7 +577,7 @@
       "ticker": "^IRX",
       "name": "UST 3M",
       "ric": "US3MT=RR",
-      "lastClose": 3.546999931335449,
+      "lastClose": 3.5349998474121094,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -595,7 +595,7 @@
       "ticker": "^FVX",
       "name": "UST 5Y",
       "ric": "US5YT=RR",
-      "lastClose": 3.7219998836517334,
+      "lastClose": 3.7150001525878906,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -604,7 +604,7 @@
       "ticker": "^TNX",
       "name": "UST 10Y",
       "ric": "US10YT=RR",
-      "lastClose": 4.163000106811523,
+      "lastClose": 4.158999919891357,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -613,7 +613,7 @@
       "ticker": "^TYX",
       "name": "UST 30Y",
       "ric": "US30YT=RR",
-      "lastClose": 4.840000152587891,
+      "lastClose": 4.843999862670898,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -624,7 +624,7 @@
       "ticker": "DX-Y.NYB",
       "name": "DXY",
       "ric": ".DXY",
-      "lastClose": 98.4219970703125,
+      "lastClose": 98.39600372314453,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -633,7 +633,7 @@
       "ticker": "EURUSD=X",
       "name": "EUR=",
       "ric": "EUR=",
-      "lastClose": 1.1731581687927246,
+      "lastClose": 1.172333002090454,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -642,7 +642,7 @@
       "ticker": "JPY=X",
       "name": "JPY=",
       "ric": "JPY=",
-      "lastClose": 156.86000061035156,
+      "lastClose": 156.875,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -651,7 +651,7 @@
       "ticker": "TWD=X",
       "name": "TWD=",
       "ric": "TWD=",
-      "lastClose": 31.405000686645508,
+      "lastClose": 31.415000915527344,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -660,7 +660,7 @@
       "ticker": "KRW=X",
       "name": "KRW=",
       "ric": "KRW=",
-      "lastClose": 1443.43994140625,
+      "lastClose": 1443.6500244140625,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -678,7 +678,7 @@
       "ticker": "HKD=X",
       "name": "HKD=",
       "ric": "HKD=",
-      "lastClose": 7.791800022125244,
+      "lastClose": 7.792399883270264,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -689,7 +689,7 @@
       "ticker": "CL=F",
       "name": "WTI Oil",
       "ric": "CLc1",
-      "lastClose": 56.88999938964844,
+      "lastClose": 56.939998626708984,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
@@ -698,7 +698,7 @@
       "ticker": "GC=F",
       "name": "Gold",
       "ric": "GCc1",
-      "lastClose": 4413.2001953125,
+      "lastClose": 4395.60009765625,
       "sharesOutstanding": null,
       "float": null,
       "marketCap": null
