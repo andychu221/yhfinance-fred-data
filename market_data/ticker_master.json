@@ -211,6 +211,21 @@
       "ticker": "IFX.DE",
       "name": "Infineon",
       "ric": "IFXGn.DE"
+    },
+    {
+      "ticker": "STM",
+      "name": "STM",
+      "ric": "STM.O"
+    },
+    {
+      "ticker": "CRUS",
+      "name": "Cirrus Logic",
+      "ric": "CRUS.O"
+    },
+    {
+      "ticker": "NOD",
+      "name": "Nordic Semi",
+      "ric": "NOD.OL"
     }
   ],
   "TW_Stocks": [
@@ -275,6 +290,16 @@
       "ric": "3035.TW"
     },
     {
+      "ticker": "2388.TW",
+      "name": "VIA Tech",
+      "ric": "2388.TW"
+    },
+    {
+      "ticker": "2379.TW",
+      "name": "Realtek",
+      "ric": "2379.TW"
+    },
+    {
       "ticker": "0981.HK",
       "name": "SMIC-H",
       "ric": "0981.HK"
@@ -293,6 +318,26 @@
       "ticker": "603501.SS",
       "name": "Willsemi",
       "ric": "603501.SS"
+    },
+    {
+      "ticker": "000063.SZ",
+      "name": "ZTE",
+      "ric": "000063.SZ"
+    },
+    {
+      "ticker": "688099.SS",
+      "name": "Amlogic",
+      "ric": "688099.SS"
+    },
+    {
+      "ticker": "688213.SS",
+      "name": "Smartsens",
+      "ric": "688213.SS"
+    },
+    {
+      "ticker": "688220.SS",
+      "name": "ASR",
+      "ric": "688220.SS"
     },
     {
       "ticker": "6758.T",
@@ -318,6 +363,11 @@
       "ticker": "000660.KS",
       "name": "SK hynix",
       "ric": "000660.KS"
+    },
+    {
+      "ticker": "108320.KS",
+      "name": "LX Semicon ",
+      "ric": "108320.KS"
     }
   ],
   "US_Rates": [
