@@ -226,6 +226,11 @@
       "ticker": "NOD",
       "name": "Nordic Semi",
       "ric": "NOD.OL"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "ric": "LRCX.OL"
     }
   ],
   "TW_Stocks": [
@@ -353,6 +358,11 @@
       "ticker": "6526.T",
       "name": "Socionext",
       "ric": "6526.T"
+    },
+    {
+      "ticker": "8035.T",
+      "name": "TEL",
+      "ric": "8035.T"
     },
     {
       "ticker": "005930.KS",
