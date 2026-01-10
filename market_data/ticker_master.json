@@ -174,17 +174,17 @@
     },
     {
       "ticker": "ADI",
-      "name": "ADI",
+      "name": "Analog Devices",
       "ric": "ADI.O"
     },
     {
       "ticker": "AMAT",
-      "name": "AMAT",
+      "name": "Applied Materials",
       "ric": "AMAT.O"
     },
     {
       "ticker": "KLAC",
-      "name": "KLAC",
+      "name": "KLA",
       "ric": "KLAC.O"
     },
     {
@@ -199,7 +199,7 @@
     },
     {
       "ticker": "SIMO",
-      "name": "Silicon",
+      "name": "Silicon Motion",
       "ric": "SIMO.O"
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "ticker": "STM",
-      "name": "STM",
+      "name": "STMicro",
       "ric": "STM.O"
     },
     {
@@ -236,6 +236,56 @@
       "ticker": "SNDK",
       "name": "Sandisk",
       "ric": "SNDK.O"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments",
+      "ric": "TXN.O"
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power",
+      "ric": "MPWR.O"
+    },
+    {
+      "ticker": "TER",
+      "name": "Teradyne",
+      "ric": "TER.N"
+    },
+    {
+      "ticker": "MCHP",
+      "name": "Microchip Tech",
+      "ric": "MCHP.O"
+    },
+    {
+      "ticker": "CRDO",
+      "name": "Credo Technology",
+      "ric": "CRDO.O"
+    },
+    {
+      "ticker": "ON",
+      "name": "ON Semiconductor",
+      "ric": "ON.O"
+    },
+    {
+      "ticker": "ALAB",
+      "name": "Astera Labs",
+      "ric": "ALAB.O"
+    },
+    {
+      "ticker": "ENTG",
+      "name": "Entegris",
+      "ric": "ENTG.O"
+    },
+    {
+      "ticker": "MTSI",
+      "name": "MACOM Technology",
+      "ric": "MTSI.O"
+    },
+    {
+      "ticker": "RMBS",
+      "name": "Rambus",
+      "ric": "RMBS.O"
     }
   ],
   "TW_Stocks": [
