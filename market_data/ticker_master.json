@@ -296,13 +296,38 @@
     },
     {
       "ticker": "2388.TW",
-      "name": "VIA Tech",
+      "name": "VIA",
       "ric": "2388.TW"
     },
     {
       "ticker": "2379.TW",
       "name": "Realtek",
       "ric": "2379.TW"
+    },
+    {
+      "ticker": "2344.TW",
+      "name": "ASE",
+      "ric": "2344.TW"
+    },
+    {
+      "ticker": "2408.TW",
+      "name": "Nanya",
+      "ric": "2408.TW"
+    },
+    {
+      "ticker": "3006.TW",
+      "name": "ESMT",
+      "ric": "3006.TW"
+    },
+    {
+      "ticker": "6770.TW",
+      "name": "PSMC",
+      "ric": "6770.TW"
+    },
+    {
+      "ticker": "8299.TWO",
+      "name": "Phison",
+      "ric": "8299.TWO"
     },
     {
       "ticker": "0981.HK",
