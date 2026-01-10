@@ -239,12 +239,12 @@
     },
     {
       "ticker": "TXN",
-      "name": "Texas Instruments",
+      "name": "TI",
       "ric": "TXN.O"
     },
     {
       "ticker": "MPWR",
-      "name": "Monolithic Power",
+      "name": "Monolithic",
       "ric": "MPWR.O"
     },
     {
@@ -254,17 +254,17 @@
     },
     {
       "ticker": "MCHP",
-      "name": "Microchip Tech",
+      "name": "Microchip",
       "ric": "MCHP.O"
     },
     {
       "ticker": "CRDO",
-      "name": "Credo Technology",
+      "name": "Credo",
       "ric": "CRDO.O"
     },
     {
       "ticker": "ON",
-      "name": "ON Semiconductor",
+      "name": "ON",
       "ric": "ON.O"
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "ticker": "MTSI",
-      "name": "MACOM Technology",
+      "name": "MACOM",
       "ric": "MTSI.O"
     },
     {
