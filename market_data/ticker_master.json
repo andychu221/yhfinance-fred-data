@@ -231,6 +231,11 @@
       "ticker": "LRCX",
       "name": "Lam Research",
       "ric": "LRCX.O"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "ric": "SNDK.O"
     }
   ],
   "TW_Stocks": [
