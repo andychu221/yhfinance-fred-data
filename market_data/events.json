@@ -3,6 +3,66 @@
     "name": "Microsoft",
     "events": [
       {
+        "date": "2007-02-13",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2007-05-15",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2007-08-14",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2007-11-13",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-02-19",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-05-13",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-08-19",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-11-18",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-02-17",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-05-19",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-08-18",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-11-17",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
         "date": "2010-02-16",
         "type": "dividend",
         "amount": 0.13
@@ -683,6 +743,13 @@
     "name": "NVIDIA",
     "events": [
       {
+        "date": "2007-09-11",
+        "type": "split",
+        "splitRatio": "3:2",
+        "numerator": 3,
+        "denominator": 2
+      },
+      {
         "date": "2012-11-20",
         "type": "dividend",
         "amount": 0.001875
@@ -1348,6 +1415,66 @@
     "name": "Qualcomm",
     "events": [
       {
+        "date": "2007-02-28",
+        "type": "dividend",
+        "amount": 0.12
+      },
+      {
+        "date": "2007-05-30",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2007-08-29",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2007-12-05",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2008-02-27",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2008-05-28",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2008-08-27",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2008-12-09",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2009-02-25",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2009-05-27",
+        "type": "dividend",
+        "amount": 0.17
+      },
+      {
+        "date": "2009-08-26",
+        "type": "dividend",
+        "amount": 0.17
+      },
+      {
+        "date": "2009-11-23",
+        "type": "dividend",
+        "amount": 0.17
+      },
+      {
         "date": "2010-02-24",
         "type": "dividend",
         "amount": 0.17
@@ -1672,6 +1799,66 @@
   "INTC.O": {
     "name": "Intel",
     "events": [
+      {
+        "date": "2007-02-05",
+        "type": "dividend",
+        "amount": 0.113
+      },
+      {
+        "date": "2007-05-03",
+        "type": "dividend",
+        "amount": 0.113
+      },
+      {
+        "date": "2007-08-03",
+        "type": "dividend",
+        "amount": 0.113
+      },
+      {
+        "date": "2007-11-05",
+        "type": "dividend",
+        "amount": 0.113
+      },
+      {
+        "date": "2008-02-05",
+        "type": "dividend",
+        "amount": 0.128
+      },
+      {
+        "date": "2008-05-05",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2008-08-05",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2008-11-05",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2009-02-04",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2009-05-05",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2009-08-05",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2009-11-04",
+        "type": "dividend",
+        "amount": 0.14
+      },
       {
         "date": "2010-02-03",
         "type": "dividend",
@@ -2367,6 +2554,28 @@
     "name": "TSMC ADR",
     "events": [
       {
+        "date": "2007-06-08",
+        "type": "dividend",
+        "amount": 0.444776
+      },
+      {
+        "date": "2008-07-16",
+        "type": "dividend",
+        "amount": 0.495522
+      },
+      {
+        "date": "2009-07-15",
+        "type": "dividend",
+        "amount": 0.453
+      },
+      {
+        "date": "2009-07-15",
+        "type": "split",
+        "splitRatio": "1005:1000",
+        "numerator": 1005,
+        "denominator": 1000
+      },
+      {
         "date": "2010-07-06",
         "type": "dividend",
         "amount": 0.469
@@ -2959,6 +3168,66 @@
     "name": "Analog Devices",
     "events": [
       {
+        "date": "2007-03-07",
+        "type": "dividend",
+        "amount": 0.18
+      },
+      {
+        "date": "2007-05-30",
+        "type": "dividend",
+        "amount": 0.18
+      },
+      {
+        "date": "2007-08-29",
+        "type": "dividend",
+        "amount": 0.18
+      },
+      {
+        "date": "2007-12-05",
+        "type": "dividend",
+        "amount": 0.18
+      },
+      {
+        "date": "2008-03-05",
+        "type": "dividend",
+        "amount": 0.18
+      },
+      {
+        "date": "2008-05-28",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2008-08-27",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2008-12-03",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2009-03-04",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2009-05-27",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2009-08-25",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2009-12-02",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
         "date": "2010-03-03",
         "type": "dividend",
         "amount": 0.2
@@ -3284,6 +3553,66 @@
     "name": "Applied Materials",
     "events": [
       {
+        "date": "2007-02-13",
+        "type": "dividend",
+        "amount": 0.05
+      },
+      {
+        "date": "2007-05-15",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2007-08-14",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2007-11-13",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2008-02-12",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2008-05-13",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2008-08-12",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2008-11-10",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2009-02-10",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2009-05-12",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2009-08-11",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2009-11-09",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
         "date": "2010-02-22",
         "type": "dividend",
         "amount": 0.06
@@ -3608,6 +3937,66 @@
   "KLAC.O": {
     "name": "KLA",
     "events": [
+      {
+        "date": "2007-02-13",
+        "type": "dividend",
+        "amount": 0.12
+      },
+      {
+        "date": "2007-05-11",
+        "type": "dividend",
+        "amount": 0.12
+      },
+      {
+        "date": "2007-08-16",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2007-11-15",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2008-02-21",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2008-05-15",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2008-08-14",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2008-11-20",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2009-02-26",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2009-05-13",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2009-08-13",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2009-11-12",
+        "type": "dividend",
+        "amount": 0.15
+      },
       {
         "date": "2010-02-11",
         "type": "dividend",
@@ -4489,6 +4878,28 @@
     "name": "ASML",
     "events": [
       {
+        "date": "2007-10-01",
+        "type": "dividend",
+        "amount": 2.649351
+      },
+      {
+        "date": "2007-10-01",
+        "type": "split",
+        "splitRatio": "8:9",
+        "numerator": 8,
+        "denominator": 9
+      },
+      {
+        "date": "2008-04-07",
+        "type": "dividend",
+        "amount": 0.275974
+      },
+      {
+        "date": "2009-03-30",
+        "type": "dividend",
+        "amount": 0.25974
+      },
+      {
         "date": "2010-03-26",
         "type": "dividend",
         "amount": 0.220779
@@ -4730,6 +5141,46 @@
   "STM.O": {
     "name": "STMicro",
     "events": [
+      {
+        "date": "2007-05-21",
+        "type": "dividend",
+        "amount": 0.3
+      },
+      {
+        "date": "2008-05-19",
+        "type": "dividend",
+        "amount": 0.09
+      },
+      {
+        "date": "2008-08-18",
+        "type": "dividend",
+        "amount": 0.09
+      },
+      {
+        "date": "2008-11-24",
+        "type": "dividend",
+        "amount": 0.09
+      },
+      {
+        "date": "2009-02-23",
+        "type": "dividend",
+        "amount": 0.09
+      },
+      {
+        "date": "2009-05-22",
+        "type": "dividend",
+        "amount": 0.03
+      },
+      {
+        "date": "2009-08-24",
+        "type": "dividend",
+        "amount": 0.03
+      },
+      {
+        "date": "2009-11-23",
+        "type": "dividend",
+        "amount": 0.03
+      },
       {
         "date": "2010-02-22",
         "type": "dividend",
@@ -5302,6 +5753,66 @@
   "TXN.O": {
     "name": "TI",
     "events": [
+      {
+        "date": "2007-01-29",
+        "type": "dividend",
+        "amount": 0.04
+      },
+      {
+        "date": "2007-04-26",
+        "type": "dividend",
+        "amount": 0.08
+      },
+      {
+        "date": "2007-07-27",
+        "type": "dividend",
+        "amount": 0.08
+      },
+      {
+        "date": "2007-10-29",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2008-01-29",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2008-04-28",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2008-07-29",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2008-10-29",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2009-01-28",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2009-04-28",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2009-07-29",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2009-10-28",
+        "type": "dividend",
+        "amount": 0.12
+      },
       {
         "date": "2010-01-28",
         "type": "dividend",
@@ -6113,6 +6624,66 @@
     "name": "Microchip",
     "events": [
       {
+        "date": "2007-02-12",
+        "type": "dividend",
+        "amount": 0.1325
+      },
+      {
+        "date": "2007-05-08",
+        "type": "dividend",
+        "amount": 0.14
+      },
+      {
+        "date": "2007-08-07",
+        "type": "dividend",
+        "amount": 0.1475
+      },
+      {
+        "date": "2007-11-02",
+        "type": "dividend",
+        "amount": 0.155
+      },
+      {
+        "date": "2008-02-05",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2008-05-08",
+        "type": "dividend",
+        "amount": 0.165
+      },
+      {
+        "date": "2008-08-05",
+        "type": "dividend",
+        "amount": 0.169
+      },
+      {
+        "date": "2008-11-12",
+        "type": "dividend",
+        "amount": 0.1695
+      },
+      {
+        "date": "2009-02-11",
+        "type": "dividend",
+        "amount": 0.1695
+      },
+      {
+        "date": "2009-05-19",
+        "type": "dividend",
+        "amount": 0.1695
+      },
+      {
+        "date": "2009-08-18",
+        "type": "dividend",
+        "amount": 0.1695
+      },
+      {
+        "date": "2009-11-16",
+        "type": "dividend",
+        "amount": 0.17
+      },
+      {
         "date": "2010-02-16",
         "type": "dividend",
         "amount": 0.1705
@@ -6615,6 +7186,42 @@
     "name": "TSMC",
     "events": [
       {
+        "date": "2007-06-08",
+        "type": "dividend",
+        "amount": 2.954838
+      },
+      {
+        "date": "2007-06-08",
+        "type": "split",
+        "splitRatio": "100.4999:100",
+        "numerator": 100.4999,
+        "denominator": 100
+      },
+      {
+        "date": "2008-07-16",
+        "type": "dividend",
+        "amount": 2.994919
+      },
+      {
+        "date": "2008-07-16",
+        "type": "split",
+        "splitRatio": "100.5042:100",
+        "numerator": 100.5042,
+        "denominator": 100
+      },
+      {
+        "date": "2009-07-15",
+        "type": "dividend",
+        "amount": 2.984965
+      },
+      {
+        "date": "2009-07-15",
+        "type": "split",
+        "splitRatio": "1.005:1",
+        "numerator": 1.005,
+        "denominator": 1
+      },
+      {
         "date": "2010-07-06",
         "type": "dividend",
         "amount": 2.999732
@@ -6800,6 +7407,42 @@
     "name": "Hon Hai",
     "events": [
       {
+        "date": "2007-08-27",
+        "type": "dividend",
+        "amount": 1.225345
+      },
+      {
+        "date": "2007-08-27",
+        "type": "split",
+        "splitRatio": "120:100",
+        "numerator": 120,
+        "denominator": 100
+      },
+      {
+        "date": "2008-09-16",
+        "type": "dividend",
+        "amount": 1.47041
+      },
+      {
+        "date": "2008-09-16",
+        "type": "split",
+        "splitRatio": "115:100",
+        "numerator": 115,
+        "denominator": 100
+      },
+      {
+        "date": "2009-06-02",
+        "type": "dividend",
+        "amount": 0.713028
+      },
+      {
+        "date": "2009-06-02",
+        "type": "split",
+        "splitRatio": "1.15:1",
+        "numerator": 1.15,
+        "denominator": 1
+      },
+      {
         "date": "2010-08-25",
         "type": "dividend",
         "amount": 1.296414
@@ -6941,6 +7584,42 @@
     "name": "MediaTek",
     "events": [
       {
+        "date": "2007-07-25",
+        "type": "dividend",
+        "amount": 13.18024
+      },
+      {
+        "date": "2007-07-25",
+        "type": "split",
+        "splitRatio": "105:100",
+        "numerator": 105,
+        "denominator": 100
+      },
+      {
+        "date": "2008-07-16",
+        "type": "dividend",
+        "amount": 18.223965
+      },
+      {
+        "date": "2008-07-16",
+        "type": "split",
+        "splitRatio": "101:100",
+        "numerator": 101,
+        "denominator": 100
+      },
+      {
+        "date": "2009-07-17",
+        "type": "dividend",
+        "amount": 13.72549
+      },
+      {
+        "date": "2009-07-17",
+        "type": "split",
+        "splitRatio": "1.002:1",
+        "numerator": 1.002,
+        "denominator": 1
+      },
+      {
         "date": "2010-07-28",
         "type": "dividend",
         "amount": 24.98839
@@ -7048,6 +7727,42 @@
     "name": "Delta",
     "events": [
       {
+        "date": "2007-07-16",
+        "type": "dividend",
+        "amount": 3.911482
+      },
+      {
+        "date": "2007-07-16",
+        "type": "split",
+        "splitRatio": "105:100",
+        "numerator": 105,
+        "denominator": 100
+      },
+      {
+        "date": "2008-07-15",
+        "type": "dividend",
+        "amount": 5.167374
+      },
+      {
+        "date": "2008-07-15",
+        "type": "split",
+        "splitRatio": "102:100",
+        "numerator": 102,
+        "denominator": 100
+      },
+      {
+        "date": "2009-07-14",
+        "type": "dividend",
+        "amount": 3.489601
+      },
+      {
+        "date": "2009-07-14",
+        "type": "split",
+        "splitRatio": "1.02:1",
+        "numerator": 1.02,
+        "denominator": 1
+      },
+      {
         "date": "2010-07-14",
         "type": "dividend",
         "amount": 4.186553
@@ -7132,6 +7847,23 @@
   "5347.TWO": {
     "name": "Vanguard",
     "events": [
+      {
+        "date": "2008-07-23",
+        "type": "dividend",
+        "amount": 1.676806
+      },
+      {
+        "date": "2008-07-23",
+        "type": "split",
+        "splitRatio": "100.505:100",
+        "numerator": 100.505,
+        "denominator": 100
+      },
+      {
+        "date": "2009-07-02",
+        "type": "dividend",
+        "amount": 0.394977
+      },
       {
         "date": "2010-07-09",
         "type": "dividend",
@@ -7218,6 +7950,42 @@
     "name": "GUC",
     "events": [
       {
+        "date": "2007-07-09",
+        "type": "dividend",
+        "amount": 1.087156
+      },
+      {
+        "date": "2007-07-09",
+        "type": "split",
+        "splitRatio": "103.1728:100",
+        "numerator": 103.1728,
+        "denominator": 100
+      },
+      {
+        "date": "2008-07-29",
+        "type": "dividend",
+        "amount": 2.840687
+      },
+      {
+        "date": "2008-07-29",
+        "type": "split",
+        "splitRatio": "105.476:100",
+        "numerator": 105.476,
+        "denominator": 100
+      },
+      {
+        "date": "2009-07-13",
+        "type": "dividend",
+        "amount": 3.295808
+      },
+      {
+        "date": "2009-07-13",
+        "type": "split",
+        "splitRatio": "1.0397:1",
+        "numerator": 1.0397,
+        "denominator": 1
+      },
+      {
         "date": "2010-07-01",
         "type": "dividend",
         "amount": 1.996143
@@ -7302,6 +8070,16 @@
   "3374.TWO": {
     "name": "Xintec",
     "events": [
+      {
+        "date": "2008-07-09",
+        "type": "dividend",
+        "amount": 0.196063
+      },
+      {
+        "date": "2009-07-01",
+        "type": "dividend",
+        "amount": 0.097663
+      },
       {
         "date": "2010-06-29",
         "type": "dividend",
@@ -7412,6 +8190,30 @@
     "name": "UMC",
     "events": [
       {
+        "date": "2007-07-10",
+        "type": "dividend",
+        "amount": 0.960828
+      },
+      {
+        "date": "2007-09-20",
+        "type": "split",
+        "splitRatio": "0.697166:1",
+        "numerator": 0.697166,
+        "denominator": 1
+      },
+      {
+        "date": "2008-08-08",
+        "type": "dividend",
+        "amount": 0.686797
+      },
+      {
+        "date": "2008-08-08",
+        "type": "split",
+        "splitRatio": "104.5:100",
+        "numerator": 104.5,
+        "denominator": 100
+      },
+      {
         "date": "2010-07-08",
         "type": "dividend",
         "amount": 0.5
@@ -7496,6 +8298,42 @@
   "3034.TW": {
     "name": "Novatek",
     "events": [
+      {
+        "date": "2007-07-20",
+        "type": "dividend",
+        "amount": 7.577775
+      },
+      {
+        "date": "2007-07-20",
+        "type": "split",
+        "splitRatio": "102:100",
+        "numerator": 102,
+        "denominator": 100
+      },
+      {
+        "date": "2008-08-06",
+        "type": "dividend",
+        "amount": 8.43698
+      },
+      {
+        "date": "2008-08-06",
+        "type": "split",
+        "splitRatio": "100.9511:100",
+        "numerator": 100.9511,
+        "denominator": 100
+      },
+      {
+        "date": "2009-08-05",
+        "type": "dividend",
+        "amount": 4.5
+      },
+      {
+        "date": "2009-08-05",
+        "type": "split",
+        "splitRatio": "1.005:1",
+        "numerator": 1.005,
+        "denominator": 1
+      },
       {
         "date": "2010-07-28",
         "type": "dividend",
@@ -7642,6 +8480,42 @@
     "name": "Faraday",
     "events": [
       {
+        "date": "2007-07-19",
+        "type": "dividend",
+        "amount": 4.894495
+      },
+      {
+        "date": "2007-07-19",
+        "type": "split",
+        "splitRatio": "101.983:100",
+        "numerator": 101.983,
+        "denominator": 100
+      },
+      {
+        "date": "2008-08-06",
+        "type": "dividend",
+        "amount": 5.43107
+      },
+      {
+        "date": "2008-08-06",
+        "type": "split",
+        "splitRatio": "100.9975:100",
+        "numerator": 100.9975,
+        "denominator": 100
+      },
+      {
+        "date": "2009-08-06",
+        "type": "dividend",
+        "amount": 2.3587
+      },
+      {
+        "date": "2009-08-06",
+        "type": "split",
+        "splitRatio": "1.005:1",
+        "numerator": 1.005,
+        "denominator": 1
+      },
+      {
         "date": "2010-08-11",
         "type": "dividend",
         "amount": 3.154656
@@ -7741,6 +8615,13 @@
     "name": "VIA",
     "events": [
       {
+        "date": "2009-09-02",
+        "type": "split",
+        "splitRatio": "0.4:1",
+        "numerator": 0.4,
+        "denominator": 1
+      },
+      {
         "date": "2012-09-21",
         "type": "split",
         "splitRatio": "0.5:1",
@@ -7777,6 +8658,49 @@
   "2379.TW": {
     "name": "Realtek",
     "events": [
+      {
+        "date": "2007-06-12",
+        "type": "split",
+        "splitRatio": "1:2",
+        "numerator": 1,
+        "denominator": 2
+      },
+      {
+        "date": "2007-08-22",
+        "type": "dividend",
+        "amount": 2.9613
+      },
+      {
+        "date": "2007-08-22",
+        "type": "split",
+        "splitRatio": "105:100",
+        "numerator": 105,
+        "denominator": 100
+      },
+      {
+        "date": "2008-08-22",
+        "type": "dividend",
+        "amount": 2.798428
+      },
+      {
+        "date": "2008-08-22",
+        "type": "split",
+        "splitRatio": "102:100",
+        "numerator": 102,
+        "denominator": 100
+      },
+      {
+        "date": "2009-08-24",
+        "type": "dividend",
+        "amount": 1.537569
+      },
+      {
+        "date": "2009-08-24",
+        "type": "split",
+        "splitRatio": "1.01:1",
+        "numerator": 1.01,
+        "denominator": 1
+      },
       {
         "date": "2010-08-24",
         "type": "dividend",
@@ -7891,6 +8815,11 @@
     "name": "Winbond",
     "events": [
       {
+        "date": "2007-07-24",
+        "type": "dividend",
+        "amount": 0.290619
+      },
+      {
         "date": "2016-08-18",
         "type": "dividend",
         "amount": 0.096873
@@ -7935,6 +8864,25 @@
   "2408.TW": {
     "name": "Nanya Tech",
     "events": [
+      {
+        "date": "2007-07-12",
+        "type": "dividend",
+        "amount": 84.70409
+      },
+      {
+        "date": "2007-07-12",
+        "type": "split",
+        "splitRatio": "102.995:100",
+        "numerator": 102.995,
+        "denominator": 100
+      },
+      {
+        "date": "2009-08-13",
+        "type": "split",
+        "splitRatio": "0.3357:1",
+        "numerator": 0.3357,
+        "denominator": 1
+      },
       {
         "date": "2014-08-26",
         "type": "split",
@@ -8160,6 +9108,35 @@
     "name": "ZTE",
     "events": [
       {
+        "date": "2007-07-27",
+        "type": "dividend",
+        "amount": 0.021198
+      },
+      {
+        "date": "2008-07-10",
+        "type": "dividend",
+        "amount": 0.049462
+      },
+      {
+        "date": "2008-07-10",
+        "type": "split",
+        "splitRatio": "14:10",
+        "numerator": 14,
+        "denominator": 10
+      },
+      {
+        "date": "2009-06-05",
+        "type": "dividend",
+        "amount": 0.089031
+      },
+      {
+        "date": "2009-06-05",
+        "type": "split",
+        "splitRatio": "13:10",
+        "numerator": 13,
+        "denominator": 10
+      },
+      {
         "date": "2010-06-24",
         "type": "dividend",
         "amount": 0.07716
@@ -8287,6 +9264,36 @@
   "6758.T": {
     "name": "Sony",
     "events": [
+      {
+        "date": "2007-03-27",
+        "type": "dividend",
+        "amount": 2.5
+      },
+      {
+        "date": "2007-09-25",
+        "type": "dividend",
+        "amount": 2.5
+      },
+      {
+        "date": "2008-03-26",
+        "type": "dividend",
+        "amount": 2.5
+      },
+      {
+        "date": "2008-09-25",
+        "type": "dividend",
+        "amount": 6
+      },
+      {
+        "date": "2009-03-26",
+        "type": "dividend",
+        "amount": 2.5
+      },
+      {
+        "date": "2009-09-25",
+        "type": "dividend",
+        "amount": 2.5
+      },
       {
         "date": "2010-03-29",
         "type": "dividend",
@@ -8507,6 +9514,36 @@
     "name": "TEL",
     "events": [
       {
+        "date": "2007-03-27",
+        "type": "dividend",
+        "amount": 20.333332
+      },
+      {
+        "date": "2007-09-25",
+        "type": "dividend",
+        "amount": 23.333332
+      },
+      {
+        "date": "2008-03-26",
+        "type": "dividend",
+        "amount": 18.333332
+      },
+      {
+        "date": "2008-09-25",
+        "type": "dividend",
+        "amount": 6.666667
+      },
+      {
+        "date": "2009-03-26",
+        "type": "dividend",
+        "amount": 1.333333
+      },
+      {
+        "date": "2009-09-25",
+        "type": "dividend",
+        "amount": 1.333333
+      },
+      {
         "date": "2010-03-29",
         "type": "dividend",
         "amount": 2.666667
@@ -8688,6 +9725,36 @@
   "005930.KS": {
     "name": "Samsung",
     "events": [
+      {
+        "date": "2007-06-28",
+        "type": "dividend",
+        "amount": 10
+      },
+      {
+        "date": "2007-12-27",
+        "type": "dividend",
+        "amount": 150
+      },
+      {
+        "date": "2008-06-27",
+        "type": "dividend",
+        "amount": 10
+      },
+      {
+        "date": "2008-12-29",
+        "type": "dividend",
+        "amount": 100
+      },
+      {
+        "date": "2009-06-29",
+        "type": "dividend",
+        "amount": 10
+      },
+      {
+        "date": "2009-12-29",
+        "type": "dividend",
+        "amount": 150
+      },
       {
         "date": "2010-06-29",
         "type": "dividend",
@@ -8952,6 +10019,21 @@
   "000660.KS": {
     "name": "SK hynix",
     "events": [
+      {
+        "date": "2007-12-27",
+        "type": "dividend",
+        "amount": 850
+      },
+      {
+        "date": "2008-12-29",
+        "type": "dividend",
+        "amount": 550
+      },
+      {
+        "date": "2009-12-29",
+        "type": "dividend",
+        "amount": 400
+      },
       {
         "date": "2010-12-29",
         "type": "dividend",
