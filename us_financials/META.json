@@ -3,8 +3,8 @@
     "ticker": "META",
     "company": "Meta Platforms Inc.",
     "cik": "1326801",
-    "total_records": 4211,
-    "last_updated": "2026-04-27T20:39:17.330998",
+    "total_records": 4154,
+    "last_updated": "2026-04-30T22:58:11.830305",
     "num_quarterly": 20,
     "num_annual": 5,
     "currency": "USD",
@@ -12,6 +12,1226 @@
     "data_source": "SEC EDGAR via XBRL parsing"
   },
   "data": [
+    {
+      "order": 0,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Assets",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Current assets:",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Cash and Cash Equivalents",
+      "depth": 3,
+      "value": 23426000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Money market funds - Reclassification, Other",
+      "depth": 4,
+      "value": -5000000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Current Marketable Securities",
+      "depth": 3,
+      "value": 57754000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Quoted Prices in Active Markets for Identical Assets (Level 1)",
+      "depth": 4,
+      "value": 36127000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Significant Other Observable Inputs (Level 2)",
+      "depth": 4,
+      "value": 21627000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Significant Unobservable Inputs (Level 3)",
+      "depth": 4,
+      "value": 0.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Accounts Receivable",
+      "depth": 3,
+      "value": 17470000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Prepaid Expenses",
+      "depth": 3,
+      "value": 11115000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Total Current Assets",
+      "depth": 3,
+      "value": 109765000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Non-marketable equity investments",
+      "depth": 2,
+      "value": 28410000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Property and equipment, net",
+      "depth": 2,
+      "value": 194776000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Operating lease right-of-use assets",
+      "depth": 2,
+      "value": 23268000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Goodwill",
+      "depth": 2,
+      "value": 24748000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Other Non Current Assets",
+      "depth": 2,
+      "value": 14283000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Total Assets",
+      "depth": 2,
+      "value": 395250000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Liabilities and stockholders' equity",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Accounts Payable",
+      "depth": 3,
+      "value": 13326000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Operating lease liabilities, current",
+      "depth": 3,
+      "value": 2414000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Accrued Liabilities",
+      "depth": 3,
+      "value": 31013000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Total Current Liabilities",
+      "depth": 3,
+      "value": 46753000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Operating lease liabilities, non-current",
+      "depth": 2,
+      "value": 25607000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Long Term Debt",
+      "depth": 2,
+      "value": 58748000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Long-term income taxes",
+      "depth": 2,
+      "value": 16849000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Other Non Current Liabilities",
+      "depth": 2,
+      "value": 3612000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "value": 151569000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Commitments and contingencies",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Stockholders' equity:",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Common Stock",
+      "depth": 3,
+      "value": 99337000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Accumulated Other Comprehensive Income/Loss",
+      "depth": 3,
+      "value": -303000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Retained Earnings",
+      "depth": 3,
+      "value": 144647000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Total Stockholders' Equity",
+      "depth": 3,
+      "value": 243681000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Class A and Class B Common Stock and Additional Paid-In Capital",
+      "depth": 4,
+      "value": 99337000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Accumulated Other Comprehensive Income (Loss)",
+      "depth": 4,
+      "value": -303000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 37,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Retained Earnings",
+      "depth": 4,
+      "value": 144647000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 38,
+      "statement_type": "balance_sheet",
+      "period": "Q1 2026",
+      "label": "Total Liabilities and Stockholders' Equity",
+      "depth": 2,
+      "value": 395250000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Contract Revenue",
+      "depth": 1,
+      "value": 56311000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Advertising - Family of Apps",
+      "depth": 2,
+      "value": 55024000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Other revenue - Family of Apps",
+      "depth": 2,
+      "value": 885000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Family of Apps",
+      "depth": 2,
+      "value": 55909000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Reality Labs",
+      "depth": 2,
+      "value": 402000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "US & Canada",
+      "depth": 2,
+      "value": 21267000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Europe",
+      "depth": 2,
+      "value": 13240000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Asia Pacific",
+      "depth": 2,
+      "value": 15445000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Rest Of World",
+      "depth": 2,
+      "value": 6359000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Costs and expenses:",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Total Cost of Revenue",
+      "depth": 2,
+      "value": 10218000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Research and Development Expense",
+      "depth": 2,
+      "value": 17699000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Selling Expense",
+      "depth": 2,
+      "value": 2908000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "General and Administrative Expense",
+      "depth": 2,
+      "value": 2614000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Costs and Expenses",
+      "depth": 2,
+      "value": 33439000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Operating Income",
+      "depth": 1,
+      "value": 22872000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Family of Apps",
+      "depth": 2,
+      "value": 26900000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Reality Labs",
+      "depth": 2,
+      "value": -4028000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Nonoperating Income/Expense",
+      "depth": 1,
+      "value": -1120000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Income Before Tax from Continuing Operations",
+      "depth": 1,
+      "value": 21752000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Income Tax Expense",
+      "depth": 1,
+      "value": -5021000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Net Income",
+      "depth": 1,
+      "value": 26773000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Retained Earnings",
+      "depth": 2,
+      "value": 26773000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Earnings Per Share",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Earnings Per Share (Basic)",
+      "depth": 2,
+      "value": 10.57,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 26,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Earnings Per Share (Diluted)",
+      "depth": 2,
+      "value": 10.44,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 27,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Weighted-average shares used to compute earnings per share:",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 28,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Shares Outstanding (Basic)",
+      "depth": 2,
+      "value": 2534000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 29,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Common Class A",
+      "depth": 3,
+      "value": 2192000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 30,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Common Class B",
+      "depth": 3,
+      "value": 342000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 31,
+      "statement_type": "income_statement",
+      "period": "Q1 2026",
+      "label": "Shares Outstanding (Diluted)",
+      "depth": 2,
+      "value": 2564000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Cash flows from operating activities",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Net Income",
+      "depth": 2,
+      "value": 26773000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Retained Earnings",
+      "depth": 3,
+      "value": 26773000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Depreciation and amortization",
+      "depth": 3,
+      "value": 5999000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 6,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Share-based compensation",
+      "depth": 3,
+      "value": 6032000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 7,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Deferred income taxes",
+      "depth": 3,
+      "value": 123000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 8,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Unrealized (gain) loss on equity investments",
+      "depth": 3,
+      "value": -1075000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 9,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Other",
+      "depth": 3,
+      "value": 17000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 10,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Changes in assets and liabilities:",
+      "depth": 3,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 11,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Accounts receivable",
+      "depth": 4,
+      "value": -2128000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 12,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Prepaid expenses and other current assets",
+      "depth": 4,
+      "value": 2424000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 13,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Other assets",
+      "depth": 4,
+      "value": 1082000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 14,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Accounts payable",
+      "depth": 4,
+      "value": -937000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 15,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Accrued expenses and other current liabilities",
+      "depth": 4,
+      "value": -271000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 16,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Other liabilities",
+      "depth": 4,
+      "value": -5173000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 17,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Net Cash from Operating Activities",
+      "depth": 2,
+      "value": 32226000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Cash flows from investing activities",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 19,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Payments for Property, Plant and Equipment",
+      "depth": 2,
+      "value": 18997000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 20,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Purchases of marketable securities",
+      "depth": 2,
+      "value": 32978000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 21,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Sales and maturities of marketable securities",
+      "depth": 2,
+      "value": 19176000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 22,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Purchases of non-marketable equity investments",
+      "depth": 2,
+      "value": 544000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 23,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Payments for held-for-sale assets",
+      "depth": 2,
+      "value": 118000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 24,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Acquisitions of businesses and intangible assets",
+      "depth": 2,
+      "value": 372000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 25,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Other investing activities",
+      "depth": 2,
+      "value": -155000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 26,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Net Cash from Investing Activities",
+      "depth": 2,
+      "value": -33678000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 27,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Cash flows from financing activities",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 28,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Tax Withholding for Share-Based Compensation",
+      "depth": 2,
+      "value": 4423000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 29,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Repurchases of Class A common stock",
+      "depth": 2,
+      "value": 0.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 30,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Payments of Dividends",
+      "depth": 2,
+      "value": 1346000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 31,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Principal payments on finance leases",
+      "depth": 2,
+      "value": 843000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 32,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Other financing activities",
+      "depth": 2,
+      "value": 59000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 33,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Net Cash from Financing Activities",
+      "depth": 2,
+      "value": -6553000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 34,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Effect of exchange rate changes on cash, cash equivalents, restricted cash, and restricted cash equivalents",
+      "depth": 1,
+      "value": 7000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 35,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Net Change in Cash",
+      "depth": 1,
+      "value": -7998000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 36,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Total cash, cash equivalents, restricted cash, and restricted cash equivalents",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 37,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Total cash, cash equivalents, restricted cash, and restricted cash equivalents",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 38,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Reconciliation of cash, cash equivalents, restricted cash, and restricted cash equivalents to the condensed consolidated balance sheets",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 39,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Cash and Cash Equivalents",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 40,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Money market funds - Reclassification, Other",
+      "depth": 3,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 41,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Restricted cash and restricted cash equivalents, included in prepaid expenses and other current assets",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 42,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Restricted cash and restricted cash equivalents, included in other assets",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 43,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Total cash, cash equivalents, restricted cash, and restricted cash equivalents",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 44,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Supplemental cash flow data",
+      "depth": 1,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 45,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Income Tax Expense",
+      "depth": 2,
+      "value": 541000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 46,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Cash paid for interest, net of amounts capitalized",
+      "depth": 2,
+      "value": 284000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 47,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Non-cash investing and financing activities:",
+      "depth": 2,
+      "value": null,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 48,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Property and equipment in accounts payable and accrued expenses and other current liabilities",
+      "depth": 3,
+      "value": 16040000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 49,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Acquisition of businesses and intangible assets in accounts payable, accrued expenses and other current liabilities, and other liabilities",
+      "depth": 3,
+      "value": 2169000000.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
+    {
+      "order": 50,
+      "statement_type": "cash_flow",
+      "period": "Q1 2026",
+      "label": "Repurchases of Class A common stock in accrued expenses and other current liabilities",
+      "depth": 3,
+      "value": 0.0,
+      "filing_date": "2026-04-30",
+      "report_date": "2026-03-31"
+    },
     {
       "order": 0,
       "statement_type": "balance_sheet",
@@ -29161,1796 +30381,6 @@
       "value": 1850000000.0,
       "filing_date": "2019-10-31",
       "report_date": "2019-09-30"
-    },
-    {
-      "order": 0,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Statement of Financial Position [Abstract]",
-      "depth": 0,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 1,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Assets",
-      "depth": 1,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 2,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Current assets:",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 3,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Cash and Cash Equivalents",
-      "depth": 3,
-      "value": 13877000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 4,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Corporate debt securities",
-      "depth": 4,
-      "value": 20000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 5,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "U.S. government agency securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 6,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "U.S. government securities",
-      "depth": 4,
-      "value": 163000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 7,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Money market funds",
-      "depth": 4,
-      "value": 10151000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 8,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Cash",
-      "depth": 4,
-      "value": 3380000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 9,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Certificate of deposits and time deposits",
-      "depth": 4,
-      "value": 163000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 10,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Current Marketable Securities",
-      "depth": 3,
-      "value": 34719000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 11,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "U.S. government agency securities",
-      "depth": 4,
-      "value": 7792000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 12,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Corporate debt securities",
-      "depth": 4,
-      "value": 9589000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 13,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "U.S. government securities",
-      "depth": 4,
-      "value": 17338000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 14,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Significant Other Observable Inputs (Level 2) - Corporate debt securities",
-      "depth": 4,
-      "value": 9589000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 15,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Significant Other Observable Inputs (Level 2) - U.S. government agency securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 16,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Significant Unobservable Inputs (Level 3) - U.S. government securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 17,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Significant Other Observable Inputs (Level 2) - U.S. government securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 18,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Quoted Prices in Active Markets for Identical Assets (Level 1) - U.S. government securities",
-      "depth": 4,
-      "value": 17338000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 19,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Quoted Prices in Active Markets for Identical Assets (Level 1) - U.S. government agency securities",
-      "depth": 4,
-      "value": 7792000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 20,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Quoted Prices in Active Markets for Identical Assets (Level 1) - Corporate debt securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 21,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Significant Unobservable Inputs (Level 3) - Corporate debt securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 22,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Significant Unobservable Inputs (Level 3) - U.S. government agency securities",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 23,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Accounts Receivable",
-      "depth": 3,
-      "value": 7513000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 24,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Prepaid Expenses",
-      "depth": 3,
-      "value": 1852000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 25,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Total Current Assets",
-      "depth": 3,
-      "value": 57961000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 26,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Property, Plant and Equipment",
-      "depth": 2,
-      "value": 29999000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 27,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Operating lease right-of-use assets, net",
-      "depth": 2,
-      "value": 7272000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 28,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Intangible Assets",
-      "depth": 2,
-      "value": 994000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 29,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Goodwill",
-      "depth": 2,
-      "value": 18334000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 30,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Other Non Current Assets",
-      "depth": 2,
-      "value": 2446000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 31,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Total Assets",
-      "depth": 2,
-      "value": 117006000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 32,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Liabilities and stockholders' equity",
-      "depth": 1,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 33,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Current liabilities:",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 34,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Accounts Payable",
-      "depth": 3,
-      "value": 655000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 35,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Partners payable",
-      "depth": 3,
-      "value": 560000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 36,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Operating lease liabilities, current",
-      "depth": 3,
-      "value": 688000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 37,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Accrued Liabilities",
-      "depth": 3,
-      "value": 10878000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 38,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Deferred revenue and deposits",
-      "depth": 3,
-      "value": 198000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 39,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Total Current Liabilities",
-      "depth": 3,
-      "value": 12979000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 40,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Operating lease liabilities, non-current",
-      "depth": 2,
-      "value": 7122000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 41,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Other Non Current Liabilities",
-      "depth": 2,
-      "value": 8143000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 42,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Total Liabilities",
-      "depth": 2,
-      "value": 28244000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 43,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Commitments and contingencies",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 44,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Stockholders' equity:",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 45,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Common Stock",
-      "depth": 3,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 46,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Additional paid-in capital",
-      "depth": 3,
-      "value": 44277000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 47,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Accumulated Other Comprehensive Income/Loss",
-      "depth": 3,
-      "value": -483000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 48,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Retained Earnings",
-      "depth": 3,
-      "value": 44968000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 49,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Total Stockholders' Equity",
-      "depth": 3,
-      "value": 88762000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 50,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Class A and Class B Common Stock",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 51,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Additional Paid-In Capital",
-      "depth": 4,
-      "value": 44277000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 52,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Accumulated Other Comprehensive Loss",
-      "depth": 4,
-      "value": -483000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 53,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Retained Earnings",
-      "depth": 4,
-      "value": 44968000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 54,
-      "statement_type": "balance_sheet",
-      "period": "Q2 2019",
-      "label": "Total Liabilities and Stockholders' Equity",
-      "depth": 2,
-      "value": 117006000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 0,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Income Statement [Abstract]",
-      "depth": 0,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 1,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Statement [Table]",
-      "depth": 1,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 2,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Income Statement Location [Axis]",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 3,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Income Statement Location [Domain]",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 4,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Cost of revenue",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 5,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Research and development",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 6,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Marketing and sales",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 7,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "General and administrative",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 8,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Statement",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 9,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Contract Revenue",
-      "depth": 3,
-      "value": 31963000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 10,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Advertising",
-      "depth": 4,
-      "value": 31536000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 11,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Payments and other fees",
-      "depth": 4,
-      "value": 427000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 12,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "United States",
-      "depth": 4,
-      "value": 13510000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 13,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Asia Pacific",
-      "depth": 4,
-      "value": 6965000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 14,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "US & Canada",
-      "depth": 4,
-      "value": 14409000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 15,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Europe",
-      "depth": 4,
-      "value": 7721000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 16,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Rest Of World",
-      "depth": 4,
-      "value": 2868000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 17,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Costs and expenses:",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 18,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Total Cost of Revenue",
-      "depth": 4,
-      "value": 6123000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 19,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Research and Development Expense",
-      "depth": 4,
-      "value": 6175000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 20,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Selling Expense",
-      "depth": 4,
-      "value": 4434000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 21,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "General and Administrative Expense",
-      "depth": 4,
-      "value": 7288000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 22,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Costs and Expenses",
-      "depth": 4,
-      "value": 24020000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 23,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Operating Income",
-      "depth": 3,
-      "value": 7943000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 24,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Nonoperating Income/Expense",
-      "depth": 3,
-      "value": 371000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 25,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Income Before Tax from Continuing Operations",
-      "depth": 3,
-      "value": 8314000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 26,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Income Tax Expense",
-      "depth": 3,
-      "value": 3269000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 27,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Altera Corp V Commissioner",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 28,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Net Income",
-      "depth": 3,
-      "value": 5045000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 29,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Retained Earnings",
-      "depth": 4,
-      "value": 5045000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 30,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 4,
-      "value": 804000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 31,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 4,
-      "value": 4241000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 32,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Less: Net income attributable to participating securities",
-      "depth": 3,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 33,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 34,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 4,
-      "value": 0.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 35,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Basic Net Income Available to Common Shareholders",
-      "depth": 3,
-      "value": 5045000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 36,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 4,
-      "value": 804000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 37,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 4,
-      "value": 4241000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 38,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Earnings Per Share",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 39,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Earnings Per Share (Basic)",
-      "depth": 4,
-      "value": 1.77,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 40,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 5,
-      "value": 1.77,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 41,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 5,
-      "value": 1.77,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 42,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Earnings Per Share (Diluted)",
-      "depth": 4,
-      "value": 1.76,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 43,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 5,
-      "value": 1.76,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 44,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 5,
-      "value": 1.76,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 45,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Weighted average shares used to compute earnings per share attributable to Class A and Class B common stockholders:",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 46,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Shares Outstanding (Basic)",
-      "depth": 4,
-      "value": 2855000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 47,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 5,
-      "value": 455000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 48,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 5,
-      "value": 2400000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 49,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Shares Outstanding (Diluted)",
-      "depth": 4,
-      "value": 2873000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 50,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 5,
-      "value": 456000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 51,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 5,
-      "value": 2873000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 52,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Share-based compensation expense included in costs and expenses:",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 53,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Share-based compensation expense",
-      "depth": 4,
-      "value": 2313000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 54,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Cost of Sales",
-      "depth": 5,
-      "value": 196000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 55,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Research and Development Expense",
-      "depth": 5,
-      "value": 1650000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 56,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "General and Administrative Expense",
-      "depth": 5,
-      "value": 194000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 57,
-      "statement_type": "income_statement",
-      "period": "Q2 2019",
-      "label": "Selling and Marketing Expense",
-      "depth": 5,
-      "value": 273000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 0,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Statement of Cash Flows [Abstract]",
-      "depth": 0,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 1,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Statement [Table]",
-      "depth": 1,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 2,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Balance Sheet Location [Axis]",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 3,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Balance Sheet Location [Domain]",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 4,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Prepaid Expenses and Other Current Assets",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 5,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other Assets",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 6,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Statement",
-      "depth": 2,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 7,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Cash flows from operating activities",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 8,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net Income",
-      "depth": 4,
-      "value": 5045000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 9,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Retained Earnings",
-      "depth": 5,
-      "value": 5045000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 10,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Class B Common Stock",
-      "depth": 5,
-      "value": 804000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 11,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Class A Common Stock",
-      "depth": 5,
-      "value": 4241000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 12,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 13,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Depreciation and amortization",
-      "depth": 5,
-      "value": 2857000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 14,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Share-based compensation",
-      "depth": 5,
-      "value": 2313000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 15,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Deferred income taxes",
-      "depth": 5,
-      "value": 184000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 16,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other",
-      "depth": 5,
-      "value": -14000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 17,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Changes in assets and liabilities:",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 18,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Accounts receivable",
-      "depth": 6,
-      "value": -64000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 19,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Prepaid expenses and other current assets",
-      "depth": 6,
-      "value": 168000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 20,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other assets",
-      "depth": 6,
-      "value": -65000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 21,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Operating lease right-of-use assets, net",
-      "depth": 6,
-      "value": 1711000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 22,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Accounts payable",
-      "depth": 6,
-      "value": -87000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 23,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Partners payable",
-      "depth": 6,
-      "value": 20000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 24,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Accrued expenses and other current liabilities",
-      "depth": 6,
-      "value": 5982000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 25,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Deferred revenue and deposits",
-      "depth": 6,
-      "value": 51000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 26,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Operating lease liabilities, non-current",
-      "depth": 6,
-      "value": 1638000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 27,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other liabilities",
-      "depth": 6,
-      "value": 1657000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 28,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net Cash from Operating Activities",
-      "depth": 4,
-      "value": 17924000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 29,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Cash flows from investing activities",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 30,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Payments for Property, Plant and Equipment",
-      "depth": 4,
-      "value": 7470000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 31,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Purchases of marketable securities",
-      "depth": 4,
-      "value": 11755000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 32,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Proceeds from Sale of Debt Securities, ",
-      "depth": 4,
-      "value": 4456000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 33,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Proceeds from Maturities, Prepayments and Calls of Securities",
-      "depth": 4,
-      "value": 4105000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 34,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other investing activities, net",
-      "depth": 4,
-      "value": 114000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 35,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net Cash from Investing Activities",
-      "depth": 4,
-      "value": -10778000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 36,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Cash flows from financing activities",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 37,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Tax Withholding for Share-Based Compensation",
-      "depth": 4,
-      "value": 1119000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 38,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Repurchases of Class A common stock",
-      "depth": 4,
-      "value": 1758000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 39,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Principal payments on finance leases",
-      "depth": 4,
-      "value": 267000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 40,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net change in overdraft in cash pooling entities",
-      "depth": 4,
-      "value": -119000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 41,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other financing activities, net",
-      "depth": 4,
-      "value": 9000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 42,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net Cash from Financing Activities",
-      "depth": 4,
-      "value": -3254000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 43,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Effect of exchange rate changes on cash, cash equivalents, and restricted cash",
-      "depth": 3,
-      "value": -18000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 44,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net Change in Cash",
-      "depth": 3,
-      "value": 3874000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 45,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Total cash, cash equivalents, and restricted cash",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 46,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Total cash, cash equivalents, and restricted cash",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 47,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Reconciliation of cash, cash equivalents, and restricted cash to the condensed consolidated balance sheets",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 48,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Cash and Cash Equivalents",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 49,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Corporate debt securities",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 50,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "U.S. government agency securities",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 51,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "U.S. government securities",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 52,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Money market funds",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 53,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Cash",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 54,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Certificate of deposits and time deposits",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 55,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Restricted cash",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 56,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Other Assets",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 57,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Prepaid Expenses and Other Current Assets",
-      "depth": 5,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 58,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Total cash, cash equivalents, and restricted cash",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 59,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Supplemental cash flow data",
-      "depth": 3,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 60,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Cash paid during the period for:",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 61,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Interest",
-      "depth": 5,
-      "value": 6000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 62,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Income Tax Expense",
-      "depth": 5,
-      "value": 1696000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 63,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Non-cash investing activities:",
-      "depth": 4,
-      "value": null,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 64,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Net change in prepaids and liabilities related to property and equipment",
-      "depth": 5,
-      "value": -203000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
-    },
-    {
-      "order": 65,
-      "statement_type": "cash_flow",
-      "period": "Q2 2019",
-      "label": "Property and equipment in accounts payable and accrued liabilities",
-      "depth": 5,
-      "value": 1667000000.0,
-      "filing_date": "2019-07-25",
-      "report_date": "2019-06-30"
     },
     {
       "order": 0,
