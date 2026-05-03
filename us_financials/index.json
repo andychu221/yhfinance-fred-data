@@ -29,7 +29,6 @@
     "SIMO": "Silicon Motion",
     "STM": "STMicro",
     "CRUS": "Cirrus Logic",
-    "NOD": "Nordic Semi",
     "LRCX": "Lam Research",
     "SNDK": "Sandisk",
     "TXN": "TI",
@@ -194,11 +193,6 @@
       "ticker": "CRUS",
       "company": "Cirrus Logic",
       "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/CRUS.json"
-    },
-    {
-      "ticker": "NOD",
-      "company": "Nordic Semi",
-      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/NOD.json"
     },
     {
       "ticker": "LRCX",
