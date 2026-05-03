@@ -15,7 +15,6 @@
     "MU": "Micron",
     "NFLX": "Netflix",
     "MRVL": "Marvell",
-    "TSM": "TSMC ADR",
     "GFS": "GFS",
     "SWKS": "Skyworks",
     "QRVO": "Qorvo",
@@ -28,8 +27,6 @@
     "CSCO": "Cisco",
     "BTDR": "Bitdeer",
     "SIMO": "Silicon Motion",
-    "ASML.AS": "ASML",
-    "IFX.DE": "Infineon",
     "STM": "STMicro",
     "CRUS": "Cirrus Logic",
     "NOD": "Nordic Semi",
@@ -129,11 +126,6 @@
       "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MRVL.json"
     },
     {
-      "ticker": "TSM",
-      "company": "TSMC ADR",
-      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/TSM.json"
-    },
-    {
       "ticker": "GFS",
       "company": "GFS",
       "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/GFS.json"
@@ -192,16 +184,6 @@
       "ticker": "SIMO",
       "company": "Silicon Motion",
       "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/SIMO.json"
-    },
-    {
-      "ticker": "ASML.AS",
-      "company": "ASML",
-      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/ASML.AS.json"
-    },
-    {
-      "ticker": "IFX.DE",
-      "company": "Infineon",
-      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/IFX.DE.json"
     },
     {
       "ticker": "STM",
