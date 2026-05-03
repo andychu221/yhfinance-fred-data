@@ -1,5 +1,5 @@
 {
-  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據，包含計算的第四季數據",
+  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據",
   "tickers": {
     "AAPL": "Apple Inc.",
     "MSFT": "Microsoft Corporation",
@@ -9,24 +9,15 @@
     "META": "Meta Platforms Inc.",
     "TSLA": "Tesla Inc."
   },
-  "last_updated": "2026-04-30T22:58:49.331159",
+  "last_updated": "2026-05-03T22:20:37.366459",
   "data_structure": {
     "file_pattern": "us_financials/{TICKER}.json",
-    "example": "us_financials/AAPL.json",
     "format": {
-      "order": "項目在財報中的順序",
-      "statement_type": "balance_sheet | income_statement | cash_flow",
-      "period": "財報期間 (如 Q3 2024 或 FY 2024 或 Q4 2024)",
-      "label": "科目名稱",
-      "depth": "階層深度",
-      "value": "數值 (單位通常為千或百萬，請參考各公司財報)",
-      "filing_date": "提交日期 (YYYY-MM-DD)",
-      "report_date": "報告日期 (YYYY-MM-DD)"
-    },
-    "notes": {
-      "q4_calculation": "Q4 數據由年報減去前三季累積值計算而得 (僅適用於損益表和現金流量表)",
-      "balance_sheet": "資產負債表為時點數據，不計算 Q4",
-      "data_source": "使用 SEC EDGAR XBRL 解析，確保數據完整性和準確性"
+      "period": "財報期間",
+      "filing_date": "提交日期",
+      "report_date": "財報截止日期",
+      "balance_sheet_q4": "與 Annual 數據相同 (Snapshot)",
+      "cash_flow_q4": "由 Annual - Q1 - Q2 - Q3 (Flow) 計算得出"
     }
   },
   "files": [
