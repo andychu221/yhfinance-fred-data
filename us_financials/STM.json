@@ -1,0 +1,6855 @@
+{
+  "metadata": {
+    "ticker": "STM",
+    "company": "STMicro",
+    "cik": "932787",
+    "total_records": 760,
+    "last_updated": "2026-05-03T22:34:15.817998",
+    "periods_quarterly": 20,
+    "periods_annual": 5,
+    "currency": "USD",
+    "includes_q4_calculated": true
+  },
+  "data": [
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+      "depth": 2,
+      "is_total": true,
+      "value": 180000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+      "depth": 2,
+      "is_total": true,
+      "value": 1565000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+      "depth": 2,
+      "is_total": true,
+      "value": 4222000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+      "depth": 2,
+      "is_total": true,
+      "value": 3966000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",
+      "depth": 2,
+      "is_total": true,
+      "value": 2006000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Depreciation and amortization",
+      "depth": 3,
+      "is_total": false,
+      "value": 1854000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Depreciation and amortization",
+      "depth": 3,
+      "is_total": false,
+      "value": 1760000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Depreciation and amortization",
+      "depth": 3,
+      "is_total": false,
+      "value": 1561000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Depreciation and amortization",
+      "depth": 3,
+      "is_total": false,
+      "value": 1216000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Depreciation and amortization",
+      "depth": 3,
+      "is_total": false,
+      "value": 1045000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Share-based Payment Arrangement, Noncash Expense",
+      "depth": 3,
+      "is_total": false,
+      "value": 193000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Share-based Payment Arrangement, Noncash Expense",
+      "depth": 3,
+      "is_total": false,
+      "value": 222000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Share-based Payment Arrangement, Noncash Expense",
+      "depth": 3,
+      "is_total": false,
+      "value": 236000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Share-based Payment Arrangement, Noncash Expense",
+      "depth": 3,
+      "is_total": false,
+      "value": 215000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Share-based Payment Arrangement, Noncash Expense",
+      "depth": 3,
+      "is_total": false,
+      "value": 221000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Changes in operating assets and liabilities:",
+      "depth": 3,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 6,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Changes in operating assets and liabilities:",
+      "depth": 3,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 6,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Changes in operating assets and liabilities:",
+      "depth": 3,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 6,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Changes in operating assets and liabilities:",
+      "depth": 3,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 6,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Changes in operating assets and liabilities:",
+      "depth": 3,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 7,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Increase (Decrease) in Inventories",
+      "depth": 4,
+      "is_total": false,
+      "value": 172000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Increase (Decrease) in Inventories",
+      "depth": 4,
+      "is_total": false,
+      "value": 167000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Increase (Decrease) in Inventories",
+      "depth": 4,
+      "is_total": false,
+      "value": 72000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Increase (Decrease) in Inventories",
+      "depth": 4,
+      "is_total": false,
+      "value": 650000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Increase (Decrease) in Inventories",
+      "depth": 4,
+      "is_total": false,
+      "value": 188000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Deferred Income Tax Expense (Benefit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Deferred Income Tax Expense (Benefit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 140000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Deferred Income Tax Expense (Benefit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 13000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Deferred Income Tax Expense (Benefit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 10000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Deferred Income Tax Expense (Benefit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 46000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Net Cash Provided by (Used in) Operating Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 2152000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Net Cash Provided by (Used in) Operating Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 2965000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Net Cash Provided by (Used in) Operating Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 5992000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Net Cash Provided by (Used in) Operating Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 5202000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Net Cash Provided by (Used in) Operating Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": 3060000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Cash flows from investing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 10,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Cash flows from investing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 10,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Cash flows from investing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 10,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Cash flows from investing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 10,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Cash flows from investing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 11,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Net Cash Provided by (Used in) Investing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -43000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Net Cash Provided by (Used in) Investing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -3742000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Net Cash Provided by (Used in) Investing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -5766000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Net Cash Provided by (Used in) Investing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -4591000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Net Cash Provided by (Used in) Investing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -1518000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Cash flows from financing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Cash flows from financing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Cash flows from financing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Cash flows from financing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Cash flows from financing activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 13,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+      "depth": 2,
+      "is_total": false,
+      "value": 23000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+      "depth": 2,
+      "is_total": false,
+      "value": 44000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+      "depth": 2,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+      "depth": 2,
+      "is_total": false,
+      "value": 44000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
+      "depth": 2,
+      "is_total": false,
+      "value": 49000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Payments for Repurchase of Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 367000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Payments for Repurchase of Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 359000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Payments for Repurchase of Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 346000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Payments for Repurchase of Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 346000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Payments for Repurchase of Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 485000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -1560000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -155000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -267000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -567000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Net Cash Provided by (Used in) Financing Activities",
+      "depth": 2,
+      "is_total": true,
+      "value": -1314000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 321000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 288000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 223000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 212000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 2,
+      "is_total": false,
+      "value": 205000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Proceeds from (Payments for) Other Financing Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": -12000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Proceeds from (Payments for) Other Financing Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": -4000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Proceeds from (Payments for) Other Financing Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": -2000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Proceeds from (Payments for) Other Financing Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 17,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Proceeds from (Payments for) Other Financing Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Repayments of Long-term Debt",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Repayments of Long-term Debt",
+      "depth": 2,
+      "is_total": false,
+      "value": 203000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Repayments of Long-term Debt",
+      "depth": 2,
+      "is_total": false,
+      "value": 169000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Repayments of Long-term Debt",
+      "depth": 2,
+      "is_total": false,
+      "value": 134000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Repayments of Long-term Debt",
+      "depth": 2,
+      "is_total": false,
+      "value": 134000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+      "depth": 1,
+      "is_total": true,
+      "value": 555000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+      "depth": 1,
+      "is_total": true,
+      "value": -940000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+      "depth": 1,
+      "is_total": true,
+      "value": -36000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+      "depth": 1,
+      "is_total": true,
+      "value": 33000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
+      "depth": 1,
+      "is_total": true,
+      "value": 219000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Supplemental disclosure of cash flow information:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 20,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Supplemental disclosure of cash flow information:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 20,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Supplemental disclosure of cash flow information:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 20,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Supplemental disclosure of cash flow information:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 20,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Supplemental disclosure of cash flow information:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": 67000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": 31000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": 2000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
+      "depth": 2,
+      "is_total": false,
+      "value": 2000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Income Taxes Paid, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 141000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Income Taxes Paid, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 22,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Income Taxes Paid, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 22,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Income Taxes Paid, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 22,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Income Taxes Paid, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 23,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 23,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 23,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 23,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 23,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 24,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Share-based Payment Arrangement, Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 193000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Share-based Payment Arrangement, Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 222000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Share-based Payment Arrangement, Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 236000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Share-based Payment Arrangement, Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 215000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Share-based Payment Arrangement, Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 221000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Amortization of Debt Issuance Costs",
+      "depth": 1,
+      "is_total": false,
+      "value": 1000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Amortization of Debt Issuance Costs",
+      "depth": 1,
+      "is_total": false,
+      "value": 1000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Amortization of Debt Issuance Costs",
+      "depth": 1,
+      "is_total": false,
+      "value": 1000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Amortization of Debt Issuance Costs",
+      "depth": 1,
+      "is_total": false,
+      "value": 1000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Amortization of Debt Issuance Costs",
+      "depth": 1,
+      "is_total": false,
+      "value": 36000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 101000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 102000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 97000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 103000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 93000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Depreciation",
+      "depth": 1,
+      "is_total": false,
+      "value": 1753000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Depreciation",
+      "depth": 1,
+      "is_total": false,
+      "value": 1658000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Depreciation",
+      "depth": 1,
+      "is_total": false,
+      "value": 1464000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Depreciation",
+      "depth": 1,
+      "is_total": false,
+      "value": 1113000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Depreciation",
+      "depth": 1,
+      "is_total": false,
+      "value": 952000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1854000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1760000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1561000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1216000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1045000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Derivative, Gain (Loss) on Derivative, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": -32000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Derivative, Gain (Loss) on Derivative, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 9000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Derivative, Gain (Loss) on Derivative, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Derivative, Gain (Loss) on Derivative, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 24000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Derivative, Gain (Loss) on Derivative, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 9000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 1,
+      "is_total": false,
+      "value": 321000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 1,
+      "is_total": false,
+      "value": 288000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 1,
+      "is_total": false,
+      "value": 223000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 1,
+      "is_total": false,
+      "value": 212000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Payments of Ordinary Dividends, Common Stock",
+      "depth": 1,
+      "is_total": false,
+      "value": 205000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 89000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 88000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 24000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 5000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 15000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 7000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Gain (Loss) on Disposition of Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Gain (Loss) on Disposition of Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 5000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Gain (Loss) on Disposition of Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Gain (Loss) on Disposition of Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 2000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Gain (Loss) on Disposition of Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 5000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": 315000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": 290000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": 303000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": 297000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": 313000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 35,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 35,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 35,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 35,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 36,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Impairment of Intangible Assets (Excluding Goodwill)",
+      "depth": 1,
+      "is_total": false,
+      "value": 20000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Impairment of Intangible Assets (Excluding Goodwill)",
+      "depth": 1,
+      "is_total": false,
+      "value": 9000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Impairment of Intangible Assets (Excluding Goodwill)",
+      "depth": 1,
+      "is_total": false,
+      "value": 42000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Impairment of Intangible Assets (Excluding Goodwill)",
+      "depth": 1,
+      "is_total": false,
+      "value": 38000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Impairment of Intangible Assets (Excluding Goodwill)",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 37,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 220000000.0
+    },
+    {
+      "order": 37,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 313000000.0
+    },
+    {
+      "order": 37,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 541000000.0
+    },
+    {
+      "order": 37,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 520000000.0
+    },
+    {
+      "order": 37,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 331000000.0
+    },
+    {
+      "order": 38,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "InterestExpenseNonoperating",
+      "depth": 1,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 38,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "InterestExpenseNonoperating",
+      "depth": 1,
+      "is_total": false,
+      "value": 85000000.0
+    },
+    {
+      "order": 38,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "InterestExpenseNonoperating",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 38,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "InterestExpenseNonoperating",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 38,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "InterestExpenseNonoperating",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 39,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 223000000.0
+    },
+    {
+      "order": 39,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 303000000.0
+    },
+    {
+      "order": 39,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 226000000.0
+    },
+    {
+      "order": 39,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 71000000.0
+    },
+    {
+      "order": 39,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 13000000.0
+    },
+    {
+      "order": 40,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 166000000.0
+    },
+    {
+      "order": 40,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 1557000000.0
+    },
+    {
+      "order": 40,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 4211000000.0
+    },
+    {
+      "order": 40,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 3960000000.0
+    },
+    {
+      "order": 40,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 2000000000.0
+    },
+    {
+      "order": 41,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 14000000.0
+    },
+    {
+      "order": 41,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 8000000.0
+    },
+    {
+      "order": 41,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 11000000.0
+    },
+    {
+      "order": 41,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 6000000.0
+    },
+    {
+      "order": 41,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 6000000.0
+    },
+    {
+      "order": 42,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 228000000.0
+    },
+    {
+      "order": 42,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 182000000.0
+    },
+    {
+      "order": 42,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 55000000.0
+    },
+    {
+      "order": 42,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 159000000.0
+    },
+    {
+      "order": 42,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 141000000.0
+    },
+    {
+      "order": 43,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Payments to Acquire Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 43,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Payments to Acquire Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 43,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Payments to Acquire Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": 10000000.0
+    },
+    {
+      "order": 43,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Payments to Acquire Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 43,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Payments to Acquire Investments",
+      "depth": 1,
+      "is_total": false,
+      "value": 17000000.0
+    },
+    {
+      "order": 44,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Proceeds from Contributed Capital",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 44,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Proceeds from Contributed Capital",
+      "depth": 1,
+      "is_total": false,
+      "value": 344000000.0
+    },
+    {
+      "order": 44,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Proceeds from Contributed Capital",
+      "depth": 1,
+      "is_total": false,
+      "value": 152000000.0
+    },
+    {
+      "order": 44,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Proceeds from Contributed Capital",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 44,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Proceeds from Contributed Capital",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 45,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Proceeds from Issuance of Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 45,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Proceeds from Issuance of Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 300000000.0
+    },
+    {
+      "order": 45,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Proceeds from Issuance of Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 45,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Proceeds from Issuance of Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 45,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Proceeds from Issuance of Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 46,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Proceeds from Noncontrolling Interests",
+      "depth": 1,
+      "is_total": false,
+      "value": 156000000.0
+    },
+    {
+      "order": 46,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Proceeds from Noncontrolling Interests",
+      "depth": 1,
+      "is_total": false,
+      "value": 104000000.0
+    },
+    {
+      "order": 46,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Proceeds from Noncontrolling Interests",
+      "depth": 1,
+      "is_total": false,
+      "value": 52000000.0
+    },
+    {
+      "order": 46,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Proceeds from Noncontrolling Interests",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 46,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Proceeds from Noncontrolling Interests",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 47,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Restructuring Costs and Asset Impairment Charges",
+      "depth": 1,
+      "is_total": false,
+      "value": 226000000.0
+    },
+    {
+      "order": 47,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Restructuring Costs and Asset Impairment Charges",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 47,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Restructuring Costs and Asset Impairment Charges",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 47,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Restructuring Costs and Asset Impairment Charges",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 47,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Restructuring Costs and Asset Impairment Charges",
+      "depth": 1,
+      "is_total": false,
+      "value": 2000000.0
+    },
+    {
+      "order": 48,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2025",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 11800000000.0
+    },
+    {
+      "order": 48,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 13269000000.0
+    },
+    {
+      "order": 48,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 17286000000.0
+    },
+    {
+      "order": 48,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 16128000000.0
+    },
+    {
+      "order": 48,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 12761000000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Income Statement [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": 11800000000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": 13269000000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": 17286000000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": 16128000000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Total Revenue",
+      "depth": 1,
+      "is_total": true,
+      "value": 12761000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 7801000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 8049000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 8999000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 8493000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Cost of Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 7435000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1632000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1649000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1631000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1454000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Selling, General and Administrative Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1323000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 175000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 1676000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 4611000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 4439000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Operating Income (Loss)",
+      "depth": 1,
+      "is_total": true,
+      "value": 2419000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 400000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 1878000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 4763000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 4486000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
+      "depth": 1,
+      "is_total": true,
+      "value": 2337000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 220000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 313000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 541000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 520000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": true,
+      "value": 331000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 14000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 8000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 11000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Net Income (Loss) Attributable to Noncontrolling Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 166000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 1557000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 4211000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 3960000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Net Income (Loss) Attributable to Parent",
+      "depth": 1,
+      "is_total": true,
+      "value": 2000000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.19
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 1.73
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 4.66
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 4.37
+    },
+    {
+      "order": 9,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Earnings Per Share, Basic",
+      "depth": 1,
+      "is_total": false,
+      "value": 2.21
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.18
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 1.66
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 4.46
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 4.19
+    },
+    {
+      "order": 10,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Earnings Per Share, Diluted",
+      "depth": 1,
+      "is_total": false,
+      "value": 2.16
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 11,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 101000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 102000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 97000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 103000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Amortization of Intangible Assets",
+      "depth": 1,
+      "is_total": false,
+      "value": 93000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.36
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.36
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 13,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Common Stock, Dividends, Per Share, Declared",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Cost of Goods and Services Sold",
+      "depth": 1,
+      "is_total": false,
+      "value": 7801000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Cost of Goods and Services Sold",
+      "depth": 1,
+      "is_total": false,
+      "value": 8049000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Cost of Goods and Services Sold",
+      "depth": 1,
+      "is_total": false,
+      "value": 8999000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Cost of Goods and Services Sold",
+      "depth": 1,
+      "is_total": false,
+      "value": 8493000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Cost of Goods and Services Sold",
+      "depth": 1,
+      "is_total": false,
+      "value": 7435000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 160000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 173000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 528000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 510000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Current Income Tax Expense (Benefit)",
+      "depth": 1,
+      "is_total": false,
+      "value": 285000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1854000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1760000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1561000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1216000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Depreciation, Depletion and Amortization, Nonproduction",
+      "depth": 1,
+      "is_total": false,
+      "value": 1045000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 24000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 5000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 15000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Foreign Currency Transaction Gain (Loss), Realized",
+      "depth": 1,
+      "is_total": false,
+      "value": 7000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 18,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Goodwill, Impairment Loss",
+      "depth": 1,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 3999000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 5220000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 8287000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 7635000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Gross Profit",
+      "depth": 1,
+      "is_total": true,
+      "value": 5326000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": -35000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": -33000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": -32000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": -22000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
+      "depth": 1,
+      "is_total": false,
+      "value": -20000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 13000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Interest Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 42000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Interest Income (Expense), Nonoperating, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 168000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Interest Income (Expense), Nonoperating, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 218000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Interest Income (Expense), Nonoperating, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 171000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Interest Income (Expense), Nonoperating, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 58000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Interest Income (Expense), Nonoperating, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": -29000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 223000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 303000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 226000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 71000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Investment Income, Interest",
+      "depth": 1,
+      "is_total": false,
+      "value": 13000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Investment Income, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 110000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Investment Income, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 61000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Investment Income, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 15000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Investment Income, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 24,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Investment Income, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 228000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 182000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 55000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 159000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Other Operating Income (Expense), Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 141000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Reclassification from AOCI, Current Period, before Tax, Attributable to Parent",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 26,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Reclassification from AOCI, Current Period, before Tax, Attributable to Parent",
+      "depth": 1,
+      "is_total": false,
+      "value": 8000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Reclassification from AOCI, Current Period, before Tax, Attributable to Parent",
+      "depth": 1,
+      "is_total": false,
+      "value": -2000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Reclassification from AOCI, Current Period, before Tax, Attributable to Parent",
+      "depth": 1,
+      "is_total": false,
+      "value": -201000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Reclassification from AOCI, Current Period, before Tax, Attributable to Parent",
+      "depth": 1,
+      "is_total": false,
+      "value": 6000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 2044000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 2077000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 2100000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1901000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Research and Development Expense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1723000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2025",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 11800000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 13269000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 17286000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 16128000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Revenue from Contract with Customer, Including Assessed Tax",
+      "depth": 1,
+      "is_total": false,
+      "value": 12761000000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 24800000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 24743000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 24453000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 19982000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 15540000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 11058000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 10877000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 10554000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 8201000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 5660000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 315000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 290000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 303000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 297000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 313000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 2837000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 2282000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 3222000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 3258000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 3225000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1745000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1749000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1731000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1970000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1759000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 3136000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 2794000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 2698000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 2583000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 1972000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 11271000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 11734000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 11807000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 9805000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 7828000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 252000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 251000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 278000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 193000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 200000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 1272000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 961000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 808000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 661000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 639000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 6575000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 7064000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 7601000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 7224000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 6267000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 13082000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 13459000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 12470000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 8713000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 5223000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 945000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 236000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 613000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 460000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 496000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 17828000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 17449000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 16729000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 12693000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 9209000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 3281000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 3088000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 2866000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 2631000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 2533000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 24800000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 24743000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 24453000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 19982000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 15540000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3351000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3773000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3730000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3837000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 2949000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 52000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 58000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 52000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 169000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 160000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 188000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 141000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 148000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 47000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 64000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 926000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 904000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 735000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 454000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 416000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 397000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 230000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 123000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 65000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 64000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1745000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1749000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1731000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1970000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 195000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": 195000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1440000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1306000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1525000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1385000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1101000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 89000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 88000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 3136000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2794000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2698000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2583000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 1972000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2133000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2953000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2927000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2717000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2539000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 298000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 990000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 217000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 175000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 143000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2025",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 1835000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 1963000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 2710000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 2542000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 2396000000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 24800000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 24743000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 24453000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 19982000000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 15540000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 11058000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 10877000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 10554000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 8201000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Property, Plant and Equipment, Net",
+      "depth": 2,
+      "is_total": true,
+      "value": 5660000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 315000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 290000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 303000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 297000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 313000000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Current assets:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 2837000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 2282000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 3222000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 3258000000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Cash and Cash Equivalents, at Carrying Value",
+      "depth": 3,
+      "is_total": false,
+      "value": 3225000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1745000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1749000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1731000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1970000000.0
+    },
+    {
+      "order": 7,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 1759000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 3136000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 2794000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 2698000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 2583000000.0
+    },
+    {
+      "order": 8,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Inventory, Net",
+      "depth": 3,
+      "is_total": true,
+      "value": 1972000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 11271000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 11734000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 11807000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 9805000000.0
+    },
+    {
+      "order": 9,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Assets, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 7828000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 252000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 251000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 278000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 193000000.0
+    },
+    {
+      "order": 10,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Operating Lease, Right-of-Use Asset",
+      "depth": 2,
+      "is_total": false,
+      "value": 200000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 1272000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 961000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 808000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 661000000.0
+    },
+    {
+      "order": 11,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Other Assets, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 639000000.0
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 12,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 6575000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 7064000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 7601000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 7224000000.0
+    },
+    {
+      "order": 13,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 6267000000.0
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 14,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Stockholders’ equity:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 15,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Common Stock, Value, Issued",
+      "depth": 3,
+      "is_total": false,
+      "value": 1157000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 13082000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 13459000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 12470000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 8713000000.0
+    },
+    {
+      "order": 16,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Retained Earnings (Accumulated Deficit)",
+      "depth": 3,
+      "is_total": false,
+      "value": 5223000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 945000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 236000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 613000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 460000000.0
+    },
+    {
+      "order": 17,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
+      "depth": 3,
+      "is_total": false,
+      "value": 496000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 17828000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 17449000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 16729000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 12693000000.0
+    },
+    {
+      "order": 18,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Stockholders' Equity Attributable to Parent",
+      "depth": 3,
+      "is_total": true,
+      "value": 9209000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 3281000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 3088000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 2866000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 2631000000.0
+    },
+    {
+      "order": 19,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Additional Paid in Capital, Common Stock",
+      "depth": 3,
+      "is_total": false,
+      "value": 2533000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 24800000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 24743000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 24453000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 19982000000.0
+    },
+    {
+      "order": 20,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Liabilities and Equity",
+      "depth": 2,
+      "is_total": true,
+      "value": 15540000000.0
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 21,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Current liabilities:",
+      "depth": 2,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3351000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3773000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3730000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 3837000000.0
+    },
+    {
+      "order": 22,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Liabilities, Current",
+      "depth": 3,
+      "is_total": true,
+      "value": 2949000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 52000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 58000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 52000000.0
+    },
+    {
+      "order": 23,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Operating Lease, Liability, Current",
+      "depth": 3,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 169000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 160000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 188000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 141000000.0
+    },
+    {
+      "order": 24,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Operating Lease, Liability, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 148000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 47000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 25,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Deferred Income Tax Liabilities, Net",
+      "depth": 2,
+      "is_total": false,
+      "value": 64000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 926000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 904000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 735000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 454000000.0
+    },
+    {
+      "order": 26,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Other Liabilities, Noncurrent",
+      "depth": 2,
+      "is_total": false,
+      "value": 416000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 397000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 230000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 123000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 65000000.0
+    },
+    {
+      "order": 27,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Stockholders' Equity Attributable to Noncontrolling Interest",
+      "depth": 0,
+      "is_total": false,
+      "value": 64000000.0
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 28,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1745000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1749000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1731000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1970000000.0
+    },
+    {
+      "order": 29,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 195000000.0
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": null
+    },
+    {
+      "order": 30,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Accounts Receivable, after Allowance for Credit Loss",
+      "depth": 1,
+      "is_total": true,
+      "value": 195000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1440000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1306000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1525000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1385000000.0
+    },
+    {
+      "order": 31,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Accrued Liabilities, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 1101000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 89000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 88000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 54000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 60000000.0
+    },
+    {
+      "order": 32,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Dividends Payable, Current",
+      "depth": 1,
+      "is_total": false,
+      "value": 55000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 3136000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2794000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2698000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 2583000000.0
+    },
+    {
+      "order": 33,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Inventory, Net",
+      "depth": 1,
+      "is_total": true,
+      "value": 1972000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2133000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2953000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2927000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2717000000.0
+    },
+    {
+      "order": 34,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Long-term Debt",
+      "depth": 1,
+      "is_total": false,
+      "value": 2539000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 298000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 990000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 217000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 175000000.0
+    },
+    {
+      "order": 35,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Long-term Debt, Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 143000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2025",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 1835000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 1963000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 2710000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 2542000000.0
+    },
+    {
+      "order": 36,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Long-term Debt, Excluding Current Maturities",
+      "depth": 1,
+      "is_total": false,
+      "value": 2396000000.0
+    }
+  ]
+}
