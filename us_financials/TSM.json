@@ -1,0 +1,915 @@
+{
+  "metadata": {
+    "ticker": "TSM",
+    "company": "TSMC ADR",
+    "cik": "1046179",
+    "total_records": 100,
+    "last_updated": "2026-05-03T22:32:39.559462",
+    "periods_quarterly": 20,
+    "periods_annual": 5,
+    "currency": "USD",
+    "includes_q4_calculated": true
+  },
+  "data": [
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2020",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2020",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": 35301100000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": 27793200000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": 32323300000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": 21372800000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2020",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": 18198300000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2020",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2024",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 2554000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2023",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1988000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2022",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1741800000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2021",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1331300000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow_annual",
+      "period": "FY 2020",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1013400000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2020",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 2554000000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1988000000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1741800000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1331300000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2020",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1013400000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 49538100000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 38377200000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 43877500000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 29543500000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2020",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 25325100000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 6227000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 5955900000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 5312900000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 4496600000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2020",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 3899100000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 88268000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2023",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 70598800000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2022",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 73670400000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2021",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 57224800000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2020",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 47694300000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2020",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2020",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 204079400000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 180672700000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 161550900000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 134293500000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2020",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 98312000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2020",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 73574000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2023",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 67874900000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2022",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 66600300000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2021",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 56727500000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2020",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 32935800000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2020",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2020",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 204079400000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 180672700000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 161550900000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 134293500000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2020",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 98312000000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2020",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 73574000000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2023",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 67874900000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2022",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 66600300000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2021",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 56727500000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2020",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 32935800000.0
+    }
+  ]
+}
