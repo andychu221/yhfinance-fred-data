@@ -1,0 +1,465 @@
+{
+  "metadata": {
+    "ticker": "BTDR",
+    "company": "Bitdeer",
+    "cik": "1899123",
+    "total_records": 50,
+    "last_updated": "2026-05-03T22:33:53.298327",
+    "periods_quarterly": 20,
+    "periods_annual": 5,
+    "currency": "USD",
+    "includes_q4_calculated": true
+  },
+  "data": [
+    {
+      "order": 0,
+      "statement_type": "cash_flow",
+      "period": "Q2 2025",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "cash_flow",
+      "period": "Q2 2024",
+      "label": "Statement of Cash Flows [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow",
+      "period": "Q2 2025",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "cash_flow",
+      "period": "Q2 2024",
+      "label": "Cash flows from operating activities:",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow",
+      "period": "Q2 2025",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": 261740000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "cash_flow",
+      "period": "Q2 2024",
+      "label": "Profit or Loss",
+      "depth": 2,
+      "is_total": true,
+      "value": -17137000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow",
+      "period": "Q2 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 3,
+      "statement_type": "cash_flow",
+      "period": "Q2 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow",
+      "period": "Q2 2025",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 35527000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "cash_flow",
+      "period": "Q2 2024",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 30821000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow",
+      "period": "Q2 2025",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": 35818000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "cash_flow",
+      "period": "Q2 2024",
+      "label": "Goodwill",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 35527000.0
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 30821000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 9595000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 58536000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "InterestExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1779000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "InterestExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 1676000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 79591000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 29212000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 225710000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 218735000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement",
+      "period": "Q2 2025",
+      "label": "SellingExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 3019000.0
+    },
+    {
+      "order": 6,
+      "statement_type": "income_statement",
+      "period": "Q2 2024",
+      "label": "SellingExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 3863000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet",
+      "period": "Q2 2025",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet",
+      "period": "Q2 2025",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet",
+      "period": "Q2 2025",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 2041070000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet",
+      "period": "Q2 2025",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 35818000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet",
+      "period": "Q2 2025",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet",
+      "period": "Q2 2025",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 1334319000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Additional Financial Items",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "GeneralAndAdministrativeExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 66454000.0
+    },
+    {
+      "order": 2,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "GrossProfit",
+      "depth": 1,
+      "is_total": true,
+      "value": 77809000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "ResearchAndDevelopmentExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 29534000.0
+    },
+    {
+      "order": 4,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "Revenue",
+      "depth": 1,
+      "is_total": false,
+      "value": 368554000.0
+    },
+    {
+      "order": 5,
+      "statement_type": "income_statement_annual",
+      "period": "FY 2024",
+      "label": "SellingExpense",
+      "depth": 1,
+      "is_total": false,
+      "value": 8246000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 639387000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_annual",
+      "period": "FY 2024",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 306821000.0
+    },
+    {
+      "order": 0,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Statement of Financial Position [Abstract]",
+      "depth": 0,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 1,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "ASSETS",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 2,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Total Assets",
+      "depth": 2,
+      "is_total": true,
+      "value": 639387000.0
+    },
+    {
+      "order": 3,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Goodwill",
+      "depth": 2,
+      "is_total": false,
+      "value": 0.0
+    },
+    {
+      "order": 4,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "LIABILITIES AND EQUITY",
+      "depth": 1,
+      "is_total": false,
+      "value": null
+    },
+    {
+      "order": 5,
+      "statement_type": "balance_sheet_q4",
+      "period": "Q4 2024",
+      "label": "Total Liabilities",
+      "depth": 2,
+      "is_total": true,
+      "value": 306821000.0
+    }
+  ]
+}
