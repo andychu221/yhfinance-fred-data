@@ -1,5 +1,5 @@
 {
-  "description": "科技巨頭財報數據",
+  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據",
   "tickers": {
     "MSFT": "Microsoft",
     "GOOGL": "Google",
@@ -41,5 +41,212 @@
     "MTSI": "MACOM",
     "RMBS": "Rambus"
   },
-  "last_updated": "2026-05-04T22:59:53.677519"
+  "last_updated": "2026-05-04T23:07:44.534925",
+  "data_structure": {
+    "file_pattern": "us_financials/{TICKER}.json",
+    "format": {
+      "period": "財報期間",
+      "filing_date": "提交日期",
+      "report_date": "財報截止日期",
+      "balance_sheet_q4": "與 Annual 數據相同 (Snapshot)",
+      "cash_flow_q4": "由 Annual - Q1 - Q2 - Q3 (Flow) 計算得出"
+    }
+  },
+  "files": [
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MSFT.json"
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Google",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/GOOGL.json"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AMZN.json"
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AAPL.json"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/NVDA.json"
+    },
+    {
+      "ticker": "META",
+      "company": "Meta",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/META.json"
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/TSLA.json"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AVGO.json"
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AMD.json"
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/QCOM.json"
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/INTC.json"
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MU.json"
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/NFLX.json"
+    },
+    {
+      "ticker": "MRVL",
+      "company": "Marvell",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MRVL.json"
+    },
+    {
+      "ticker": "SWKS",
+      "company": "Skyworks",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/SWKS.json"
+    },
+    {
+      "ticker": "QRVO",
+      "company": "Qorvo",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/QRVO.json"
+    },
+    {
+      "ticker": "TSEM",
+      "company": "Tower Semi",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/TSEM.json"
+    },
+    {
+      "ticker": "ARM",
+      "company": "ARM",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/ARM.json"
+    },
+    {
+      "ticker": "NXPI",
+      "company": "NXP",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/NXPI.json"
+    },
+    {
+      "ticker": "ADI",
+      "company": "Analog Devices",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/ADI.json"
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/AMAT.json"
+    },
+    {
+      "ticker": "KLAC",
+      "company": "KLA",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/KLAC.json"
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/CSCO.json"
+    },
+    {
+      "ticker": "BTDR",
+      "company": "Bitdeer",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/BTDR.json"
+    },
+    {
+      "ticker": "SIMO",
+      "company": "Silicon Motion",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/SIMO.json"
+    },
+    {
+      "ticker": "STM",
+      "company": "STMicro",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/STM.json"
+    },
+    {
+      "ticker": "CRUS",
+      "company": "Cirrus Logic",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/CRUS.json"
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/LRCX.json"
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/SNDK.json"
+    },
+    {
+      "ticker": "TXN",
+      "company": "TI",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/TXN.json"
+    },
+    {
+      "ticker": "MPWR",
+      "company": "Monolithic",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MPWR.json"
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/TER.json"
+    },
+    {
+      "ticker": "MCHP",
+      "company": "Microchip",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MCHP.json"
+    },
+    {
+      "ticker": "CRDO",
+      "company": "Credo",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/CRDO.json"
+    },
+    {
+      "ticker": "ON",
+      "company": "ON",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/ON.json"
+    },
+    {
+      "ticker": "ALAB",
+      "company": "Astera Labs",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/ALAB.json"
+    },
+    {
+      "ticker": "ENTG",
+      "company": "Entegris",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/ENTG.json"
+    },
+    {
+      "ticker": "MTSI",
+      "company": "MACOM",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/MTSI.json"
+    },
+    {
+      "ticker": "RMBS",
+      "company": "Rambus",
+      "url": "https://raw.githubusercontent.com/andychu221/yhfinance-fred-data/main/us_financials/RMBS.json"
+    }
+  ]
 }
