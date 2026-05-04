@@ -4,15 +4,15 @@
     "company": "Bitdeer",
     "cik": "1899123",
     "total_records": 50,
-    "last_updated": "2026-05-04T22:57:59.333237",
+    "last_updated": "2026-05-04T23:05:41.211718",
     "periods_quarterly": 20,
     "periods_annual": 5,
-    "currency": "USD"
+    "currency": "USD",
+    "includes_q4_calculated": true
   },
   "data": [
     {
       "order": 0,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -22,7 +22,6 @@
     },
     {
       "order": 0,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Statement of Cash Flows [Abstract]",
@@ -32,7 +31,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Cash flows from operating activities:",
@@ -42,7 +40,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Cash flows from operating activities:",
@@ -52,7 +49,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Profit or Loss",
@@ -62,7 +58,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Profit or Loss",
@@ -72,7 +67,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Additional Financial Items",
@@ -82,7 +76,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Additional Financial Items",
@@ -92,7 +85,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "GeneralAndAdministrativeExpense",
@@ -102,7 +94,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "GeneralAndAdministrativeExpense",
@@ -112,7 +103,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Goodwill",
@@ -122,7 +112,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Goodwill",
@@ -132,7 +121,6 @@
     },
     {
       "order": 0,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Additional Financial Items",
@@ -142,7 +130,6 @@
     },
     {
       "order": 0,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Additional Financial Items",
@@ -152,7 +139,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "GeneralAndAdministrativeExpense",
@@ -162,7 +148,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "GeneralAndAdministrativeExpense",
@@ -172,7 +157,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "GrossProfit",
@@ -182,7 +166,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "GrossProfit",
@@ -192,7 +175,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "InterestExpense",
@@ -202,7 +184,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "InterestExpense",
@@ -212,7 +193,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "ResearchAndDevelopmentExpense",
@@ -222,7 +202,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "ResearchAndDevelopmentExpense",
@@ -232,7 +211,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Revenue",
@@ -242,7 +220,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Revenue",
@@ -252,7 +229,6 @@
     },
     {
       "order": 6,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "SellingExpense",
@@ -262,7 +238,6 @@
     },
     {
       "order": 6,
-      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "SellingExpense",
@@ -272,7 +247,6 @@
     },
     {
       "order": 0,
-      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Statement of Financial Position [Abstract]",
@@ -282,7 +256,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "ASSETS",
@@ -292,7 +265,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Total Assets",
@@ -302,7 +274,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Goodwill",
@@ -312,7 +283,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "LIABILITIES AND EQUITY",
@@ -322,7 +292,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Total Liabilities",
@@ -332,7 +301,6 @@
     },
     {
       "order": 0,
-      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2024",
       "label": "Additional Financial Items",
@@ -342,7 +310,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2024",
       "label": "GeneralAndAdministrativeExpense",
@@ -352,7 +319,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2024",
       "label": "GrossProfit",
@@ -362,7 +328,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2024",
       "label": "ResearchAndDevelopmentExpense",
@@ -372,7 +337,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2024",
       "label": "Revenue",
@@ -382,7 +346,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2024",
       "label": "SellingExpense",
@@ -392,7 +355,6 @@
     },
     {
       "order": 0,
-      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2024",
       "label": "Statement of Financial Position [Abstract]",
@@ -402,7 +364,6 @@
     },
     {
       "order": 1,
-      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2024",
       "label": "ASSETS",
@@ -412,7 +373,6 @@
     },
     {
       "order": 2,
-      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2024",
       "label": "Total Assets",
@@ -422,7 +382,6 @@
     },
     {
       "order": 3,
-      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2024",
       "label": "Goodwill",
@@ -432,7 +391,6 @@
     },
     {
       "order": 4,
-      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2024",
       "label": "LIABILITIES AND EQUITY",
@@ -442,7 +400,6 @@
     },
     {
       "order": 5,
-      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2024",
       "label": "Total Liabilities",
@@ -452,7 +409,6 @@
     },
     {
       "order": 0,
-      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2024",
       "label": "Statement of Financial Position [Abstract]",
@@ -462,7 +418,6 @@
     },
     {
       "order": 1,
-      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2024",
       "label": "ASSETS",
@@ -472,7 +427,6 @@
     },
     {
       "order": 2,
-      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2024",
       "label": "Total Assets",
@@ -482,7 +436,6 @@
     },
     {
       "order": 3,
-      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2024",
       "label": "Goodwill",
@@ -492,7 +445,6 @@
     },
     {
       "order": 4,
-      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2024",
       "label": "LIABILITIES AND EQUITY",
@@ -502,7 +454,6 @@
     },
     {
       "order": 5,
-      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2024",
       "label": "Total Liabilities",
