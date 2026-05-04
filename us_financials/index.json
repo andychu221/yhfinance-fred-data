@@ -1,5 +1,5 @@
 {
-  "description": "Mag 7 公司過去5年季報(10-Q)和年報(10-K)財報數據",
+  "description": "半導體與科技巨頭過去5年季報(10-Q)和年報(10-K)財報數據",
   "tickers": {
     "MSFT": "Microsoft",
     "GOOGL": "Google",
@@ -41,13 +41,14 @@
     "MTSI": "MACOM",
     "RMBS": "Rambus"
   },
-  "last_updated": "2026-05-04T23:07:44.534925",
+  "last_updated": "2026-05-04T23:32:31.839091",
   "data_structure": {
     "file_pattern": "us_financials/{TICKER}.json",
     "format": {
       "period": "財報期間",
       "filing_date": "提交日期",
       "report_date": "財報截止日期",
+      "form_type": "文件來源 (10-Q, 10-K, Calculated-Q4)",
       "balance_sheet_q4": "與 Annual 數據相同 (Snapshot)",
       "cash_flow_q4": "由 Annual - Q1 - Q2 - Q3 (Flow) 計算得出"
     }
