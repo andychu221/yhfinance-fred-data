@@ -4,15 +4,15 @@
     "company": "Sandisk",
     "cik": "2023554",
     "total_records": 868,
-    "last_updated": "2026-05-04T23:06:16.997002",
+    "last_updated": "2026-05-04T23:31:07.901611",
     "periods_quarterly": 20,
     "periods_annual": 5,
-    "currency": "USD",
-    "includes_q4_calculated": true
+    "currency": "USD"
   },
   "data": [
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Statement of Cash Flows [Abstract]",
@@ -22,6 +22,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Statement of Cash Flows [Abstract]",
@@ -33,6 +34,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -42,6 +44,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -51,6 +54,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -62,6 +66,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Statement of Cash Flows [Abstract]",
@@ -71,6 +76,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Statement of Cash Flows [Abstract]",
@@ -80,6 +86,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Cash flows from operating activities:",
@@ -89,6 +96,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Cash flows from operating activities:",
@@ -100,6 +108,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Cash flows from operating activities:",
@@ -109,6 +118,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Cash flows from operating activities:",
@@ -118,6 +128,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Cash flows from operating activities:",
@@ -129,6 +140,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Cash flows from operating activities:",
@@ -138,6 +150,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Cash flows from operating activities:",
@@ -147,6 +160,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -156,6 +170,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -167,6 +182,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -176,6 +192,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -185,6 +202,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -196,6 +214,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -205,6 +224,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -214,6 +234,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Depreciation and amortization",
@@ -223,6 +244,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Depreciation and amortization",
@@ -234,6 +256,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Depreciation and amortization",
@@ -243,6 +266,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Depreciation and amortization",
@@ -252,6 +276,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Depreciation and amortization",
@@ -263,6 +288,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Depreciation and amortization",
@@ -272,6 +298,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Depreciation and amortization",
@@ -281,6 +308,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -290,6 +318,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -301,6 +330,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -310,6 +340,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -319,6 +350,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -330,6 +362,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -339,6 +372,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -348,6 +382,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Changes in operating assets and liabilities:",
@@ -357,6 +392,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Changes in operating assets and liabilities:",
@@ -368,6 +404,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Changes in operating assets and liabilities:",
@@ -377,6 +414,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Changes in operating assets and liabilities:",
@@ -386,6 +424,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Changes in operating assets and liabilities:",
@@ -397,6 +436,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Changes in operating assets and liabilities:",
@@ -406,6 +446,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Changes in operating assets and liabilities:",
@@ -415,6 +456,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -424,6 +466,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -435,6 +478,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -444,6 +488,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -453,6 +498,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -464,6 +510,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -473,6 +520,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -482,6 +530,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Increase (Decrease) in Inventories",
@@ -491,6 +540,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Increase (Decrease) in Inventories",
@@ -502,6 +552,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Increase (Decrease) in Inventories",
@@ -511,6 +562,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Increase (Decrease) in Inventories",
@@ -520,6 +572,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Increase (Decrease) in Inventories",
@@ -531,6 +584,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Increase (Decrease) in Inventories",
@@ -540,6 +594,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Increase (Decrease) in Inventories",
@@ -549,6 +604,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -558,6 +614,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -569,6 +626,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -578,6 +636,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -587,6 +646,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -598,6 +658,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -607,6 +668,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -616,6 +678,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -625,6 +688,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -636,6 +700,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -645,6 +710,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -654,6 +720,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -665,6 +732,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -674,6 +742,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -683,6 +752,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Cash flows from investing activities:",
@@ -692,6 +762,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Cash flows from investing activities:",
@@ -703,6 +774,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Cash flows from investing activities:",
@@ -712,6 +784,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Cash flows from investing activities:",
@@ -721,6 +794,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Cash flows from investing activities:",
@@ -732,6 +806,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Cash flows from investing activities:",
@@ -741,6 +816,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Cash flows from investing activities:",
@@ -750,6 +826,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -759,6 +836,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -770,6 +848,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -779,6 +858,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -788,6 +868,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -799,6 +880,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -808,6 +890,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -817,6 +900,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -826,6 +910,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -837,6 +922,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -846,6 +932,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -855,6 +942,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -866,6 +954,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -875,6 +964,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -884,6 +974,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Cash flows from financing activities:",
@@ -893,6 +984,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Cash flows from financing activities:",
@@ -904,6 +996,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Cash flows from financing activities:",
@@ -913,6 +1006,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Cash flows from financing activities:",
@@ -922,6 +1016,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Cash flows from financing activities:",
@@ -933,6 +1028,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Cash flows from financing activities:",
@@ -942,6 +1038,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Cash flows from financing activities:",
@@ -951,6 +1048,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -960,6 +1058,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -971,6 +1070,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -980,6 +1080,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -989,6 +1090,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -1000,6 +1102,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -1009,6 +1112,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -1018,6 +1122,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1027,6 +1132,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1038,6 +1144,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1047,6 +1154,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1056,6 +1164,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1067,6 +1176,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1076,6 +1186,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -1085,6 +1196,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1094,6 +1206,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1105,6 +1218,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1114,6 +1228,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1123,6 +1238,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1134,6 +1250,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1143,6 +1260,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -1152,6 +1270,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1161,6 +1280,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1172,6 +1292,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1181,6 +1302,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1190,6 +1312,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1201,6 +1324,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1210,6 +1334,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1219,6 +1344,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1228,6 +1354,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1239,6 +1366,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1248,6 +1376,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1257,6 +1386,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1268,6 +1398,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1277,6 +1408,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Supplemental disclosure of cash flow information:",
@@ -1286,6 +1418,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1295,6 +1428,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1306,6 +1440,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1315,6 +1450,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1324,6 +1460,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1335,6 +1472,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1344,6 +1482,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -1353,6 +1492,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Income Taxes Paid, Net",
@@ -1362,6 +1502,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Income Taxes Paid, Net",
@@ -1373,6 +1514,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Income Taxes Paid, Net",
@@ -1382,6 +1524,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Income Taxes Paid, Net",
@@ -1391,6 +1534,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Income Taxes Paid, Net",
@@ -1402,6 +1546,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Income Taxes Paid, Net",
@@ -1411,6 +1556,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Income Taxes Paid, Net",
@@ -1420,6 +1566,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1429,6 +1576,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1440,6 +1588,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1449,6 +1598,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1458,6 +1608,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1469,6 +1620,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1478,6 +1630,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -1487,6 +1640,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Additional Financial Items",
@@ -1496,6 +1650,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Additional Financial Items",
@@ -1507,6 +1662,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Additional Financial Items",
@@ -1516,6 +1672,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Additional Financial Items",
@@ -1525,6 +1682,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Additional Financial Items",
@@ -1536,6 +1694,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Additional Financial Items",
@@ -1545,6 +1704,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Additional Financial Items",
@@ -1554,6 +1714,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1563,6 +1724,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1574,6 +1736,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1583,6 +1746,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1592,6 +1756,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1603,6 +1768,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1612,6 +1778,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Share-based Payment Arrangement, Expense",
@@ -1621,6 +1788,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1630,6 +1798,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1641,6 +1810,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1650,6 +1820,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1659,6 +1830,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1670,6 +1842,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1679,6 +1852,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -1688,6 +1862,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1697,6 +1872,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1708,6 +1884,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1717,6 +1894,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1726,6 +1904,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1737,6 +1916,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1746,6 +1926,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -1755,6 +1936,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1764,6 +1946,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1775,6 +1958,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1784,6 +1968,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1793,6 +1978,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1804,6 +1990,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1813,6 +2000,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -1822,6 +2010,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1831,6 +2020,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1842,6 +2032,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1851,6 +2042,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1860,6 +2052,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1871,6 +2064,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1880,6 +2074,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -1889,6 +2084,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1898,6 +2094,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1909,6 +2106,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1918,6 +2116,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1927,6 +2126,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1938,6 +2138,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1947,6 +2148,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Gain (Loss) on Disposition of Business",
@@ -1956,6 +2158,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Gain (Loss) on Sale of Investments",
@@ -1965,6 +2168,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Gain (Loss) on Sale of Investments",
@@ -1976,6 +2180,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Gain (Loss) on Sale of Investments",
@@ -1985,6 +2190,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Gain (Loss) on Sale of Investments",
@@ -1994,6 +2200,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Gain (Loss) on Sale of Investments",
@@ -2005,6 +2212,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Gain (Loss) on Sale of Investments",
@@ -2014,6 +2222,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Gain (Loss) on Sale of Investments",
@@ -2023,6 +2232,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2032,6 +2242,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2043,6 +2254,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2052,6 +2264,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2061,6 +2274,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2072,6 +2286,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2081,6 +2296,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -2090,6 +2306,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2099,6 +2316,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2110,6 +2328,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2119,6 +2338,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2128,6 +2348,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2139,6 +2360,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2148,6 +2370,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Gain (Loss) on Extinguishment of Debt",
@@ -2157,6 +2380,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Goodwill",
@@ -2166,6 +2390,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Goodwill",
@@ -2177,6 +2402,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Goodwill",
@@ -2186,6 +2412,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Goodwill",
@@ -2195,6 +2422,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Goodwill",
@@ -2206,6 +2434,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Goodwill",
@@ -2215,6 +2444,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Goodwill",
@@ -2224,6 +2454,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Goodwill, Impairment Loss",
@@ -2233,6 +2464,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Goodwill, Impairment Loss",
@@ -2244,6 +2476,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Goodwill, Impairment Loss",
@@ -2253,6 +2486,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Goodwill, Impairment Loss",
@@ -2262,6 +2496,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Goodwill, Impairment Loss",
@@ -2273,6 +2508,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Goodwill, Impairment Loss",
@@ -2282,6 +2518,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Goodwill, Impairment Loss",
@@ -2291,6 +2528,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2300,6 +2538,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2311,6 +2550,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2320,6 +2560,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2329,6 +2570,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2340,6 +2582,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2349,6 +2592,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Income (Loss) from Equity Method Investments",
@@ -2358,6 +2602,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Income Tax Expense (Benefit)",
@@ -2367,6 +2612,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Income Tax Expense (Benefit)",
@@ -2378,6 +2624,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -2387,6 +2634,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -2396,6 +2644,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -2407,6 +2656,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Income Tax Expense (Benefit)",
@@ -2416,6 +2666,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Income Tax Expense (Benefit)",
@@ -2425,6 +2676,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "InterestExpenseNonoperating",
@@ -2434,6 +2686,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "InterestExpenseNonoperating",
@@ -2445,6 +2698,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "InterestExpenseNonoperating",
@@ -2454,6 +2708,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "InterestExpenseNonoperating",
@@ -2463,6 +2718,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "InterestExpenseNonoperating",
@@ -2474,6 +2730,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "InterestExpenseNonoperating",
@@ -2483,6 +2740,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "InterestExpenseNonoperating",
@@ -2492,6 +2750,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Investment Income, Interest",
@@ -2501,6 +2760,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Investment Income, Interest",
@@ -2512,6 +2772,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Investment Income, Interest",
@@ -2521,6 +2782,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Investment Income, Interest",
@@ -2530,6 +2792,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Investment Income, Interest",
@@ -2541,6 +2804,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Investment Income, Interest",
@@ -2550,6 +2814,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Investment Income, Interest",
@@ -2559,6 +2824,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2568,6 +2834,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2579,6 +2846,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2588,6 +2856,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2597,6 +2866,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2608,6 +2878,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2617,6 +2888,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -2626,6 +2898,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Nonoperating Income (Expense)",
@@ -2635,6 +2908,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Nonoperating Income (Expense)",
@@ -2646,6 +2920,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Nonoperating Income (Expense)",
@@ -2655,6 +2930,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Nonoperating Income (Expense)",
@@ -2664,6 +2940,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Nonoperating Income (Expense)",
@@ -2675,6 +2952,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Nonoperating Income (Expense)",
@@ -2684,6 +2962,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Nonoperating Income (Expense)",
@@ -2693,6 +2972,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Operating Expenses",
@@ -2702,6 +2982,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Operating Expenses",
@@ -2713,6 +2994,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Operating Expenses",
@@ -2722,6 +3004,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Operating Expenses",
@@ -2731,6 +3014,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Operating Expenses",
@@ -2742,6 +3026,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Operating Expenses",
@@ -2751,6 +3036,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Operating Expenses",
@@ -2760,6 +3046,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2026",
       "label": "Other Nonoperating Income (Expense)",
@@ -2769,6 +3056,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2026",
       "label": "Other Nonoperating Income (Expense)",
@@ -2780,6 +3068,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -2789,6 +3078,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -2798,6 +3088,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q1 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -2809,6 +3100,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q3 2024",
       "label": "Other Nonoperating Income (Expense)",
@@ -2818,6 +3110,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-Q",
       "statement_type": "cash_flow",
       "period": "Q2 2024",
       "label": "Other Nonoperating Income (Expense)",
@@ -2827,6 +3120,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Income Statement [Abstract]",
@@ -2836,6 +3130,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Income Statement [Abstract]",
@@ -2847,6 +3142,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Income Statement [Abstract]",
@@ -2856,6 +3152,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Income Statement [Abstract]",
@@ -2865,6 +3162,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Income Statement [Abstract]",
@@ -2876,6 +3174,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Income Statement [Abstract]",
@@ -2885,6 +3184,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Income Statement [Abstract]",
@@ -2894,6 +3194,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Total Revenue",
@@ -2903,6 +3204,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Total Revenue",
@@ -2914,6 +3216,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Total Revenue",
@@ -2923,6 +3226,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Total Revenue",
@@ -2932,6 +3236,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Total Revenue",
@@ -2943,6 +3248,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Total Revenue",
@@ -2952,6 +3258,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Total Revenue",
@@ -2961,6 +3268,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Cost of Revenue",
@@ -2970,6 +3278,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Cost of Revenue",
@@ -2981,6 +3290,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Cost of Revenue",
@@ -2990,6 +3300,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Cost of Revenue",
@@ -2999,6 +3310,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Cost of Revenue",
@@ -3010,6 +3322,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Cost of Revenue",
@@ -3019,6 +3332,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Cost of Revenue",
@@ -3028,6 +3342,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Gross Profit",
@@ -3037,6 +3352,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Gross Profit",
@@ -3048,6 +3364,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Gross Profit",
@@ -3057,6 +3374,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Gross Profit",
@@ -3066,6 +3384,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Gross Profit",
@@ -3077,6 +3396,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Gross Profit",
@@ -3086,6 +3406,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Gross Profit",
@@ -3095,6 +3416,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Operating expenses:",
@@ -3104,6 +3426,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Operating expenses:",
@@ -3115,6 +3438,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Operating expenses:",
@@ -3124,6 +3448,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Operating expenses:",
@@ -3133,6 +3458,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Operating expenses:",
@@ -3144,6 +3470,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Operating expenses:",
@@ -3153,6 +3480,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Operating expenses:",
@@ -3162,6 +3490,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Research and Development Expense",
@@ -3171,6 +3500,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Research and Development Expense",
@@ -3182,6 +3512,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Research and Development Expense",
@@ -3191,6 +3522,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Research and Development Expense",
@@ -3200,6 +3532,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Research and Development Expense",
@@ -3211,6 +3544,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Research and Development Expense",
@@ -3220,6 +3554,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Research and Development Expense",
@@ -3229,6 +3564,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Operating Expenses",
@@ -3238,6 +3574,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Operating Expenses",
@@ -3249,6 +3586,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Operating Expenses",
@@ -3258,6 +3596,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Operating Expenses",
@@ -3267,6 +3606,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Operating Expenses",
@@ -3278,6 +3618,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Operating Expenses",
@@ -3287,6 +3628,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Operating Expenses",
@@ -3296,6 +3638,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Selling, General and Administrative Expense",
@@ -3305,6 +3648,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Selling, General and Administrative Expense",
@@ -3316,6 +3660,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Selling, General and Administrative Expense",
@@ -3325,6 +3670,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Selling, General and Administrative Expense",
@@ -3334,6 +3680,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Selling, General and Administrative Expense",
@@ -3345,6 +3692,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Selling, General and Administrative Expense",
@@ -3354,6 +3702,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Selling, General and Administrative Expense",
@@ -3363,6 +3712,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Operating Income (Loss)",
@@ -3372,6 +3722,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Operating Income (Loss)",
@@ -3383,6 +3734,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Operating Income (Loss)",
@@ -3392,6 +3744,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Operating Income (Loss)",
@@ -3401,6 +3754,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Operating Income (Loss)",
@@ -3412,6 +3766,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Operating Income (Loss)",
@@ -3421,6 +3776,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Operating Income (Loss)",
@@ -3430,6 +3786,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Other Nonoperating Income (Expense)",
@@ -3439,6 +3796,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Other Nonoperating Income (Expense)",
@@ -3450,6 +3808,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -3459,6 +3818,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -3468,6 +3828,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -3479,6 +3840,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Other Nonoperating Income (Expense)",
@@ -3488,6 +3850,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Other Nonoperating Income (Expense)",
@@ -3497,6 +3860,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3506,6 +3870,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3517,6 +3882,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3526,6 +3892,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3535,6 +3902,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3546,6 +3914,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3555,6 +3924,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -3564,6 +3934,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Income Tax Expense (Benefit)",
@@ -3573,6 +3944,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Income Tax Expense (Benefit)",
@@ -3584,6 +3956,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -3593,6 +3966,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -3602,6 +3976,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -3613,6 +3988,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Income Tax Expense (Benefit)",
@@ -3622,6 +3998,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Income Tax Expense (Benefit)",
@@ -3631,6 +4008,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3640,6 +4018,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3651,6 +4030,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3660,6 +4040,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3669,6 +4050,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3680,6 +4062,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3689,6 +4072,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -3698,6 +4082,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Earnings Per Share, Basic",
@@ -3707,6 +4092,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Earnings Per Share, Basic",
@@ -3718,6 +4104,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Earnings Per Share, Basic",
@@ -3727,6 +4114,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Earnings Per Share, Basic",
@@ -3736,6 +4124,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Earnings Per Share, Basic",
@@ -3747,6 +4136,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Earnings Per Share, Basic",
@@ -3756,6 +4146,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Earnings Per Share, Basic",
@@ -3765,6 +4156,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Earnings Per Share, Diluted",
@@ -3774,6 +4166,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Earnings Per Share, Diluted",
@@ -3785,6 +4178,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Earnings Per Share, Diluted",
@@ -3794,6 +4188,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Earnings Per Share, Diluted",
@@ -3803,6 +4198,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Earnings Per Share, Diluted",
@@ -3814,6 +4210,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Earnings Per Share, Diluted",
@@ -3823,6 +4220,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Earnings Per Share, Diluted",
@@ -3832,6 +4230,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Additional Financial Items",
@@ -3841,6 +4240,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Additional Financial Items",
@@ -3852,6 +4252,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Additional Financial Items",
@@ -3861,6 +4262,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Additional Financial Items",
@@ -3870,6 +4272,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Additional Financial Items",
@@ -3881,6 +4284,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Additional Financial Items",
@@ -3890,6 +4294,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Additional Financial Items",
@@ -3899,6 +4304,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3908,6 +4314,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3919,6 +4326,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3928,6 +4336,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3937,6 +4346,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3948,6 +4358,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3957,6 +4368,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -3966,6 +4378,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Goodwill, Impairment Loss",
@@ -3975,6 +4388,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Goodwill, Impairment Loss",
@@ -3986,6 +4400,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Goodwill, Impairment Loss",
@@ -3995,6 +4410,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Goodwill, Impairment Loss",
@@ -4004,6 +4420,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Goodwill, Impairment Loss",
@@ -4015,6 +4432,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Goodwill, Impairment Loss",
@@ -4024,6 +4442,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Goodwill, Impairment Loss",
@@ -4033,6 +4452,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4042,6 +4462,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4053,6 +4474,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4062,6 +4484,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4071,6 +4494,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4082,6 +4506,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4091,6 +4516,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Income (Loss) from Equity Method Investments",
@@ -4100,6 +4526,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2026",
       "label": "Investment Income, Interest",
@@ -4109,6 +4536,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2026",
       "label": "Investment Income, Interest",
@@ -4120,6 +4548,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2025",
       "label": "Investment Income, Interest",
@@ -4129,6 +4558,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2025",
       "label": "Investment Income, Interest",
@@ -4138,6 +4568,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q1 2025",
       "label": "Investment Income, Interest",
@@ -4149,6 +4580,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q3 2024",
       "label": "Investment Income, Interest",
@@ -4158,6 +4590,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "income_statement",
       "period": "Q2 2024",
       "label": "Investment Income, Interest",
@@ -4167,6 +4600,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Statement of Financial Position [Abstract]",
@@ -4176,6 +4610,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Statement of Financial Position [Abstract]",
@@ -4185,6 +4620,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Statement of Financial Position [Abstract]",
@@ -4196,6 +4632,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Statement of Financial Position [Abstract]",
@@ -4205,6 +4642,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Statement of Financial Position [Abstract]",
@@ -4216,6 +4654,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Statement of Financial Position [Abstract]",
@@ -4225,6 +4664,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Statement of Financial Position [Abstract]",
@@ -4234,6 +4674,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "ASSETS",
@@ -4243,6 +4684,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "ASSETS",
@@ -4252,6 +4694,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "ASSETS",
@@ -4263,6 +4706,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "ASSETS",
@@ -4272,6 +4716,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "ASSETS",
@@ -4283,6 +4728,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "ASSETS",
@@ -4292,6 +4738,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "ASSETS",
@@ -4301,6 +4748,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Assets",
@@ -4310,6 +4758,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Assets",
@@ -4319,6 +4768,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Assets",
@@ -4330,6 +4780,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Assets",
@@ -4339,6 +4790,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Assets",
@@ -4350,6 +4802,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Assets",
@@ -4359,6 +4812,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Assets",
@@ -4368,6 +4822,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Property, Plant and Equipment, Net",
@@ -4377,6 +4832,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Property, Plant and Equipment, Net",
@@ -4386,6 +4842,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Property, Plant and Equipment, Net",
@@ -4397,6 +4854,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Property, Plant and Equipment, Net",
@@ -4406,6 +4864,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Property, Plant and Equipment, Net",
@@ -4417,6 +4876,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Property, Plant and Equipment, Net",
@@ -4426,6 +4886,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Property, Plant and Equipment, Net",
@@ -4435,6 +4896,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Goodwill",
@@ -4444,6 +4906,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Goodwill",
@@ -4453,6 +4916,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Goodwill",
@@ -4464,6 +4928,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Goodwill",
@@ -4473,6 +4938,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Goodwill",
@@ -4484,6 +4950,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Goodwill",
@@ -4493,6 +4960,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Goodwill",
@@ -4502,6 +4970,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Current assets:",
@@ -4511,6 +4980,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Current assets:",
@@ -4520,6 +4990,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Current assets:",
@@ -4531,6 +5002,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Current assets:",
@@ -4540,6 +5012,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Current assets:",
@@ -4551,6 +5024,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Current assets:",
@@ -4560,6 +5034,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Current assets:",
@@ -4569,6 +5044,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4578,6 +5054,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4587,6 +5064,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4598,6 +5076,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4607,6 +5086,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4618,6 +5098,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4627,6 +5108,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -4636,6 +5118,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4645,6 +5128,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4654,6 +5138,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4665,6 +5150,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4674,6 +5160,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4685,6 +5172,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4694,6 +5182,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -4703,6 +5192,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Inventory, Net",
@@ -4712,6 +5202,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Inventory, Net",
@@ -4721,6 +5212,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Inventory, Net",
@@ -4732,6 +5224,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Inventory, Net",
@@ -4741,6 +5234,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Inventory, Net",
@@ -4752,6 +5246,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Inventory, Net",
@@ -4761,6 +5256,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Inventory, Net",
@@ -4770,6 +5266,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Assets, Current",
@@ -4779,6 +5276,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Assets, Current",
@@ -4788,6 +5286,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Assets, Current",
@@ -4799,6 +5298,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Assets, Current",
@@ -4808,6 +5308,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Assets, Current",
@@ -4819,6 +5320,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Assets, Current",
@@ -4828,6 +5330,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Assets, Current",
@@ -4837,6 +5340,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4846,6 +5350,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4855,6 +5360,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4866,6 +5372,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4875,6 +5382,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4886,6 +5394,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4895,6 +5404,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -4904,6 +5414,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Other Assets, Noncurrent",
@@ -4913,6 +5424,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Other Assets, Noncurrent",
@@ -4922,6 +5434,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Other Assets, Noncurrent",
@@ -4933,6 +5446,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Other Assets, Noncurrent",
@@ -4942,6 +5456,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Other Assets, Noncurrent",
@@ -4953,6 +5468,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Other Assets, Noncurrent",
@@ -4962,6 +5478,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Other Assets, Noncurrent",
@@ -4971,6 +5488,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "LIABILITIES AND EQUITY",
@@ -4980,6 +5498,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "LIABILITIES AND EQUITY",
@@ -4989,6 +5508,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "LIABILITIES AND EQUITY",
@@ -5000,6 +5520,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "LIABILITIES AND EQUITY",
@@ -5009,6 +5530,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "LIABILITIES AND EQUITY",
@@ -5020,6 +5542,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "LIABILITIES AND EQUITY",
@@ -5029,6 +5552,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "LIABILITIES AND EQUITY",
@@ -5038,6 +5562,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Liabilities",
@@ -5047,6 +5572,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Liabilities",
@@ -5056,6 +5582,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Liabilities",
@@ -5067,6 +5594,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Liabilities",
@@ -5076,6 +5604,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Liabilities",
@@ -5087,6 +5616,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Liabilities",
@@ -5096,6 +5626,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Liabilities",
@@ -5105,6 +5636,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Stockholders’ equity:",
@@ -5114,6 +5646,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Stockholders’ equity:",
@@ -5123,6 +5656,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Stockholders’ equity:",
@@ -5134,6 +5668,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Stockholders’ equity:",
@@ -5143,6 +5678,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Stockholders’ equity:",
@@ -5154,6 +5690,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Stockholders’ equity:",
@@ -5163,6 +5700,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Stockholders’ equity:",
@@ -5172,6 +5710,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Common Stock, Value, Issued",
@@ -5181,6 +5720,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Common Stock, Value, Issued",
@@ -5190,6 +5730,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Common Stock, Value, Issued",
@@ -5201,6 +5742,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Common Stock, Value, Issued",
@@ -5210,6 +5752,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Common Stock, Value, Issued",
@@ -5221,6 +5764,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Common Stock, Value, Issued",
@@ -5230,6 +5774,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Common Stock, Value, Issued",
@@ -5239,6 +5784,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Additional Paid in Capital",
@@ -5248,6 +5794,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Additional Paid in Capital",
@@ -5257,6 +5804,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Additional Paid in Capital",
@@ -5268,6 +5816,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Additional Paid in Capital",
@@ -5277,6 +5826,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Additional Paid in Capital",
@@ -5288,6 +5838,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Additional Paid in Capital",
@@ -5297,6 +5848,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Additional Paid in Capital",
@@ -5306,6 +5858,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5315,6 +5868,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5324,6 +5878,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5335,6 +5890,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5344,6 +5900,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5355,6 +5912,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5364,6 +5922,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -5373,6 +5932,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5382,6 +5942,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5391,6 +5952,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5402,6 +5964,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5411,6 +5974,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5422,6 +5986,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5431,6 +5996,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -5440,6 +6006,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5449,6 +6016,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5458,6 +6026,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5469,6 +6038,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5478,6 +6048,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5489,6 +6060,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5498,6 +6070,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -5507,6 +6080,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Liabilities and Equity",
@@ -5516,6 +6090,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Liabilities and Equity",
@@ -5525,6 +6100,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Liabilities and Equity",
@@ -5536,6 +6112,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Liabilities and Equity",
@@ -5545,6 +6122,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Liabilities and Equity",
@@ -5556,6 +6134,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Liabilities and Equity",
@@ -5565,6 +6144,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Liabilities and Equity",
@@ -5574,6 +6154,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Current liabilities:",
@@ -5583,6 +6164,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Current liabilities:",
@@ -5592,6 +6174,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Current liabilities:",
@@ -5603,6 +6186,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Current liabilities:",
@@ -5612,6 +6196,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Current liabilities:",
@@ -5623,6 +6208,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Current liabilities:",
@@ -5632,6 +6218,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Current liabilities:",
@@ -5641,6 +6228,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Liabilities, Current",
@@ -5650,6 +6238,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Liabilities, Current",
@@ -5659,6 +6248,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Liabilities, Current",
@@ -5670,6 +6260,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Liabilities, Current",
@@ -5679,6 +6270,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Liabilities, Current",
@@ -5690,6 +6282,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Liabilities, Current",
@@ -5699,6 +6292,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Liabilities, Current",
@@ -5708,6 +6302,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Operating Lease, Liability, Current",
@@ -5717,6 +6312,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Operating Lease, Liability, Current",
@@ -5726,6 +6322,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Operating Lease, Liability, Current",
@@ -5737,6 +6334,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Operating Lease, Liability, Current",
@@ -5746,6 +6344,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Operating Lease, Liability, Current",
@@ -5757,6 +6356,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Operating Lease, Liability, Current",
@@ -5766,6 +6366,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Operating Lease, Liability, Current",
@@ -5775,6 +6376,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Accrued Liabilities, Current",
@@ -5784,6 +6386,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Accrued Liabilities, Current",
@@ -5793,6 +6396,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Accrued Liabilities, Current",
@@ -5804,6 +6408,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Accrued Liabilities, Current",
@@ -5813,6 +6418,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Accrued Liabilities, Current",
@@ -5824,6 +6430,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Accrued Liabilities, Current",
@@ -5833,6 +6440,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Accrued Liabilities, Current",
@@ -5842,6 +6450,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5851,6 +6460,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5860,6 +6470,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5871,6 +6482,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5880,6 +6492,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5891,6 +6504,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5900,6 +6514,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -5909,6 +6524,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5918,6 +6534,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5927,6 +6544,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5938,6 +6556,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5947,6 +6566,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5958,6 +6578,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5967,6 +6588,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -5976,6 +6598,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Other Liabilities, Noncurrent",
@@ -5985,6 +6608,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Other Liabilities, Noncurrent",
@@ -5994,6 +6618,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Other Liabilities, Noncurrent",
@@ -6005,6 +6630,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Other Liabilities, Noncurrent",
@@ -6014,6 +6640,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Other Liabilities, Noncurrent",
@@ -6025,6 +6652,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Other Liabilities, Noncurrent",
@@ -6034,6 +6662,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Other Liabilities, Noncurrent",
@@ -6043,6 +6672,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Additional Financial Items",
@@ -6052,6 +6682,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Additional Financial Items",
@@ -6061,6 +6692,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Additional Financial Items",
@@ -6072,6 +6704,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Additional Financial Items",
@@ -6081,6 +6714,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Additional Financial Items",
@@ -6092,6 +6726,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Additional Financial Items",
@@ -6101,6 +6736,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Additional Financial Items",
@@ -6110,6 +6746,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6119,6 +6756,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6128,6 +6766,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6139,6 +6778,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6148,6 +6788,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6159,6 +6800,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6168,6 +6810,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -6177,6 +6820,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Inventory, Net",
@@ -6186,6 +6830,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Inventory, Net",
@@ -6195,6 +6840,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Inventory, Net",
@@ -6206,6 +6852,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Inventory, Net",
@@ -6215,6 +6862,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Inventory, Net",
@@ -6226,6 +6874,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Inventory, Net",
@@ -6235,6 +6884,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Inventory, Net",
@@ -6244,6 +6894,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Long-term Debt",
@@ -6253,6 +6904,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Long-term Debt",
@@ -6262,6 +6914,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Long-term Debt",
@@ -6273,6 +6926,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Long-term Debt",
@@ -6282,6 +6936,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Long-term Debt",
@@ -6293,6 +6948,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Long-term Debt",
@@ -6302,6 +6958,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Long-term Debt",
@@ -6311,6 +6968,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Long-term Debt, Current Maturities",
@@ -6320,6 +6978,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Long-term Debt, Current Maturities",
@@ -6329,6 +6988,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Long-term Debt, Current Maturities",
@@ -6340,6 +7000,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Long-term Debt, Current Maturities",
@@ -6349,6 +7010,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Long-term Debt, Current Maturities",
@@ -6360,6 +7022,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Long-term Debt, Current Maturities",
@@ -6369,6 +7032,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Long-term Debt, Current Maturities",
@@ -6378,6 +7042,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2026",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6387,6 +7052,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2025",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6396,6 +7062,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2026",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6407,6 +7074,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2025",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6416,6 +7084,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q1 2025",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6427,6 +7096,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q3 2024",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6436,6 +7106,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-Q",
       "statement_type": "balance_sheet",
       "period": "Q2 2024",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -6445,6 +7116,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -6456,6 +7128,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Cash flows from operating activities:",
@@ -6467,6 +7140,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -6478,6 +7152,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Depreciation and amortization",
@@ -6489,6 +7164,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -6500,6 +7176,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Changes in operating assets and liabilities:",
@@ -6511,6 +7188,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -6522,6 +7200,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Increase (Decrease) in Inventories",
@@ -6533,6 +7212,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -6544,6 +7224,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -6555,6 +7236,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Cash flows from investing activities:",
@@ -6566,6 +7248,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -6577,6 +7260,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -6588,6 +7272,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Cash flows from financing activities:",
@@ -6599,6 +7284,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -6610,6 +7296,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -6621,6 +7308,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -6632,6 +7320,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -6643,6 +7332,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Supplemental disclosure of cash flow information:",
@@ -6654,6 +7344,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -6665,6 +7356,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Income Taxes Paid, Net",
@@ -6676,6 +7368,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -6687,6 +7380,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Additional Financial Items",
@@ -6698,6 +7392,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Share-based Payment Arrangement, Expense",
@@ -6709,6 +7404,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -6720,6 +7416,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -6731,6 +7428,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Depreciation",
@@ -6742,6 +7440,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -6753,6 +7452,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -6764,6 +7464,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Gain (Loss) on Disposition of Business",
@@ -6775,6 +7476,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Gain (Loss) on Sale of Investments",
@@ -6786,6 +7488,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -6797,6 +7500,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Goodwill",
@@ -6808,6 +7512,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Goodwill, Impairment Loss",
@@ -6819,6 +7524,7 @@
     },
     {
       "order": 34,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -6830,6 +7536,7 @@
     },
     {
       "order": 35,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -6841,6 +7548,7 @@
     },
     {
       "order": 36,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "InterestExpenseNonoperating",
@@ -6852,6 +7560,7 @@
     },
     {
       "order": 37,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Investment Income, Interest",
@@ -6863,6 +7572,7 @@
     },
     {
       "order": 38,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -6874,6 +7584,7 @@
     },
     {
       "order": 39,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Nonoperating Income (Expense)",
@@ -6885,6 +7596,7 @@
     },
     {
       "order": 40,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Operating Expenses",
@@ -6896,6 +7608,7 @@
     },
     {
       "order": 41,
+      "form_type": "10-K",
       "statement_type": "cash_flow_annual",
       "period": "FY 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -6907,6 +7620,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Income Statement [Abstract]",
@@ -6918,6 +7632,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Total Revenue",
@@ -6929,6 +7644,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Cost of Revenue",
@@ -6940,6 +7656,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Gross Profit",
@@ -6951,6 +7668,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Operating expenses:",
@@ -6962,6 +7680,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Research and Development Expense",
@@ -6973,6 +7692,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Operating Expenses",
@@ -6984,6 +7704,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Selling, General and Administrative Expense",
@@ -6995,6 +7716,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Operating Income (Loss)",
@@ -7006,6 +7728,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -7017,6 +7740,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -7028,6 +7752,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -7039,6 +7764,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -7050,6 +7776,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Earnings Per Share, Basic",
@@ -7061,6 +7788,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Earnings Per Share, Diluted",
@@ -7072,6 +7800,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Additional Financial Items",
@@ -7083,6 +7812,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Current Income Tax Expense (Benefit)",
@@ -7094,6 +7824,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -7105,6 +7836,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Goodwill, Impairment Loss",
@@ -7116,6 +7848,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
@@ -7127,6 +7860,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -7138,6 +7872,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-K",
       "statement_type": "income_statement_annual",
       "period": "FY 2025",
       "label": "Investment Income, Interest",
@@ -7149,6 +7884,7 @@
     },
     {
       "order": 0,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Statement of Financial Position [Abstract]",
@@ -7160,6 +7896,7 @@
     },
     {
       "order": 1,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "ASSETS",
@@ -7171,6 +7908,7 @@
     },
     {
       "order": 2,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Assets",
@@ -7182,6 +7920,7 @@
     },
     {
       "order": 3,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Property, Plant and Equipment, Net",
@@ -7193,6 +7932,7 @@
     },
     {
       "order": 4,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Goodwill",
@@ -7204,6 +7944,7 @@
     },
     {
       "order": 5,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Current assets:",
@@ -7215,6 +7956,7 @@
     },
     {
       "order": 6,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -7226,6 +7968,7 @@
     },
     {
       "order": 7,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -7237,6 +7980,7 @@
     },
     {
       "order": 8,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Inventory, Net",
@@ -7248,6 +7992,7 @@
     },
     {
       "order": 9,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Assets, Current",
@@ -7259,6 +8004,7 @@
     },
     {
       "order": 10,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -7270,6 +8016,7 @@
     },
     {
       "order": 11,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Other Assets, Noncurrent",
@@ -7281,6 +8028,7 @@
     },
     {
       "order": 12,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "LIABILITIES AND EQUITY",
@@ -7292,6 +8040,7 @@
     },
     {
       "order": 13,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Liabilities",
@@ -7303,6 +8052,7 @@
     },
     {
       "order": 14,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Stockholders’ equity:",
@@ -7314,6 +8064,7 @@
     },
     {
       "order": 15,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Common Stock, Value, Issued",
@@ -7325,6 +8076,7 @@
     },
     {
       "order": 16,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Additional Paid in Capital",
@@ -7336,6 +8088,7 @@
     },
     {
       "order": 17,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -7347,6 +8100,7 @@
     },
     {
       "order": 18,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -7358,6 +8112,7 @@
     },
     {
       "order": 19,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -7369,6 +8124,7 @@
     },
     {
       "order": 20,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Liabilities and Equity",
@@ -7380,6 +8136,7 @@
     },
     {
       "order": 21,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Current liabilities:",
@@ -7391,6 +8148,7 @@
     },
     {
       "order": 22,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Liabilities, Current",
@@ -7402,6 +8160,7 @@
     },
     {
       "order": 23,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Operating Lease, Liability, Current",
@@ -7413,6 +8172,7 @@
     },
     {
       "order": 24,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Accrued Liabilities, Current",
@@ -7424,6 +8184,7 @@
     },
     {
       "order": 25,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -7435,6 +8196,7 @@
     },
     {
       "order": 26,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -7446,6 +8208,7 @@
     },
     {
       "order": 27,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Other Liabilities, Noncurrent",
@@ -7457,6 +8220,7 @@
     },
     {
       "order": 28,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Additional Financial Items",
@@ -7468,6 +8232,7 @@
     },
     {
       "order": 29,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -7479,6 +8244,7 @@
     },
     {
       "order": 30,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Inventory, Net",
@@ -7490,6 +8256,7 @@
     },
     {
       "order": 31,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Long-term Debt",
@@ -7501,6 +8268,7 @@
     },
     {
       "order": 32,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Long-term Debt, Current Maturities",
@@ -7512,6 +8280,7 @@
     },
     {
       "order": 33,
+      "form_type": "10-K",
       "statement_type": "balance_sheet_annual",
       "period": "FY 2025",
       "label": "Long-term Debt, Excluding Current Maturities",
@@ -7523,6 +8292,7 @@
     },
     {
       "order": 0,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Income Statement [Abstract]",
@@ -7534,6 +8304,7 @@
     },
     {
       "order": 1,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Total Revenue",
@@ -7545,6 +8316,7 @@
     },
     {
       "order": 2,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Cost of Revenue",
@@ -7556,6 +8328,7 @@
     },
     {
       "order": 3,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Gross Profit",
@@ -7567,6 +8340,7 @@
     },
     {
       "order": 4,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Operating expenses:",
@@ -7578,6 +8352,7 @@
     },
     {
       "order": 5,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Research and Development Expense",
@@ -7589,6 +8364,7 @@
     },
     {
       "order": 6,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Operating Expenses",
@@ -7600,6 +8376,7 @@
     },
     {
       "order": 7,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Selling, General and Administrative Expense",
@@ -7611,6 +8388,7 @@
     },
     {
       "order": 8,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Operating Income (Loss)",
@@ -7622,6 +8400,7 @@
     },
     {
       "order": 9,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -7633,6 +8412,7 @@
     },
     {
       "order": 10,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",
@@ -7644,6 +8424,7 @@
     },
     {
       "order": 11,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -7655,6 +8436,7 @@
     },
     {
       "order": 12,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -7666,6 +8448,7 @@
     },
     {
       "order": 13,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Earnings Per Share, Basic",
@@ -7677,6 +8460,7 @@
     },
     {
       "order": 14,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Earnings Per Share, Diluted",
@@ -7688,6 +8472,7 @@
     },
     {
       "order": 15,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Additional Financial Items",
@@ -7699,6 +8484,7 @@
     },
     {
       "order": 16,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Current Income Tax Expense (Benefit)",
@@ -7710,6 +8496,7 @@
     },
     {
       "order": 17,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -7721,6 +8508,7 @@
     },
     {
       "order": 18,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Goodwill, Impairment Loss",
@@ -7732,6 +8520,7 @@
     },
     {
       "order": 19,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Income (Loss) from Continuing Operations before Income Taxes, Domestic",
@@ -7743,6 +8532,7 @@
     },
     {
       "order": 20,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -7754,6 +8544,7 @@
     },
     {
       "order": 21,
+      "form_type": "Calculated-Q4",
       "statement_type": "income_statement_q4",
       "period": "Q4 2025",
       "label": "Investment Income, Interest",
@@ -7765,6 +8556,7 @@
     },
     {
       "order": 0,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Statement of Cash Flows [Abstract]",
@@ -7776,6 +8568,7 @@
     },
     {
       "order": 1,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Cash flows from operating activities:",
@@ -7787,6 +8580,7 @@
     },
     {
       "order": 2,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Adjustments to reconcile net income to net cash provided by operating activities:",
@@ -7798,6 +8592,7 @@
     },
     {
       "order": 3,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Depreciation and amortization",
@@ -7809,6 +8604,7 @@
     },
     {
       "order": 4,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Share-based Payment Arrangement, Noncash Expense",
@@ -7820,6 +8616,7 @@
     },
     {
       "order": 5,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Changes in operating assets and liabilities:",
@@ -7831,6 +8628,7 @@
     },
     {
       "order": 6,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Increase (Decrease) in Accounts Receivable",
@@ -7842,6 +8640,7 @@
     },
     {
       "order": 7,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Increase (Decrease) in Inventories",
@@ -7853,6 +8652,7 @@
     },
     {
       "order": 8,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Deferred Income Tax Expense (Benefit)",
@@ -7864,6 +8664,7 @@
     },
     {
       "order": 9,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Net Cash Provided by (Used in) Operating Activities",
@@ -7875,6 +8676,7 @@
     },
     {
       "order": 10,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Cash flows from investing activities:",
@@ -7886,6 +8688,7 @@
     },
     {
       "order": 11,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Net Cash Provided by (Used in) Investing Activities",
@@ -7897,6 +8700,7 @@
     },
     {
       "order": 12,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -7908,6 +8712,7 @@
     },
     {
       "order": 13,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Cash flows from financing activities:",
@@ -7919,6 +8724,7 @@
     },
     {
       "order": 14,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Payment, Tax Withholding, Share-based Payment Arrangement",
@@ -7930,6 +8736,7 @@
     },
     {
       "order": 15,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Net Cash Provided by (Used in) Financing Activities",
@@ -7941,6 +8748,7 @@
     },
     {
       "order": 16,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",
@@ -7952,6 +8760,7 @@
     },
     {
       "order": 17,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -7963,6 +8772,7 @@
     },
     {
       "order": 18,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Supplemental disclosure of cash flow information:",
@@ -7974,6 +8784,7 @@
     },
     {
       "order": 19,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Interest Paid, Excluding Capitalized Interest, Operating Activities",
@@ -7985,6 +8796,7 @@
     },
     {
       "order": 20,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Income Taxes Paid, Net",
@@ -7996,6 +8808,7 @@
     },
     {
       "order": 21,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
@@ -8007,6 +8820,7 @@
     },
     {
       "order": 22,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Additional Financial Items",
@@ -8018,6 +8832,7 @@
     },
     {
       "order": 23,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Share-based Payment Arrangement, Expense",
@@ -8029,6 +8844,7 @@
     },
     {
       "order": 24,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Amortization of Debt Issuance Costs and Discounts",
@@ -8040,6 +8856,7 @@
     },
     {
       "order": 25,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Payments to Acquire Property, Plant, and Equipment",
@@ -8051,6 +8868,7 @@
     },
     {
       "order": 26,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Depreciation",
@@ -8062,6 +8880,7 @@
     },
     {
       "order": 27,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Depreciation, Depletion and Amortization, Nonproduction",
@@ -8073,6 +8892,7 @@
     },
     {
       "order": 28,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Foreign Currency Transaction Gain (Loss), Unrealized",
@@ -8084,6 +8904,7 @@
     },
     {
       "order": 29,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Gain (Loss) on Disposition of Business",
@@ -8095,6 +8916,7 @@
     },
     {
       "order": 30,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Gain (Loss) on Sale of Investments",
@@ -8106,6 +8928,7 @@
     },
     {
       "order": 31,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Gain (Loss) on Disposition of Other Assets",
@@ -8117,6 +8940,7 @@
     },
     {
       "order": 32,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Goodwill",
@@ -8128,6 +8952,7 @@
     },
     {
       "order": 33,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Goodwill, Impairment Loss",
@@ -8139,6 +8964,7 @@
     },
     {
       "order": 34,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Income (Loss) from Equity Method Investments",
@@ -8150,6 +8976,7 @@
     },
     {
       "order": 35,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Income Tax Expense (Benefit)",
@@ -8161,6 +8988,7 @@
     },
     {
       "order": 36,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "InterestExpenseNonoperating",
@@ -8172,6 +9000,7 @@
     },
     {
       "order": 37,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Investment Income, Interest",
@@ -8183,6 +9012,7 @@
     },
     {
       "order": 38,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Net Income (Loss) Attributable to Parent",
@@ -8194,6 +9024,7 @@
     },
     {
       "order": 39,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Nonoperating Income (Expense)",
@@ -8205,6 +9036,7 @@
     },
     {
       "order": 40,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Operating Expenses",
@@ -8216,6 +9048,7 @@
     },
     {
       "order": 41,
+      "form_type": "Calculated-Q4",
       "statement_type": "cash_flow_q4",
       "period": "Q4 2025",
       "label": "Other Nonoperating Income (Expense)",
@@ -8227,6 +9060,7 @@
     },
     {
       "order": 0,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Statement of Financial Position [Abstract]",
@@ -8238,6 +9072,7 @@
     },
     {
       "order": 1,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "ASSETS",
@@ -8249,6 +9084,7 @@
     },
     {
       "order": 2,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Assets",
@@ -8260,6 +9096,7 @@
     },
     {
       "order": 3,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Property, Plant and Equipment, Net",
@@ -8271,6 +9108,7 @@
     },
     {
       "order": 4,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Goodwill",
@@ -8282,6 +9120,7 @@
     },
     {
       "order": 5,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Current assets:",
@@ -8293,6 +9132,7 @@
     },
     {
       "order": 6,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Cash and Cash Equivalents, at Carrying Value",
@@ -8304,6 +9144,7 @@
     },
     {
       "order": 7,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -8315,6 +9156,7 @@
     },
     {
       "order": 8,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Inventory, Net",
@@ -8326,6 +9168,7 @@
     },
     {
       "order": 9,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Assets, Current",
@@ -8337,6 +9180,7 @@
     },
     {
       "order": 10,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Operating Lease, Right-of-Use Asset",
@@ -8348,6 +9192,7 @@
     },
     {
       "order": 11,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Other Assets, Noncurrent",
@@ -8359,6 +9204,7 @@
     },
     {
       "order": 12,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "LIABILITIES AND EQUITY",
@@ -8370,6 +9216,7 @@
     },
     {
       "order": 13,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Liabilities",
@@ -8381,6 +9228,7 @@
     },
     {
       "order": 14,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Stockholders’ equity:",
@@ -8392,6 +9240,7 @@
     },
     {
       "order": 15,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Common Stock, Value, Issued",
@@ -8403,6 +9252,7 @@
     },
     {
       "order": 16,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Additional Paid in Capital",
@@ -8414,6 +9264,7 @@
     },
     {
       "order": 17,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Retained Earnings (Accumulated Deficit)",
@@ -8425,6 +9276,7 @@
     },
     {
       "order": 18,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Accumulated Other Comprehensive Income (Loss), Net of Tax",
@@ -8436,6 +9288,7 @@
     },
     {
       "order": 19,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Stockholders' Equity Attributable to Parent",
@@ -8447,6 +9300,7 @@
     },
     {
       "order": 20,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Liabilities and Equity",
@@ -8458,6 +9312,7 @@
     },
     {
       "order": 21,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Current liabilities:",
@@ -8469,6 +9324,7 @@
     },
     {
       "order": 22,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Liabilities, Current",
@@ -8480,6 +9336,7 @@
     },
     {
       "order": 23,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Operating Lease, Liability, Current",
@@ -8491,6 +9348,7 @@
     },
     {
       "order": 24,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Accrued Liabilities, Current",
@@ -8502,6 +9360,7 @@
     },
     {
       "order": 25,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Operating Lease, Liability, Noncurrent",
@@ -8513,6 +9372,7 @@
     },
     {
       "order": 26,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Deferred Income Tax Liabilities, Net",
@@ -8524,6 +9384,7 @@
     },
     {
       "order": 27,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Other Liabilities, Noncurrent",
@@ -8535,6 +9396,7 @@
     },
     {
       "order": 28,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Additional Financial Items",
@@ -8546,6 +9408,7 @@
     },
     {
       "order": 29,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Accounts Receivable, after Allowance for Credit Loss, Current",
@@ -8557,6 +9420,7 @@
     },
     {
       "order": 30,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Inventory, Net",
@@ -8568,6 +9432,7 @@
     },
     {
       "order": 31,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Long-term Debt",
@@ -8579,6 +9444,7 @@
     },
     {
       "order": 32,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Long-term Debt, Current Maturities",
@@ -8590,6 +9456,7 @@
     },
     {
       "order": 33,
+      "form_type": "Calculated-Q4",
       "statement_type": "balance_sheet_q4",
       "period": "Q4 2025",
       "label": "Long-term Debt, Excluding Current Maturities",
