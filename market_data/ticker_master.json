@@ -286,6 +286,11 @@
       "ticker": "RMBS",
       "name": "Rambus",
       "ric": "RMBS.O"
+    },
+    {
+      "ticker": "SPCX",
+      "name": "SpaceX",
+      "ric": "SPCX"
     }
   ],
   "TW_Stocks": [
