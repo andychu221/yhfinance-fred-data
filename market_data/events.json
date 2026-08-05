@@ -381,6 +381,16 @@
         "date": "2025-11-20",
         "type": "dividend",
         "amount": 0.91
+      },
+      {
+        "date": "2026-02-19",
+        "type": "dividend",
+        "amount": 0.91
+      },
+      {
+        "date": "2026-05-21",
+        "type": "dividend",
+        "amount": 0.91
       }
     ]
   },
@@ -435,6 +445,16 @@
         "date": "2025-12-08",
         "type": "dividend",
         "amount": 0.21
+      },
+      {
+        "date": "2026-03-09",
+        "type": "dividend",
+        "amount": 0.21
+      },
+      {
+        "date": "2026-06-08",
+        "type": "dividend",
+        "amount": 0.22
       }
     ]
   },
@@ -736,6 +756,16 @@
         "date": "2025-11-10",
         "type": "dividend",
         "amount": 0.26
+      },
+      {
+        "date": "2026-02-09",
+        "type": "dividend",
+        "amount": 0.26
+      },
+      {
+        "date": "2026-05-11",
+        "type": "dividend",
+        "amount": 0.27
       }
     ]
   },
@@ -1027,6 +1057,16 @@
         "date": "2025-12-04",
         "type": "dividend",
         "amount": 0.01
+      },
+      {
+        "date": "2026-03-11",
+        "type": "dividend",
+        "amount": 0.01
+      },
+      {
+        "date": "2026-06-04",
+        "type": "dividend",
+        "amount": 0.25
       }
     ]
   },
@@ -1070,6 +1110,16 @@
       },
       {
         "date": "2025-12-15",
+        "type": "dividend",
+        "amount": 0.525
+      },
+      {
+        "date": "2026-03-16",
+        "type": "dividend",
+        "amount": 0.525
+      },
+      {
+        "date": "2026-06-15",
         "type": "dividend",
         "amount": 0.525
       }
@@ -1406,6 +1456,16 @@
       },
       {
         "date": "2025-12-22",
+        "type": "dividend",
+        "amount": 0.65
+      },
+      {
+        "date": "2026-03-23",
+        "type": "dividend",
+        "amount": 0.65
+      },
+      {
+        "date": "2026-06-22",
         "type": "dividend",
         "amount": 0.65
       }
@@ -1793,6 +1853,16 @@
         "date": "2025-12-04",
         "type": "dividend",
         "amount": 0.89
+      },
+      {
+        "date": "2026-03-05",
+        "type": "dividend",
+        "amount": 0.89
+      },
+      {
+        "date": "2026-06-04",
+        "type": "dividend",
+        "amount": 0.92
       }
     ]
   },
@@ -2248,6 +2318,16 @@
         "date": "2025-12-29",
         "type": "dividend",
         "amount": 0.115
+      },
+      {
+        "date": "2026-03-30",
+        "type": "dividend",
+        "amount": 0.15
+      },
+      {
+        "date": "2026-07-06",
+        "type": "dividend",
+        "amount": 0.15
       }
     ]
   },
@@ -2547,6 +2627,16 @@
         "date": "2026-01-09",
         "type": "dividend",
         "amount": 0.06
+      },
+      {
+        "date": "2026-04-10",
+        "type": "dividend",
+        "amount": 0.06
+      },
+      {
+        "date": "2026-07-10",
+        "type": "dividend",
+        "amount": 0.06
       }
     ]
   },
@@ -2754,6 +2844,26 @@
         "date": "2025-12-11",
         "type": "dividend",
         "amount": 0.835
+      },
+      {
+        "date": "2026-03-17",
+        "type": "dividend",
+        "amount": 0.956
+      },
+      {
+        "date": "2026-06-11",
+        "type": "dividend",
+        "amount": 0.955
+      }
+    ]
+  },
+  "GFS": {
+    "name": "GFS",
+    "events": [
+      {
+        "date": "2026-06-24",
+        "type": "dividend",
+        "amount": 0.12
       }
     ]
   },
@@ -2994,6 +3104,16 @@
         "date": "2025-11-18",
         "type": "dividend",
         "amount": 0.71
+      },
+      {
+        "date": "2026-02-24",
+        "type": "dividend",
+        "amount": 0.71
+      },
+      {
+        "date": "2026-05-26",
+        "type": "dividend",
+        "amount": 0.71
       }
     ]
   },
@@ -3159,6 +3279,16 @@
       },
       {
         "date": "2025-12-10",
+        "type": "dividend",
+        "amount": 1.014
+      },
+      {
+        "date": "2026-03-25",
+        "type": "dividend",
+        "amount": 1.014
+      },
+      {
+        "date": "2026-06-24",
         "type": "dividend",
         "amount": 1.014
       }
@@ -3546,6 +3676,16 @@
         "date": "2025-12-08",
         "type": "dividend",
         "amount": 0.99
+      },
+      {
+        "date": "2026-03-03",
+        "type": "dividend",
+        "amount": 1.1
+      },
+      {
+        "date": "2026-06-02",
+        "type": "dividend",
+        "amount": 1.1
       }
     ]
   },
@@ -3931,6 +4071,16 @@
         "date": "2025-11-20",
         "type": "dividend",
         "amount": 0.46
+      },
+      {
+        "date": "2026-02-19",
+        "type": "dividend",
+        "amount": 0.46
+      },
+      {
+        "date": "2026-05-21",
+        "type": "dividend",
+        "amount": 0.53
       }
     ]
   },
@@ -3940,387 +4090,404 @@
       {
         "date": "2007-02-13",
         "type": "dividend",
-        "amount": 0.12
+        "amount": 0.012
       },
       {
         "date": "2007-05-11",
         "type": "dividend",
-        "amount": 0.12
+        "amount": 0.012
       },
       {
         "date": "2007-08-16",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2007-11-15",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2008-02-21",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2008-05-15",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2008-08-14",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2008-11-20",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2009-02-26",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2009-05-13",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2009-08-13",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2009-11-12",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2010-02-11",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2010-05-13",
         "type": "dividend",
-        "amount": 0.15
+        "amount": 0.015
       },
       {
         "date": "2010-08-12",
         "type": "dividend",
-        "amount": 0.25
+        "amount": 0.025
       },
       {
         "date": "2010-11-10",
         "type": "dividend",
-        "amount": 0.25
+        "amount": 0.025
       },
       {
         "date": "2011-02-17",
         "type": "dividend",
-        "amount": 0.25
+        "amount": 0.025
       },
       {
         "date": "2011-05-12",
         "type": "dividend",
-        "amount": 0.25
+        "amount": 0.025
       },
       {
         "date": "2011-08-11",
         "type": "dividend",
-        "amount": 0.35
+        "amount": 0.035
       },
       {
         "date": "2011-11-09",
         "type": "dividend",
-        "amount": 0.35
+        "amount": 0.035
       },
       {
         "date": "2012-02-16",
         "type": "dividend",
-        "amount": 0.35
+        "amount": 0.035
       },
       {
         "date": "2012-05-10",
         "type": "dividend",
-        "amount": 0.35
+        "amount": 0.035
       },
       {
         "date": "2012-08-09",
         "type": "dividend",
-        "amount": 0.4
+        "amount": 0.04
       },
       {
         "date": "2012-11-15",
         "type": "dividend",
-        "amount": 0.4
+        "amount": 0.04
       },
       {
         "date": "2013-02-14",
         "type": "dividend",
-        "amount": 0.4
+        "amount": 0.04
       },
       {
         "date": "2013-05-09",
         "type": "dividend",
-        "amount": 0.4
+        "amount": 0.04
       },
       {
         "date": "2013-08-14",
         "type": "dividend",
-        "amount": 0.45
+        "amount": 0.045
       },
       {
         "date": "2013-11-14",
         "type": "dividend",
-        "amount": 0.45
+        "amount": 0.045
       },
       {
         "date": "2014-02-13",
         "type": "dividend",
-        "amount": 0.45
+        "amount": 0.045
       },
       {
         "date": "2014-05-15",
         "type": "dividend",
-        "amount": 0.45
+        "amount": 0.045
       },
       {
         "date": "2014-08-14",
         "type": "dividend",
-        "amount": 0.5
+        "amount": 0.05
       },
       {
         "date": "2014-11-13",
         "type": "dividend",
-        "amount": 0.5
+        "amount": 0.05
       },
       {
         "date": "2014-11-26",
         "type": "dividend",
-        "amount": 16.5
+        "amount": 1.65
       },
       {
         "date": "2015-02-12",
         "type": "dividend",
-        "amount": 0.5
+        "amount": 0.05
       },
       {
         "date": "2015-05-14",
         "type": "dividend",
-        "amount": 0.5
+        "amount": 0.05
       },
       {
         "date": "2015-08-13",
         "type": "dividend",
-        "amount": 0.52
+        "amount": 0.052
       },
       {
         "date": "2015-11-12",
         "type": "dividend",
-        "amount": 0.52
+        "amount": 0.052
       },
       {
         "date": "2016-02-11",
         "type": "dividend",
-        "amount": 0.52
+        "amount": 0.052
       },
       {
         "date": "2016-05-12",
         "type": "dividend",
-        "amount": 0.52
+        "amount": 0.052
       },
       {
         "date": "2016-08-11",
         "type": "dividend",
-        "amount": 0.52
+        "amount": 0.052
       },
       {
         "date": "2016-11-10",
         "type": "dividend",
-        "amount": 0.54
+        "amount": 0.054
       },
       {
         "date": "2017-02-13",
         "type": "dividend",
-        "amount": 0.54
+        "amount": 0.054
       },
       {
         "date": "2017-05-11",
         "type": "dividend",
-        "amount": 0.54
+        "amount": 0.054
       },
       {
         "date": "2017-08-11",
         "type": "dividend",
-        "amount": 0.59
+        "amount": 0.059
       },
       {
         "date": "2017-11-14",
         "type": "dividend",
-        "amount": 0.59
+        "amount": 0.059
       },
       {
         "date": "2018-02-14",
         "type": "dividend",
-        "amount": 0.59
+        "amount": 0.059
       },
       {
         "date": "2018-05-14",
         "type": "dividend",
-        "amount": 0.75
+        "amount": 0.075
       },
       {
         "date": "2018-08-14",
         "type": "dividend",
-        "amount": 0.75
+        "amount": 0.075
       },
       {
         "date": "2018-11-15",
         "type": "dividend",
-        "amount": 0.75
+        "amount": 0.075
       },
       {
         "date": "2019-02-14",
         "type": "dividend",
-        "amount": 0.75
+        "amount": 0.075
       },
       {
         "date": "2019-05-14",
         "type": "dividend",
-        "amount": 0.75
+        "amount": 0.075
       },
       {
         "date": "2019-08-14",
         "type": "dividend",
-        "amount": 0.75
+        "amount": 0.075
       },
       {
         "date": "2019-11-15",
         "type": "dividend",
-        "amount": 0.85
+        "amount": 0.085
       },
       {
         "date": "2020-02-20",
         "type": "dividend",
-        "amount": 0.85
+        "amount": 0.085
       },
       {
         "date": "2020-05-15",
         "type": "dividend",
-        "amount": 0.85
+        "amount": 0.085
       },
       {
         "date": "2020-08-14",
         "type": "dividend",
-        "amount": 0.9
+        "amount": 0.09
       },
       {
         "date": "2020-11-13",
         "type": "dividend",
-        "amount": 0.9
+        "amount": 0.09
       },
       {
         "date": "2021-02-18",
         "type": "dividend",
-        "amount": 0.9
+        "amount": 0.09
       },
       {
         "date": "2021-05-14",
         "type": "dividend",
-        "amount": 0.9
+        "amount": 0.09
       },
       {
         "date": "2021-08-13",
         "type": "dividend",
-        "amount": 1.05
+        "amount": 0.105
       },
       {
         "date": "2021-11-12",
         "type": "dividend",
-        "amount": 1.05
+        "amount": 0.105
       },
       {
         "date": "2022-02-11",
         "type": "dividend",
-        "amount": 1.05
+        "amount": 0.105
       },
       {
         "date": "2022-05-13",
         "type": "dividend",
-        "amount": 1.05
+        "amount": 0.105
       },
       {
         "date": "2022-08-12",
         "type": "dividend",
-        "amount": 1.3
+        "amount": 0.13
       },
       {
         "date": "2022-11-14",
         "type": "dividend",
-        "amount": 1.3
+        "amount": 0.13
       },
       {
         "date": "2023-02-10",
         "type": "dividend",
-        "amount": 1.3
+        "amount": 0.13
       },
       {
         "date": "2023-05-12",
         "type": "dividend",
-        "amount": 1.3
+        "amount": 0.13
       },
       {
         "date": "2023-08-14",
         "type": "dividend",
-        "amount": 1.3
+        "amount": 0.13
       },
       {
         "date": "2023-11-14",
         "type": "dividend",
-        "amount": 1.45
+        "amount": 0.145
       },
       {
         "date": "2024-02-15",
         "type": "dividend",
-        "amount": 1.45
+        "amount": 0.145
       },
       {
         "date": "2024-05-14",
         "type": "dividend",
-        "amount": 1.45
+        "amount": 0.145
       },
       {
         "date": "2024-08-15",
         "type": "dividend",
-        "amount": 1.45
+        "amount": 0.145
       },
       {
         "date": "2024-11-18",
         "type": "dividend",
-        "amount": 1.7
+        "amount": 0.17
       },
       {
         "date": "2025-02-24",
         "type": "dividend",
-        "amount": 1.7
+        "amount": 0.17
       },
       {
         "date": "2025-05-19",
         "type": "dividend",
-        "amount": 1.9
+        "amount": 0.19
       },
       {
         "date": "2025-08-18",
         "type": "dividend",
-        "amount": 1.9
+        "amount": 0.19
       },
       {
         "date": "2025-11-17",
         "type": "dividend",
-        "amount": 1.9
+        "amount": 0.19
+      },
+      {
+        "date": "2026-02-17",
+        "type": "dividend",
+        "amount": 0.19
+      },
+      {
+        "date": "2026-05-18",
+        "type": "dividend",
+        "amount": 0.23
+      },
+      {
+        "date": "2026-06-12",
+        "type": "split",
+        "splitRatio": "10:1",
+        "numerator": 10,
+        "denominator": 1
       }
     ]
   },
@@ -4626,6 +4793,16 @@
         "date": "2026-01-02",
         "type": "dividend",
         "amount": 0.41
+      },
+      {
+        "date": "2026-04-02",
+        "type": "dividend",
+        "amount": 0.42
+      },
+      {
+        "date": "2026-07-06",
+        "type": "dividend",
+        "amount": 0.42
       }
     ]
   },
@@ -4871,6 +5048,16 @@
         "date": "2025-11-14",
         "type": "dividend",
         "amount": 0.5
+      },
+      {
+        "date": "2026-02-11",
+        "type": "dividend",
+        "amount": 0.5
+      },
+      {
+        "date": "2026-05-07",
+        "type": "dividend",
+        "amount": 0.5
       }
     ]
   },
@@ -5055,6 +5242,21 @@
         "date": "2025-10-28",
         "type": "dividend",
         "amount": 1.6
+      },
+      {
+        "date": "2026-02-09",
+        "type": "dividend",
+        "amount": 1.6
+      },
+      {
+        "date": "2026-04-24",
+        "type": "dividend",
+        "amount": 2.7
+      },
+      {
+        "date": "2026-07-27",
+        "type": "dividend",
+        "amount": 1.88
       }
     ]
   },
@@ -5133,6 +5335,11 @@
       },
       {
         "date": "2025-02-21",
+        "type": "dividend",
+        "amount": 0.35
+      },
+      {
+        "date": "2026-02-20",
         "type": "dividend",
         "amount": 0.35
       }
@@ -5500,6 +5707,16 @@
         "date": "2025-12-16",
         "type": "dividend",
         "amount": 0.09
+      },
+      {
+        "date": "2026-03-24",
+        "type": "dividend",
+        "amount": 0.09
+      },
+      {
+        "date": "2026-06-23",
+        "type": "dividend",
+        "amount": 0.09
       }
     ]
   },
@@ -5745,6 +5962,16 @@
       },
       {
         "date": "2025-12-03",
+        "type": "dividend",
+        "amount": 0.26
+      },
+      {
+        "date": "2026-03-04",
+        "type": "dividend",
+        "amount": 0.26
+      },
+      {
+        "date": "2026-06-17",
         "type": "dividend",
         "amount": 0.26
       }
@@ -6132,6 +6359,21 @@
         "date": "2025-10-31",
         "type": "dividend",
         "amount": 1.42
+      },
+      {
+        "date": "2026-01-30",
+        "type": "dividend",
+        "amount": 1.42
+      },
+      {
+        "date": "2026-05-05",
+        "type": "dividend",
+        "amount": 1.42
+      },
+      {
+        "date": "2026-07-31",
+        "type": "dividend",
+        "amount": 1.42
       }
     ]
   },
@@ -6377,6 +6619,16 @@
         "date": "2025-12-31",
         "type": "dividend",
         "amount": 1.56
+      },
+      {
+        "date": "2026-03-31",
+        "type": "dividend",
+        "amount": 2
+      },
+      {
+        "date": "2026-06-30",
+        "type": "dividend",
+        "amount": 2
       }
     ]
   },
@@ -6617,6 +6869,16 @@
         "date": "2025-11-24",
         "type": "dividend",
         "amount": 0.12
+      },
+      {
+        "date": "2026-02-13",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2026-05-21",
+        "type": "dividend",
+        "amount": 0.13
       }
     ]
   },
@@ -7009,6 +7271,16 @@
         "date": "2025-11-24",
         "type": "dividend",
         "amount": 0.455
+      },
+      {
+        "date": "2026-02-23",
+        "type": "dividend",
+        "amount": 0.455
+      },
+      {
+        "date": "2026-05-22",
+        "type": "dividend",
+        "amount": 0.455
       }
     ]
   },
@@ -7177,6 +7449,21 @@
       },
       {
         "date": "2025-10-29",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2026-01-28",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2026-04-29",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2026-07-29",
         "type": "dividend",
         "amount": 0.1
       }
@@ -7400,6 +7687,16 @@
         "date": "2025-12-11",
         "type": "dividend",
         "amount": 5.000011
+      },
+      {
+        "date": "2026-03-17",
+        "type": "dividend",
+        "amount": 6.000036
+      },
+      {
+        "date": "2026-06-11",
+        "type": "dividend",
+        "amount": 6.000036
       }
     ]
   },
@@ -7577,6 +7874,11 @@
         "date": "2025-07-02",
         "type": "dividend",
         "amount": 5.799984
+      },
+      {
+        "date": "2026-07-02",
+        "type": "dividend",
+        "amount": 7.171792
       }
     ]
   },
@@ -7720,6 +8022,11 @@
         "date": "2026-01-06",
         "type": "dividend",
         "amount": 29
+      },
+      {
+        "date": "2026-07-07",
+        "type": "dividend",
+        "amount": 24.500216
       }
     ]
   },
@@ -7841,6 +8148,11 @@
         "date": "2025-06-17",
         "type": "dividend",
         "amount": 7
+      },
+      {
+        "date": "2026-06-17",
+        "type": "dividend",
+        "amount": 11.6
       }
     ]
   },
@@ -7943,6 +8255,11 @@
         "date": "2025-07-04",
         "type": "dividend",
         "amount": 4.498203
+      },
+      {
+        "date": "2026-07-06",
+        "type": "dividend",
+        "amount": 4.473773
       }
     ]
   },
@@ -8064,6 +8381,11 @@
         "date": "2025-06-03",
         "type": "dividend",
         "amount": 16
+      },
+      {
+        "date": "2026-06-08",
+        "type": "dividend",
+        "amount": 20
       }
     ]
   },
@@ -8153,6 +8475,11 @@
         "date": "2025-06-24",
         "type": "dividend",
         "amount": 2.5
+      },
+      {
+        "date": "2026-06-24",
+        "type": "dividend",
+        "amount": 2.5
       }
     ]
   },
@@ -8183,6 +8510,11 @@
         "date": "2025-06-27",
         "type": "dividend",
         "amount": 2.997016
+      },
+      {
+        "date": "2026-06-26",
+        "type": "dividend",
+        "amount": 3
       }
     ]
   },
@@ -8292,6 +8624,11 @@
         "date": "2025-06-24",
         "type": "dividend",
         "amount": 2.850164
+      },
+      {
+        "date": "2026-07-08",
+        "type": "dividend",
+        "amount": 2.608083
       }
     ]
   },
@@ -8413,6 +8750,11 @@
         "date": "2025-07-09",
         "type": "dividend",
         "amount": 28
+      },
+      {
+        "date": "2026-07-13",
+        "type": "dividend",
+        "amount": 23
       }
     ]
   },
@@ -8608,6 +8950,11 @@
         "date": "2025-06-17",
         "type": "dividend",
         "amount": 3
+      },
+      {
+        "date": "2026-06-16",
+        "type": "dividend",
+        "amount": 1.8
       }
     ]
   },
@@ -8652,6 +8999,11 @@
         "date": "2025-06-20",
         "type": "dividend",
         "amount": 0.2
+      },
+      {
+        "date": "2026-06-22",
+        "type": "dividend",
+        "amount": 0.05
       }
     ]
   },
@@ -8858,6 +9210,11 @@
         "date": "2023-09-20",
         "type": "dividend",
         "amount": 0.981248
+      },
+      {
+        "date": "2026-03-27",
+        "type": "dividend",
+        "amount": 0.5
       }
     ]
   },
@@ -8934,6 +9291,11 @@
         "date": "2023-06-28",
         "type": "dividend",
         "amount": 2.130363
+      },
+      {
+        "date": "2026-07-07",
+        "type": "dividend",
+        "amount": 1.347149
       }
     ]
   },
@@ -9039,6 +9401,11 @@
         "date": "2025-07-04",
         "type": "dividend",
         "amount": 0.084
+      },
+      {
+        "date": "2026-05-18",
+        "type": "dividend",
+        "amount": 0.12
       }
     ]
   },
@@ -9101,6 +9468,11 @@
         "date": "2025-11-24",
         "type": "dividend",
         "amount": 0.4
+      },
+      {
+        "date": "2026-06-04",
+        "type": "dividend",
+        "amount": 0.1
       }
     ]
   },
@@ -9223,6 +9595,11 @@
         "date": "2025-04-16",
         "type": "dividend",
         "amount": 0.617
+      },
+      {
+        "date": "2026-07-29",
+        "type": "dividend",
+        "amount": 0.411
       }
     ]
   },
@@ -9238,6 +9615,11 @@
         "date": "2023-11-27",
         "type": "dividend",
         "amount": 0.49991
+      },
+      {
+        "date": "2026-05-22",
+        "type": "dividend",
+        "amount": 0.2
       }
     ]
   },
@@ -9258,6 +9640,11 @@
         "date": "2025-12-03",
         "type": "dividend",
         "amount": 0.125
+      },
+      {
+        "date": "2026-05-21",
+        "type": "dividend",
+        "amount": 0.88
       }
     ]
   },
@@ -9450,6 +9837,11 @@
         "date": "2025-09-29",
         "type": "dividend",
         "amount": 12.5
+      },
+      {
+        "date": "2026-03-30",
+        "type": "dividend",
+        "amount": 12.5
       }
     ]
   },
@@ -9463,6 +9855,11 @@
       },
       {
         "date": "2024-12-27",
+        "type": "dividend",
+        "amount": 28
+      },
+      {
+        "date": "2025-12-29",
         "type": "dividend",
         "amount": 28
       }
@@ -9505,6 +9902,11 @@
       },
       {
         "date": "2025-09-29",
+        "type": "dividend",
+        "amount": 25
+      },
+      {
+        "date": "2026-03-30",
         "type": "dividend",
         "amount": 25
       }
@@ -9666,7 +10068,7 @@
       {
         "date": "2021-03-30",
         "type": "dividend",
-        "amount": 105
+        "amount": 140.33333
       },
       {
         "date": "2021-09-29",
@@ -9719,6 +10121,11 @@
         "date": "2025-09-29",
         "type": "dividend",
         "amount": 264
+      },
+      {
+        "date": "2026-03-30",
+        "type": "dividend",
+        "amount": 364
       }
     ]
   },
@@ -10013,6 +10420,21 @@
         "date": "2025-09-29",
         "type": "dividend",
         "amount": 370
+      },
+      {
+        "date": "2025-12-29",
+        "type": "dividend",
+        "amount": 566
+      },
+      {
+        "date": "2026-03-30",
+        "type": "dividend",
+        "amount": 372
+      },
+      {
+        "date": "2026-06-29",
+        "type": "dividend",
+        "amount": 374
       }
     ]
   },
@@ -10153,6 +10575,16 @@
         "date": "2025-11-27",
         "type": "dividend",
         "amount": 375
+      },
+      {
+        "date": "2026-02-26",
+        "type": "dividend",
+        "amount": 1875
+      },
+      {
+        "date": "2026-05-28",
+        "type": "dividend",
+        "amount": 375
       }
     ]
   },
@@ -10235,6 +10667,11 @@
         "date": "2025-02-27",
         "type": "dividend",
         "amount": 2400
+      },
+      {
+        "date": "2026-02-26",
+        "type": "dividend",
+        "amount": 1500
       }
     ]
   }
