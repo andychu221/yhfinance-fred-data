@@ -1,4 +1,480 @@
 {
+  "MSFT.O": {
+    "name": "Microsoft",
+    "events": [
+      {
+        "date": "2007-02-13",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2007-05-15",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2007-08-14",
+        "type": "dividend",
+        "amount": 0.1
+      },
+      {
+        "date": "2007-11-13",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-02-19",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-05-13",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-08-19",
+        "type": "dividend",
+        "amount": 0.11
+      },
+      {
+        "date": "2008-11-18",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-02-17",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-05-19",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-08-18",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2009-11-17",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2010-02-16",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2010-05-18",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2010-08-17",
+        "type": "dividend",
+        "amount": 0.13
+      },
+      {
+        "date": "2010-11-16",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2011-02-15",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2011-05-17",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2011-08-16",
+        "type": "dividend",
+        "amount": 0.16
+      },
+      {
+        "date": "2011-11-15",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2012-02-14",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2012-05-15",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2012-08-14",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2012-11-13",
+        "type": "dividend",
+        "amount": 0.23
+      },
+      {
+        "date": "2013-02-19",
+        "type": "dividend",
+        "amount": 0.23
+      },
+      {
+        "date": "2013-05-14",
+        "type": "dividend",
+        "amount": 0.23
+      },
+      {
+        "date": "2013-08-13",
+        "type": "dividend",
+        "amount": 0.23
+      },
+      {
+        "date": "2013-11-19",
+        "type": "dividend",
+        "amount": 0.28
+      },
+      {
+        "date": "2014-02-18",
+        "type": "dividend",
+        "amount": 0.28
+      },
+      {
+        "date": "2014-05-13",
+        "type": "dividend",
+        "amount": 0.28
+      },
+      {
+        "date": "2014-08-19",
+        "type": "dividend",
+        "amount": 0.28
+      },
+      {
+        "date": "2014-11-18",
+        "type": "dividend",
+        "amount": 0.31
+      },
+      {
+        "date": "2015-02-17",
+        "type": "dividend",
+        "amount": 0.31
+      },
+      {
+        "date": "2015-05-19",
+        "type": "dividend",
+        "amount": 0.31
+      },
+      {
+        "date": "2015-08-18",
+        "type": "dividend",
+        "amount": 0.31
+      },
+      {
+        "date": "2015-11-17",
+        "type": "dividend",
+        "amount": 0.36
+      },
+      {
+        "date": "2016-02-16",
+        "type": "dividend",
+        "amount": 0.36
+      },
+      {
+        "date": "2016-05-17",
+        "type": "dividend",
+        "amount": 0.36
+      },
+      {
+        "date": "2016-08-16",
+        "type": "dividend",
+        "amount": 0.36
+      },
+      {
+        "date": "2016-11-15",
+        "type": "dividend",
+        "amount": 0.39
+      },
+      {
+        "date": "2017-02-14",
+        "type": "dividend",
+        "amount": 0.39
+      },
+      {
+        "date": "2017-05-16",
+        "type": "dividend",
+        "amount": 0.39
+      },
+      {
+        "date": "2017-08-15",
+        "type": "dividend",
+        "amount": 0.39
+      },
+      {
+        "date": "2017-11-15",
+        "type": "dividend",
+        "amount": 0.42
+      },
+      {
+        "date": "2018-02-14",
+        "type": "dividend",
+        "amount": 0.42
+      },
+      {
+        "date": "2018-05-16",
+        "type": "dividend",
+        "amount": 0.42
+      },
+      {
+        "date": "2018-08-15",
+        "type": "dividend",
+        "amount": 0.42
+      },
+      {
+        "date": "2018-11-14",
+        "type": "dividend",
+        "amount": 0.46
+      },
+      {
+        "date": "2019-02-20",
+        "type": "dividend",
+        "amount": 0.46
+      },
+      {
+        "date": "2019-05-15",
+        "type": "dividend",
+        "amount": 0.46
+      },
+      {
+        "date": "2019-08-14",
+        "type": "dividend",
+        "amount": 0.46
+      },
+      {
+        "date": "2019-11-20",
+        "type": "dividend",
+        "amount": 0.51
+      },
+      {
+        "date": "2020-02-19",
+        "type": "dividend",
+        "amount": 0.51
+      },
+      {
+        "date": "2020-05-20",
+        "type": "dividend",
+        "amount": 0.51
+      },
+      {
+        "date": "2020-08-19",
+        "type": "dividend",
+        "amount": 0.51
+      },
+      {
+        "date": "2020-11-18",
+        "type": "dividend",
+        "amount": 0.56
+      },
+      {
+        "date": "2021-02-17",
+        "type": "dividend",
+        "amount": 0.56
+      },
+      {
+        "date": "2021-05-19",
+        "type": "dividend",
+        "amount": 0.56
+      },
+      {
+        "date": "2021-08-18",
+        "type": "dividend",
+        "amount": 0.56
+      },
+      {
+        "date": "2021-11-17",
+        "type": "dividend",
+        "amount": 0.62
+      },
+      {
+        "date": "2022-02-16",
+        "type": "dividend",
+        "amount": 0.62
+      },
+      {
+        "date": "2022-05-18",
+        "type": "dividend",
+        "amount": 0.62
+      },
+      {
+        "date": "2022-08-17",
+        "type": "dividend",
+        "amount": 0.62
+      },
+      {
+        "date": "2022-11-16",
+        "type": "dividend",
+        "amount": 0.68
+      },
+      {
+        "date": "2023-02-15",
+        "type": "dividend",
+        "amount": 0.68
+      },
+      {
+        "date": "2023-05-17",
+        "type": "dividend",
+        "amount": 0.68
+      },
+      {
+        "date": "2023-08-16",
+        "type": "dividend",
+        "amount": 0.68
+      },
+      {
+        "date": "2023-11-15",
+        "type": "dividend",
+        "amount": 0.75
+      },
+      {
+        "date": "2024-02-14",
+        "type": "dividend",
+        "amount": 0.75
+      },
+      {
+        "date": "2024-05-15",
+        "type": "dividend",
+        "amount": 0.75
+      },
+      {
+        "date": "2024-08-15",
+        "type": "dividend",
+        "amount": 0.75
+      },
+      {
+        "date": "2024-11-21",
+        "type": "dividend",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-02-20",
+        "type": "dividend",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-05-15",
+        "type": "dividend",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-08-21",
+        "type": "dividend",
+        "amount": 0.83
+      },
+      {
+        "date": "2025-11-20",
+        "type": "dividend",
+        "amount": 0.91
+      },
+      {
+        "date": "2026-02-19",
+        "type": "dividend",
+        "amount": 0.91
+      },
+      {
+        "date": "2026-05-21",
+        "type": "dividend",
+        "amount": 0.91
+      },
+      {
+        "date": "2026-08-20",
+        "type": "dividend",
+        "amount": 0.91
+      }
+    ]
+  },
+  "GOOGL.O": {
+    "name": "Google",
+    "events": [
+      {
+        "date": "2014-04-03",
+        "type": "split",
+        "splitRatio": "1998:1000",
+        "numerator": 1998,
+        "denominator": 1000
+      },
+      {
+        "date": "2022-07-18",
+        "type": "split",
+        "splitRatio": "20:1",
+        "numerator": 20,
+        "denominator": 1
+      },
+      {
+        "date": "2024-06-10",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2024-09-09",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2024-12-09",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2025-03-10",
+        "type": "dividend",
+        "amount": 0.2
+      },
+      {
+        "date": "2025-06-09",
+        "type": "dividend",
+        "amount": 0.21
+      },
+      {
+        "date": "2025-09-08",
+        "type": "dividend",
+        "amount": 0.21
+      },
+      {
+        "date": "2025-12-08",
+        "type": "dividend",
+        "amount": 0.21
+      },
+      {
+        "date": "2026-03-09",
+        "type": "dividend",
+        "amount": 0.21
+      },
+      {
+        "date": "2026-06-08",
+        "type": "dividend",
+        "amount": 0.22
+      }
+    ]
+  },
+  "AMZN.O": {
+    "name": "Amazon",
+    "events": [
+      {
+        "date": "2022-06-06",
+        "type": "split",
+        "splitRatio": "20:1",
+        "numerator": 20,
+        "denominator": 1
+      }
+    ]
+  },
   "AAPL.O": {
     "name": "Apple",
     "events": [
