@@ -1,1 +1,452 @@
-
+[
+    {
+        "Date": "2026-09-02",
+        "Event": "ADP National Employment",
+        "Event_Time": "20:15",
+        "Period": "Aug",
+        "Actual": "38",
+        "Expectation": "",
+        "Prior": "44",
+        "Revised": "46"
+    },
+    {
+        "Date": "2026-09-02",
+        "Event": "Durable Goods, R MM",
+        "Event_Time": "22:00",
+        "Period": "Jul",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-02",
+        "Event": "Factory Orders MM",
+        "Event_Time": "22:00",
+        "Period": "Jul",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-0.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "Initial Jobless Clm *",
+        "Event_Time": "20:30",
+        "Period": "",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "203",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "Jobless Clm 4Wk Avg *",
+        "Event_Time": "20:30",
+        "Period": "",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "205.5",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "International Trade $",
+        "Event_Time": "20:30",
+        "Period": "Jul",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-73.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "Productivity Revised",
+        "Event_Time": "20:30",
+        "Period": "Q2",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "Cont Jobless Clm *",
+        "Event_Time": "20:30",
+        "Period": "",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.78",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "Unit Labor Costs Revised",
+        "Event_Time": "20:30",
+        "Period": "Q2",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "ISM N-Mfg New Orders Idx",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "57.2",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "ISM N-Mfg Employment Idx",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "47.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "ISM N-Mfg PMI",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "54.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "ISM N-Mfg Bus Act",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "59.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-04",
+        "Event": "Non-Farm Payrolls",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-23",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-04",
+        "Event": "Private Payrolls",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "30",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-04",
+        "Event": "Unemployment Rate",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "4.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-04",
+        "Event": "Average Earnings MM",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-04",
+        "Event": "Average Workweek Hrs",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "34.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "PPI exFood/Energy YY",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "4.2",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "PPI ex Food/Energy/Tr MM",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "PPI ex Food/Energy/Tr YY",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "4.7",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "PPI Final Demand YY",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "4.7",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "PPI exFood/Energy MM",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.2",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "PPI Final Demand MM",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-10",
+        "Event": "Existing Home Sales",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "4.06",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "Core CPI MM, SA",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.2",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "Core CPI YY, NSA",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "2.5",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "CPI MM, SA",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "Core CPI Index, SA*",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "336.79",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "CPI YY, NSA",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "3.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "CPI Index, NSA",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "333.92",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "U Mich Sentiment Prelim",
+        "Event_Time": "22:00",
+        "Period": "Sep",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "51.7",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "U Mich Expectations Prelim",
+        "Event_Time": "22:00",
+        "Period": "Sep",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "51.5",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "Cleveland Fed CPI*",
+        "Event_Time": "23:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-12",
+        "Event": "Federal Budget,$",
+        "Event_Time": "02:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-432",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-15",
+        "Event": "NY Fed Manufacturing*",
+        "Event_Time": "20:30",
+        "Period": "Sep",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "20.6",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-16",
+        "Event": "Retail Sales Ex-Autos MM",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-0.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-16",
+        "Event": "Retail Control",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-0.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-16",
+        "Event": "Retail Sales MM",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "-0.6",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-17",
+        "Event": "Building Permits: Number",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.43",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-17",
+        "Event": "Housing Starts Number",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.24",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-17",
+        "Event": "Philly Fed Business Indx*",
+        "Event_Time": "20:30",
+        "Period": "Sep",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "47.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-17",
+        "Event": "Pending Homes Index",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "71.2",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-18",
+        "Event": "Capacity Utilization SA*",
+        "Event_Time": "21:15",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "76.3",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-18",
+        "Event": "Industrial Production MM*",
+        "Event_Time": "21:15",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "0.2",
+        "Revised": ""
+    }
+]
