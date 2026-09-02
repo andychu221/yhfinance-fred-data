@@ -14,7 +14,7 @@
         "Event": "Durable Goods, R MM",
         "Event_Time": "22:00",
         "Period": "Jul",
-        "Actual": "",
+        "Actual": "1.1",
         "Expectation": "",
         "Prior": "1.1",
         "Revised": ""
@@ -24,10 +24,10 @@
         "Event": "Factory Orders MM",
         "Event_Time": "22:00",
         "Period": "Jul",
-        "Actual": "",
+        "Actual": "0.9",
         "Expectation": "",
         "Prior": "-0.3",
-        "Revised": ""
+        "Revised": "-0.2"
     },
     {
         "Date": "2026-09-03",
@@ -61,16 +61,6 @@
     },
     {
         "Date": "2026-09-03",
-        "Event": "Productivity Revised",
-        "Event_Time": "20:30",
-        "Period": "Q2",
-        "Actual": "",
-        "Expectation": "",
-        "Prior": "1.4",
-        "Revised": ""
-    },
-    {
-        "Date": "2026-09-03",
         "Event": "Cont Jobless Clm *",
         "Event_Time": "20:30",
         "Period": "",
@@ -91,12 +81,12 @@
     },
     {
         "Date": "2026-09-03",
-        "Event": "ISM N-Mfg New Orders Idx",
-        "Event_Time": "22:00",
-        "Period": "Aug",
+        "Event": "Productivity Revised",
+        "Event_Time": "20:30",
+        "Period": "Q2",
         "Actual": "",
         "Expectation": "",
-        "Prior": "57.2",
+        "Prior": "1.4",
         "Revised": ""
     },
     {
@@ -127,6 +117,16 @@
         "Actual": "",
         "Expectation": "",
         "Prior": "59.1",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-03",
+        "Event": "ISM N-Mfg New Orders Idx",
+        "Event_Time": "22:00",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "57.2",
         "Revised": ""
     },
     {
@@ -281,22 +281,22 @@
     },
     {
         "Date": "2026-09-11",
-        "Event": "Core CPI Index, SA*",
-        "Event_Time": "20:30",
-        "Period": "Aug",
-        "Actual": "",
-        "Expectation": "",
-        "Prior": "336.79",
-        "Revised": ""
-    },
-    {
-        "Date": "2026-09-11",
         "Event": "CPI YY, NSA",
         "Event_Time": "20:30",
         "Period": "Aug",
         "Actual": "",
         "Expectation": "",
         "Prior": "3.4",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-11",
+        "Event": "Core CPI Index, SA*",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "336.79",
         "Revised": ""
     },
     {
@@ -391,22 +391,22 @@
     },
     {
         "Date": "2026-09-17",
-        "Event": "Building Permits: Number",
-        "Event_Time": "20:30",
-        "Period": "Aug",
-        "Actual": "",
-        "Expectation": "",
-        "Prior": "1.43",
-        "Revised": ""
-    },
-    {
-        "Date": "2026-09-17",
         "Event": "Housing Starts Number",
         "Event_Time": "20:30",
         "Period": "Aug",
         "Actual": "",
         "Expectation": "",
         "Prior": "1.24",
+        "Revised": ""
+    },
+    {
+        "Date": "2026-09-17",
+        "Event": "Building Permits: Number",
+        "Event_Time": "20:30",
+        "Period": "Aug",
+        "Actual": "",
+        "Expectation": "",
+        "Prior": "1.43",
         "Revised": ""
     },
     {
