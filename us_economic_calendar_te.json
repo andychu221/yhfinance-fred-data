@@ -1,17 +1,5 @@
 [
   {
-    "Date": "2026-08-03",
-    "Event_Time": "22:00",
-    "Country": "United States",
-    "Event": "ISM Manufacturing PMI",
-    "Period": "JUL",
-    "Importance": 3,
-    "Actual": "55.6",
-    "Expectation": "54",
-    "Prior": "53.3",
-    "Forecast": "53.7"
-  },
-  {
     "Date": "2026-08-04",
     "Event_Time": "22:00",
     "Country": "United States",
@@ -306,7 +294,7 @@
     "Event": "ISM Services PMI",
     "Period": "AUG",
     "Importance": 3,
-    "Actual": "",
+    "Actual": "55.4",
     "Expectation": "54.3",
     "Prior": "54.1",
     "Forecast": "54"
@@ -608,7 +596,7 @@
     "Importance": 3,
     "Actual": "",
     "Expectation": "",
-    "Prior": "",
+    "Prior": "55.4",
     "Forecast": "54"
   },
   {
