@@ -460,6 +460,11 @@
         "date": "2026-06-08",
         "type": "dividend",
         "amount": 0.22
+      },
+      {
+        "date": "2026-09-04",
+        "type": "dividend",
+        "amount": 0.22
       }
     ]
   },
@@ -1871,6 +1876,11 @@
       },
       {
         "date": "2026-06-04",
+        "type": "dividend",
+        "amount": 0.92
+      },
+      {
+        "date": "2026-09-03",
         "type": "dividend",
         "amount": 0.92
       }
@@ -3694,6 +3704,11 @@
       },
       {
         "date": "2026-06-02",
+        "type": "dividend",
+        "amount": 1.1
+      },
+      {
+        "date": "2026-09-01",
         "type": "dividend",
         "amount": 1.1
       }
@@ -6904,6 +6919,11 @@
         "date": "2026-05-21",
         "type": "dividend",
         "amount": 0.13
+      },
+      {
+        "date": "2026-09-04",
+        "type": "dividend",
+        "amount": 0.13
       }
     ]
   },
@@ -8845,6 +8865,11 @@
         "date": "2025-09-02",
         "type": "dividend",
         "amount": 36.736717
+      },
+      {
+        "date": "2026-09-03",
+        "type": "dividend",
+        "amount": 32.55166
       }
     ]
   },
